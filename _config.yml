@@ -1,14 +1,12 @@
-title: Your awesome title
+title: ... a stubbornly persistent illusion.
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Andrew James Steinmetz
+  email: ajsteinmetz@arizona.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  My personal website with thoughts on math and physics.
 
 # Build settings
 
@@ -57,7 +55,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: solarized
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
