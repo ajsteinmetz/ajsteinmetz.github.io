@@ -15,5 +15,3 @@
 * Rafelski, J., Formanek, M. & 🌟Steinmetz, A. <i>Eur. Phys. J. C</i> 78 (2018): 1-12. <a href="https://doi.org/10.1140/epjc/s10052-017-5493-2">10.1140/epjc/s10052-017-5493-2</a>
 
 🔗 Linked names lead to the GitHub repository for that publication.
-
-Back to main page: [https://ajsteinmetz.github.io/](https://ajsteinmetz.github.io/)
