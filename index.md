@@ -6,7 +6,7 @@ Hi, I'm **Andrew James Steinmetz!** Welcome to my personal website where I share
 
 ## Recent Projects
 
-### [Quarks to Cosmos: Particles and Plasma in Cosmological Evolution](https://github.com/ajsteinmetz/ajsteinmetz.github.io/blob/main/recent_project1.md)
+### [Quarks to Cosmos: Particles and Plasma in Cosmological Evolution](https://github.com/ajsteinmetz/thesis-collab-project)
 
 We describe in the context of the particle physics (PP) standard model (SM) 'PP-SM' the understanding of the primordial properties and composition of the Universe in the temperature range 130 GeV > T > 20 keV.
 
