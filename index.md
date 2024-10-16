@@ -6,8 +6,7 @@ Hi, I'm **Andrew James Steinmetz!** Welcome to my personal website where I share
 
 ## Recent Projects
 
-* [Quarks to Cosmos: Particles and Plasma in Cosmological Evolution](https://github.com/ajsteinmetz/thesis-collab-project) - We describe in the context of the particle physics (PP) standard model (SM) 'PP-SM' the understanding of the primordial properties and composition of the Universe in the temperature range 130 GeV > T > 20 keV.
-
+* [Quarks to Cosmos: Particles and Plasma in Cosmological Evolution](https://github.com/ajsteinmetz/thesis-collab-project) - We describe in the the understanding of the primordial properties and composition of the Universe in the temperature range 130 GeV > T > 20 keV.
 * [Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion](https://github.com/ajsteinmetz/fermi-distribution) - We characterize in a novel manner the physical properties of the low temperature Fermi gas in the degenerate domain as a function of temperature and chemical potential.
 
 ## Recent Publications
