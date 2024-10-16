@@ -29,7 +29,8 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - about.md
+  - index.md
+  - publications.md
 relative_links:
   enabled: true
   collections: true
