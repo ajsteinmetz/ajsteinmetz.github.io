@@ -20,6 +20,7 @@ theme: minima
 
 plugins:
   - jekyll-relative-links
+  - jekyll-titles-from-headings
   - jekyll-feed
   - jekyll-seo-tag
 
@@ -41,6 +42,10 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
