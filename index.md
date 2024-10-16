@@ -6,17 +6,9 @@ Hi, I'm **Andrew James Steinmetz!** Welcome to my personal website where I share
 
 ## Recent Projects
 
-### [Quarks to Cosmos: Particles and Plasma in Cosmological Evolution](https://github.com/ajsteinmetz/thesis-collab-project)
+* [Quarks to Cosmos: Particles and Plasma in Cosmological Evolution](https://github.com/ajsteinmetz/thesis-collab-project) - We describe in the context of the particle physics (PP) standard model (SM) 'PP-SM' the understanding of the primordial properties and composition of the Universe in the temperature range 130 GeV > T > 20 keV.
 
-We describe in the context of the particle physics (PP) standard model (SM) 'PP-SM' the understanding of the primordial properties and composition of the Universe in the temperature range 130 GeV > T > 20 keV.
-
-![The magnetization of electron-positron plasma as a function of electron g-factor.](https://raw.githubusercontent.com/ajsteinmetz/thesis-collab-project/refs/heads/main/art/gfac.png)
-
-The magnetization of e<sup>+</sup>e<sup>-</sup> plasma as a function of electron g-factor plotted for several temperatures with magnetic scale b<sub>0</sub>=10<sup>-3</sup> and polarization fugacity ξ=1. Image reprinted from Steinmetz, A. Modern topics in relativistic spin dynamics and magnetism. PhD dissertation. University of Arizona, 2023. [arXiv:2310.07193](https://arxiv.org/abs/2310.07193) HDL: [10150/670301](http://hdl.handle.net/10150/670301).
-
-### [Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion](https://github.com/ajsteinmetz/fermi-distribution)
-
-We characterize in a novel manner the physical properties of the low temperature Fermi gas in the degenerate domain as a function of temperature and chemical potential.
+* [Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion](https://github.com/ajsteinmetz/fermi-distribution) - We characterize in a novel manner the physical properties of the low temperature Fermi gas in the degenerate domain as a function of temperature and chemical potential.
 
 ## Recent Publications
 
@@ -25,21 +17,3 @@ We characterize in a novel manner the physical properties of the low temperature
 * 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-ajsteinmetz) Doctoral dissertation. University of Arizona, 2023. [HDL:10150/670301](http://hdl.handle.net/10150/670301)
 
 For a full list of publications, [visit this link](https://ajsteinmetz.github.io/publications.md).
-
-## Contact
-
-Feel free to reach out via [GitHub](https://github.com/ajsteinmetz) for collaboration or any questions.
-
-## More Links ⛓
-
-🔗 <a
-  id="cy-effective-orcid-url"
-  class="underline"
-  href="https://orcid.org/0000-0001-5474-2649"
-  target="orcid.widget"
-  rel="me noopener noreferrer"
-  style="vertical-align: top">
-  <img
-    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-    style="width: 1em; margin-inline-start: 0.5em"
-    alt="ORCID iD icon"/> ORCID</a> 🔗 [arXiv](https://arxiv.org/a/steinmetz_a_1.html) 🔗 [AstroBin](https://www.astrobin.com/users/djinn/) 🔗 [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/) 🔗 [My Erdős number is 5.](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017)
