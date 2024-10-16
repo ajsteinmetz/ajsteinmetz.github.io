@@ -6,7 +6,7 @@ Hi, I'm **Andrew James Steinmetz!** Welcome to my personal website where I share
 
 ## Recent Projects
 
-### [Quarks to Cosmos: Particles and Plasma in Cosmological Evolution](https://github.com/ajsteinmetz/thesis-collab-project)
+### [Quarks to Cosmos: Particles and Plasma in Cosmological Evolution](https://github.com/ajsteinmetz/thesis-collab-project/blob/main/README.md)
 
 We describe in the context of the particle physics (PP) standard model (SM) 'PP-SM' the understanding of the primordial properties and composition of the Universe in the temperature range 130 GeV > T > 20 keV.
 
@@ -24,7 +24,7 @@ We characterize in a novel manner the physical properties of the low temperature
 * Birrell, J., Formanek, M., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/fermi-distribution), Yang, C. T., Rafelski, J. _Int J Theor Phys_ 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
 * 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-ajsteinmetz) Doctoral dissertation. University of Arizona, 2023. [HDL:10150/670301](http://hdl.handle.net/10150/670301)
 
-For a full list of publications, [visit this link](https://ajsteinmetz.github.io/publications.html).
+For a full list of publications, [visit this link](https://ajsteinmetz.github.io/publications.md).
 
 ## Contact
 
