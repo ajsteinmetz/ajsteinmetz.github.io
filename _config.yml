@@ -20,7 +20,6 @@ theme: minima
 
 plugins:
   - jekyll-relative-links
-  - jekyll-remote-include
   - jekyll-titles-from-headings
   - jekyll-feed
   - jekyll-seo-tag
