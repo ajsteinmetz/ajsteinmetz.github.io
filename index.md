@@ -6,7 +6,7 @@ Hi, I'm [**Andrew James Steinmetz!**](https://orcid.org/0000-0001-5474-2649) ! W
 
 I'm a **Global Professor** in the Department of Physics at The University of Arizona, with a role at the **Arizona College of Technology** at the **Hebei University of Technology**. My work focuses on ⚛ quantum mechanics, 🌌 cosmology, and 🧲 electromagnetism.
 
-🔗 [**GitHub:ajsteinmetz**](https://github.com/ajsteinmetz) 🔗 [**INSPIRE-HEP Profile**](https://inspirehep.net/authors/1796313) 🔗 [**Google Scholar Profile**](https://scholar.google.com/citations?user=fJBK1GIAAAAJ) 🔗 [**University of Arizona Profile**](https://w3.physics.arizona.edu/person/andrew-steinmetz)
+🔗 [**GitHub**](https://github.com/ajsteinmetz) 🔗 [**INSPIRE-HEP**](https://inspirehep.net/authors/1796313) 🔗 [**Google Scholar**](https://scholar.google.com/citations?user=fJBK1GIAAAAJ) 🔗 [**University of Arizona Profile**](https://w3.physics.arizona.edu/person/andrew-steinmetz)
 
 ## Recent Projects
 
