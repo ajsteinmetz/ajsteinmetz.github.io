@@ -6,9 +6,9 @@ categories: physics
 
 A single graviton? Almost certainly no. Here's the relevant literature that addresses this question:
 
-* Rothman, Tony, and Stephen Boughn. "Can gravitons be detected?." Foundations of Physics 36 (2006): 1801-1825. arXiv: [gr-qc/0601043](https://arxiv.org/abs/gr-qc/0601043)
+* Rothman, Tony, and Stephen Boughn. "Can gravitons be detected?." Foundations of Physics 36 (2006): 1801-1825. [arXiv:gr-qc/0601043](https://arxiv.org/abs/gr-qc/0601043)
 
-* Dyson, Freeman. "Is a graviton detectable?." International Journal of Modern Physics A 28.25 (2013): 1330041. doi: [10.1142/S0217751X1330041X](https://doi.org/10.1142/S0217751X1330041X)
+* Dyson, Freeman. "Is a graviton detectable?." International Journal of Modern Physics A 28.25 (2013): 1330041. [doi:10.1142/S0217751X1330041X](https://doi.org/10.1142/S0217751X1330041X)
 
 There's a pretty funny irony that the main difficulty of detecting gravitons even if you could build a fantastical detector the size of Jupiter (as Dyson discusses), your signal would be basically impossible to separate from the neutrino background -- a famously weakly interacting particle.
 
@@ -22,4 +22,4 @@ Rothman and Boughn's prognosis are pretty clear:
 
 And here's a pretty recent paper tackling the issue (though I haven't read it yet!) from an optics perspective:
 
-* Carney, Daniel, Valerie Domcke, and Nicholas L. Rodd. "Graviton detection and the quantization of gravity." arXiv preprint arXiv:2308.12988 (2023). arXiv:[2308.12988](https://arxiv.org/abs/2308.12988)
+* Carney, Daniel, Valerie Domcke, and Nicholas L. Rodd. "Graviton detection and the quantization of gravity." arXiv preprint arXiv:2308.12988 (2023). [arXiv:2308.12988](https://arxiv.org/abs/2308.12988)
