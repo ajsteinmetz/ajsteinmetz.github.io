@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm **Andrew James Steinmetz!** Welcome to my personal website where I share my projects, blogs, and research in physics. I'm a **Global Professor** in the Department of Physics at The University of Arizona, with a role at the Arizona College of Technology at the Hebei University of Technology in Tianjin, China. My work focuses on ⚛ quantum mechanics, 🌌 cosmology, and 🧲 electromagnetism.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+🔗 [GitHub](https://github.com/ajsteinmetz) 🔗 [INSPIRE-HEP](https://inspirehep.net/authors/1796313) 🔗 [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ) 🔗 [Arizona U.](https://w3.physics.arizona.edu/person/andrew-steinmetz)
