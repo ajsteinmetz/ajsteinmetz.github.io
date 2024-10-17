@@ -10,4 +10,4 @@ Hi, I'm **Andrew James Steinmetz!** Welcome to my personal website where I share
 * Birrell, J., Formanek, M., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/fermi-distribution), Yang, C. T., Rafelski, J. _Int J Theor Phys_ 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
 * 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-ajsteinmetz) Doctoral dissertation. University of Arizona, 2023. [HDL:10150/670301](http://hdl.handle.net/10150/670301)
 
-Linked names lead to the companion GitHub repository. For a full list of publications, [visit this link](https://ajsteinmetz.github.io/publications.html).
+🔗 Linked to publications and GitHub projects are provided. For a full list of publications, [visit this link](https://ajsteinmetz.github.io/publications.html).
