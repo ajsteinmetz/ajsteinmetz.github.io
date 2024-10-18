@@ -18,13 +18,13 @@ _The following is based in part on:_
 
 ## Compton scattering
 
-To demonstrate why the graviton is so difficult to measure, let's first look at the Compton scattering differential cross-section $d\sigma/d\Omega$, which involves the scattering of a photon $\gamma$ off an electron $e^{-}$.
+To demonstrate why the graviton is so difficult to measure, let's first look at the Compton scattering differential cross-section $d\sigma/d\Omega$. This involves the scattering of a photon $\gamma$ off an electron $e^{-}$ given by
 
 $$
 \gamma(\lambda) + e^{-}(p) \rightarrow \gamma(\lambda') + e^{-}(p'),
 $$
 
-where $\lambda$ is the photon's wavelength and $p$ is the electron's momentum. The final wavelength and momentum after scattering are denoted by primes. The likelihood of scattering is given by the Klein-Nishina formula:
+where $\lambda$ is the photon's wavelength and $p$ is the electron's momentum. The final wavelength and momentum after scattering are denoted by primes. The likelihood of scattering is given by the Klein-Nishina formula
 
 $$
 \frac{d\sigma}{d\Omega} = \frac{\alpha^{2}\hbar^{2}}{2m_{e}^{2}c^{2}}\left(\frac{\lambda}{\lambda'}\right)^{2}\left(\frac{\lambda}{\lambda'}+\frac{\lambda'}{\lambda}-\sin^{2}\theta\right).
@@ -62,7 +62,7 @@ which is a rather astonishing reduction! To some extent, we should not be surpri
 
 ## Electrogravitational conversion
 
-The ratio $10^{85}$ of electromagnetic-to-gravitational scattering might seem insurmountable, but there is another process that has a much higher cross-section. This process is called "electrogravitational conversion," which is the transmutation of a graviton into a photon via collision with an electron:
+The ratio $10^{85}$ of electromagnetic-to-gravitational scattering might seem insurmountable, but there is another process that has a much higher cross-section. This process is called "electrogravitational conversion," which is the transmutation of a graviton into a photon via collision with an electron. Schematically we write
 
 $$
 G(\lambda) + e^{-}(p) \rightarrow \gamma(\lambda') + e^{-}(p').
@@ -88,7 +88,7 @@ Even if future humanity attempts such a feat, there are further difficulties tha
 
 > "A shield should be thicker than the mean-free-path for neutrinos, which for materials of ordinary density amounts to light years. Such a shield would collapse into a black hole. Unless one can find another way to discriminate against neutrinos, this appears to make detection of thermal gravitons impossible."
 
-Rothman and Boughn's prognosis is pretty clear:
+Rothman and Boughn's prognosis is also pretty clear:
 
 > "Certainly, if a 'no graviton' law appears elusive, we do feel entitled to predict that no one will ever detect one in our universe."
 
