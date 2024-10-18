@@ -1,7 +1,7 @@
 ---
 
 layout: post  
-title: "Why is $E = mc^2$ and not $E = (1/2)mv^2$ like Kinetic Energy?"  
+title: "Why E=mc^2 and not E=(1/2)mc^2?"  
 categories: physics
 
 ---
@@ -76,6 +76,6 @@ $$
 
 This shows us that the familiar 1/2 factor in kinetic energy naturally arises from the relativistic energy equation when considering low velocities. In this nonrelativistic limit, the equations of special relativity seamlessly transition into those of classical Newtonian mechanics.
 
-<i>This post is based on a reddit comment I wrote in 2019.</i>
+_This post is based on a reddit comment I wrote in 2019._
 
 ---
