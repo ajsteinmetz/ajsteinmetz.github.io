@@ -1,8 +1,8 @@
 ## C.V. 📄
 
 ### Andrew James Steinmetz
-* Email: ajsteinmetz@arizona.edu
-* Website: https://ajsteinmetz.github.io/
+* Email: <a href="mailto:ajsteinmetz@arizona.edu">ajsteinmetz@arizona.edu</a>
+* Website: [https://ajsteinmetz.github.io/](https://ajsteinmetz.github.io/)
 * ORCID: <a
   id="cy-effective-orcid-url"
   class="underline"
