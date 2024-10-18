@@ -32,7 +32,7 @@ header_pages:
   - index.md
   - publications.md
   - cv.md
-  - about.md
+#  - about.md
 relative_links:
   enabled: true
   collections: true
@@ -71,11 +71,11 @@ minima:
   #date_format: "%b-%d-%Y"
 
   # Generate social links in footer.
-  social_links:
-    - { platform: github,         user_url: "https://github.com/ajsteinmetz" }
-    - { platform: orcid,          user_url: "https://orcid.org/0000-0001-5474-2649" } 
-    - { platform: arxiv,          user_url: "https://arxiv.org/a/steinmetz_a_1.html" } 
-    - { platform: astrobin,       user_url: "https://www.astrobin.com/users/djinn/" } 
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=fJBK1GIAAAAJ" }
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/ajsteinmetz/" }
+#  social_links:
+#    - { platform: github,         user_url: "https://github.com/ajsteinmetz" }
+#    - { platform: orcid,          user_url: "https://orcid.org/0000-0001-5474-2649" } 
+#    - { platform: arxiv,          user_url: "https://arxiv.org/a/steinmetz_a_1.html" } 
+#    - { platform: astrobin,       user_url: "https://www.astrobin.com/users/djinn/" } 
+#    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=fJBK1GIAAAAJ" }
+#    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/ajsteinmetz/" }
 
