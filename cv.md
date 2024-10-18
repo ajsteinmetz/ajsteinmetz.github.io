@@ -48,3 +48,18 @@
 * Rafelski, J., Formanek, M. & Steinmetz, A. <i>Eur. Phys. J. C</i> 78 (2018): 1-12. <a href="https://doi.org/10.1140/epjc/s10052-017-5493-2">10.1140/epjc/s10052-017-5493-2</a>
 
 Linked to publications and GitHub projects, if available, are provided.
+
+### Teaching
+
+* PHYS 382 (UA) - Methods in Experimental Physics II  
+* PHYS 381 (UA) - Methods in Experimental Physics I  
+* PHYS 321 (UA) - Theoretical Mechanics  
+* PHYS 240 (UA) - Introductory Electricity & Magnetism  
+*	PHY 216IN (PCC) - Introductory Electricity & Magnetism  
+*	PHY 122IN (PCC) - Introductory Physics II  
+*	PHY 121IN (PCC) - Introductory Physics I  
+*	AST 101IN (PCC) - The Solar System  
+
+IN = Integrated lecture and laboratory course  
+UA = University of Arizona  
+PCC = Pima Community College  
