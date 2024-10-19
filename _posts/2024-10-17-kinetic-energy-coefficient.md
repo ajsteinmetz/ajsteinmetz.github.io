@@ -8,13 +8,13 @@ categories: physics
 
 It's easy to notice that the famous equation $E = mc^2$ is similar to the classical expression for kinetic energy $T = \frac{1}{2}mv^2$. Both are proportional to mass, and both have a "speed" (c or v) which is squared. That they are alike might prompt the question: why doesn't Einstein's equation include the factor of 1/2 like kinetic energy does? Did Einstein overlook this factor?
 
-## Understanding Rest Energy vs. Kinetic Energy
+## Understanding rest energy vs. kinetic energy
 
 First, it's important to recognize that $E = mc^2$ represents the **rest energy** of an object—the energy due to its mass when it is not in motion. In contrast, $T = \frac{1}{2}mv^2$ describes the kinetic energy arising from an object's motion in classical (nonrelativistic) mechanics.
 
 Einstein didn't forget the 1/2; rather, his equation is included within a more comprehensive relationship between energy, mass, and momentum. To see how the kinetic energy term with the 1/2 factor emerges, let's delve into the full relativistic energy-momentum relation.
 
-## The Relativistic Energy-Momentum Relation
+## The relativistic energy-momentum relation
 
 In special relativity, the total energy $E$ and momentum $p$ of an object with rest mass $m$ are connected through the equation
 
@@ -34,9 +34,13 @@ $$
 E = mc^2,
 $$
 
-which is the well-known rest energy formula.
+which is the well-known rest energy formula. As an aside, if $m=0$, then we get the expression for the energy for massless particles such as the photon
 
-## Expanding Energy for Small Velocities
+$$
+E = pc.
+$$
+
+## Expanding energy for small velocities
 
 To bridge the gap between the relativistic and classical expressions, consider an object moving at a speed much less than the speed of light $(v \ll c)$, so that its momentum $p = mv$ is much smaller than $mc$. Under this condition, we can approximate the total energy by expanding the square root in the energy equation.
 
@@ -64,9 +68,9 @@ $$
 E \approx mc^2 \left( 1 + \frac{1}{2} \left( \frac{p}{mc} \right)^2 \right) = mc^2 + \frac{p^2}{2m}
 $$
 
-so we see the energy of an object $(p\ll mc$ is a mass-term and a momentum-term.
+so we see the energy of an object $(p\ll mc)$ is a mass-term and a momentum-term.
 
-## Recovering the Classical Kinetic Energy
+## Recovering classical kinetic energy
 
 The first term $mc^2$ is the rest energy, and the second term $\frac{p^2}{2m}$ represents the kinetic energy in the nonrelativistic limit. Using the classical expression for momentum $p = mv$, we find
 
