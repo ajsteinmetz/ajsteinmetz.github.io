@@ -92,7 +92,7 @@ Rothman and Boughn's prognosis is also pretty clear:
 
 > "Certainly, if a 'no graviton' law appears elusive, we do feel entitled to predict that no one will ever detect one in our universe."
 
-Regardless of the finality of that sentiment, work on this problem continues, and you can find a more recent work from the perspective of optics here:
+Despite the finality of that sentiment, work on this problem continues, and you can find a more recent analysis from the perspective of optics here:
 
 - Carney, D., V. Domcke, and N. L. Rodd. "Graviton detection and the quantization of gravity." _Physical Review D_ **109.4** (2024): 044009. [10.1103/PhysRevD.109.044009](https://doi.org/10.1103/PhysRevD.109.044009) [arXiv:2308.12988](https://arxiv.org/abs/2308.12988)
 
