@@ -12,7 +12,7 @@ Sadly, the answer is almost certainly not. This question occupied renowned physi
 
 _The following is based in part on:_
 
-- Gross, D. J., and Roman J.. "Low-energy theorem for graviton scattering." Physical Review **166.5** (1968): 1287. [10.1103/PhysRev.166.1287](https://doi.org/10.1103/PhysRev.166.1287)
+- Gross, D. J., and Roman J.. "Low-energy theorem for graviton scattering." _Physical Review_ **166.5** (1968): 1287. [10.1103/PhysRev.166.1287](https://doi.org/10.1103/PhysRev.166.1287)
 
 - Rothman, T., and S. Boughn. "Can gravitons be detected?" _Foundations of Physics_ **36** (2006): 1801–1825. [10.1007/s10701-006-9081-9](https://doi.org/10.1007/s10701-006-9081-9) [arXiv:gr-qc/0601043](https://arxiv.org/abs/gr-qc/0601043)
 
