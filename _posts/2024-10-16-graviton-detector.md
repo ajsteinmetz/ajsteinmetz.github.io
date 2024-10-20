@@ -12,8 +12,6 @@ Sadly, the answer is almost certainly not. This question occupied renowned physi
 
 _The following is based in part on:_
 
-- Gross, D. J., and R. Jackiw. "Low-energy theorem for graviton scattering." _Physical Review_ **166.5** (1968): 1287. [10.1103/PhysRev.166.1287](https://doi.org/10.1103/PhysRev.166.1287)
-
 - Rothman, T., and S. Boughn. "Can gravitons be detected?" _Foundations of Physics_ **36** (2006): 1801–1825. [10.1007/s10701-006-9081-9](https://doi.org/10.1007/s10701-006-9081-9) [arXiv:gr-qc/0601043](https://arxiv.org/abs/gr-qc/0601043)
 
 - Dyson, F. "Is a graviton detectable?" _International Journal of Modern Physics A_ **28.25** (2013): 1330041. [10.1142/S0217751X1330041X](https://doi.org/10.1142/S0217751X1330041X)
@@ -60,7 +58,9 @@ $$
 \frac{d\sigma_\mathrm{photon}}{d\sigma_\mathrm{graviton}} \sim 10^{85},
 $$
 
-which is a rather astonishing reduction! To some extent, we should not be surprised. Every undergraduate physicist is taught that gravity is a much weaker force than any of the other fundamental interactions in nature. Regardless, seeing these ratios explicitly is sobering.
+which is a rather astonishing reduction! To some extent, we should not be surprised. Every undergraduate physicist is taught that gravity is a much weaker force than any of the other fundamental interactions in nature. Regardless, seeing these ratios explicitly is sobering. For a more detailed analysis, I point the reader to:
+
+- Gross, D. J., and R. Jackiw. "Low-energy theorem for graviton scattering." _Physical Review_ **166.5** (1968): 1287. [10.1103/PhysRev.166.1287](https://doi.org/10.1103/PhysRev.166.1287)
 
 ## Electrogravitational conversion
 
@@ -76,7 +76,7 @@ $$
 \frac{d\sigma}{d\Omega} \sim \frac{\alpha^{2}G_{N}\hbar}{c^{3}} \sim 10^{-70}\ \mathrm{cm}^{2},
 $$
 
-which is certainly an improvement over the gravito-Compton result by a factor of $10^{41}$. But this still leaves us with a process dramatically weaker than electromagnetic interactions, putting it well out of reach of any realistic experiment. For a full analysis of electrogravitational conversion, we refer the reader to:
+which is certainly an improvement over the gravito-Compton result by a factor of $10^{41}$. But this still leaves us with a process dramatically weaker than electromagnetic interactions, putting it well out of reach of any realistic experiment. For a full analysis of electrogravitational conversion, I refer the reader to:
 
 - De Logi, W. K., and A. R. Mickelson. "Electrogravitational conversion cross sections in static electromagnetic fields." _Physical Review D_ **16.10** (1977): 2915. [10.1103/PhysRevD.16.2915](https://doi.org/10.1103/PhysRevD.16.2915)
 
