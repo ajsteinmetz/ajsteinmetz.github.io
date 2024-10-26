@@ -30,9 +30,9 @@ plugins:
 # in order as they should show up.
 header_pages:
   - index.md
+  - about.md
   - publications.md
   - cv.md
-#  - about.md
 relative_links:
   enabled: true
   collections: true
