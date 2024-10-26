@@ -1,7 +1,7 @@
 ---
 
 layout: post  
-title: "Why E=mc^2 and not E=(1/2)mc^2?"  
+title: "Why E = mc² and not E = ½mc²?"  
 categories: physics
 
 ---
