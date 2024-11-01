@@ -13,7 +13,7 @@ To show that $\text{SU}(2)$ is a compact Lie group, we need to demonstrate that:
 
 ### 1. $\text{SU}(2)$ as a Lie Group
 
-The group $\text{SU}(2)$ is defined as the set of all $2 \times 2$ unitary matrices with determinant equal to 1:
+The group $\text{SU}(2)$ is defined as the set of all $2 \times 2$ unitary matrices $U$ with determinant equal to 1:
 
 ```math
 \text{SU}(2) = \{ U \in \text{GL}(2, \mathbb{C}) \mid U^\dagger U = I \text{ and } \det(U) = 1 \}.
