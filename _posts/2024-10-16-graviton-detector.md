@@ -8,7 +8,7 @@ categories: physics
 
 A graviton $G$ is a theoretical **quantum** of the gravitational field, which presumably exists if gravity can indeed be quantized. There remains an important question regarding this fundamental particle: Can we ever detect a single graviton?
 
-Sadly, the answer is almost certainly not. This question occupied renowned physicist **Freeman Dyson** for some time, which puts us in good company. Let us explore some of the reasons why graviton detection is so elusive.
+Sadly, the answer is almost certainly not (see the end of the post for hope). This question occupied renowned physicist **Freeman Dyson** for some time, which puts us in good company. Let us explore some of the reasons why graviton detection is so elusive.
 
 _The following is based in part on:_
 
