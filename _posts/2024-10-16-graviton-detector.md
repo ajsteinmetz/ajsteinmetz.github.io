@@ -98,6 +98,11 @@ Despite the finality of that sentiment, work on this problem continues, and you 
 
 - Carney, D., V. Domcke, and N. L. Rodd. "Graviton detection and the quantization of gravity." _Physical Review D_ **109.4** (2024): 044009. [10.1103/PhysRevD.109.044009](https://doi.org/10.1103/PhysRevD.109.044009) [arXiv:2308.12988](https://arxiv.org/abs/2308.12988)
 
-_Further discussion of this blog post can be found in [this reddit thread](https://www.reddit.com/r/Physics/comments/1g84j8l/can_we_ever_detect_the_graviton_no_but_how_come/)._
+_Popular science article on the Carney et. al. proposal:_
+
+- Wood, C. "It Might Be Possible to Detect Gravitons After All." _Quanta Magazine_ (10-30-2024). [https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
+
+
+_Further discussion of this blog post can be found in this [reddit thread](https://www.reddit.com/r/Physics/comments/1g84j8l/can_we_ever_detect_the_graviton_no_but_how_come/) and [tildes post](https://tildes.net/~science/1jkz/can_we_ever_detect_the_graviton_no_but_why_not)._
 
 ---
