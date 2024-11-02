@@ -6,6 +6,16 @@ categories: physics
 
 ---
 
+$\mathfrak{G}$
+
+$$
+\mathfrak{G}
+$$
+
+```math
+\mathfrak{G}
+```
+
 It's easy to notice that the famous equation $E = mc^2$ is similar to the classical expression for kinetic energy $T = \frac{1}{2}mv^2$. Both are proportional to mass, and both have a "speed" (c or v) which is squared. That they are alike might prompt the question: why doesn't Einstein's equation include the factor of 1/2 like kinetic energy does? Did Einstein overlook this factor?
 
 ## Understanding rest energy vs. kinetic energy
