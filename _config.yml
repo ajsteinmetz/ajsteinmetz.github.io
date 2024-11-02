@@ -10,6 +10,10 @@ description: >
 
 # Build settings
 
+# Math engine used in markdown environment
+kramdown:
+  math_engine: katex
+
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
 
