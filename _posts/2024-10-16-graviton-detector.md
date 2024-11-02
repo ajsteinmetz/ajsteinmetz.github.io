@@ -8,7 +8,7 @@ tags: quantum gravity gravitons
 
 ---
 
-A graviton $G$ is a theoretical **quantum** of the gravitational field, which presumably exists if gravity can indeed be quantized. There remains an important question regarding this fundamental particle: Can we ever detect a single graviton?
+A graviton $$G$$ is a theoretical **quantum** of the gravitational field, which presumably exists if gravity can indeed be quantized. There remains an important question regarding this fundamental particle: Can we ever detect a single graviton?
 
 Sadly, the answer is almost (see the end) certainly no. This question occupied renowned physicist **Freeman Dyson** for some time, which puts us in good company. Let us explore some of the reasons why graviton detection is so elusive.
 
@@ -20,13 +20,13 @@ _The following is based in part on:_
 
 ## Compton scattering
 
-To demonstrate why the graviton is so difficult to measure, let's first look at the Compton scattering differential cross-section $d\sigma/d\Omega$. This involves the scattering of a photon $\gamma$ off an electron $e^{-}$ given by
+To demonstrate why the graviton is so difficult to measure, let's first look at the Compton scattering differential cross-section $$d\sigma/d\Omega$$. This involves the scattering of a photon $$\gamma$$ off an electron $$e^{-}$$ given by
 
 $$
 \gamma(\lambda) + e^{-}(p) \rightarrow \gamma(\lambda') + e^{-}(p'),
 $$
 
-where $\lambda$ is the photon's wavelength and $p$ is the electron's momentum. The final wavelength and momentum after scattering are denoted by primes. The likelihood of scattering is given by the Klein-Nishina formula
+where $$\lambda$$ is the photon's wavelength and $$p$$ is the electron's momentum. The final wavelength and momentum after scattering are denoted by primes. The likelihood of scattering is given by the Klein-Nishina formula
 
 $$
 \frac{d\sigma}{d\Omega} = \frac{\alpha^{2}\hbar^{2}}{2m_{e}^{2}c^{2}}\left(\frac{\lambda}{\lambda'}\right)^{2}\left(\frac{\lambda}{\lambda'}+\frac{\lambda'}{\lambda}-\sin^{2}\theta\right).
@@ -38,7 +38,7 @@ $$
 \frac{d\sigma}{d\Omega} \sim \frac{\alpha^{2}\hbar^{2}}{2m_{e}^{2}c^{2}} \sim 10^{-26}\ \mathrm{cm}^{2},
 $$
 
-which is proportional to the fine-structure constant squared, $\alpha^{2} \approx \left( \frac{1}{137} \right)^{2}$, divided by the square of the electron mass. Compton scattering is regularly measured and observed. Therefore, a cross-section on the order of $10^{-26}\ \mathrm{cm}^{2}$ is measurable by a careful undergraduate physicist.
+which is proportional to the fine-structure constant squared, $$\alpha^{2} \approx \left( \frac{1}{137} \right)^{2}$$, divided by the square of the electron mass. Compton scattering is regularly measured and observed. Therefore, a cross-section on the order of $$10^{-26}\ \mathrm{cm}^{2}$$ is measurable by a careful undergraduate physicist.
 
 ## Gravito-Compton scattering
 
@@ -66,7 +66,7 @@ which is a rather astonishing reduction! To some extent, we should not be surpri
 
 ## Electrogravitational conversion
 
-The ratio $10^{85}$ of electromagnetic-to-gravitational scattering might seem insurmountable, but there is another process that has a much higher cross-section. This process is called "electrogravitational conversion," which is the transmutation of a graviton into a photon via collision with an electron. Schematically we write
+The ratio $$10^{85}$$ of electromagnetic-to-gravitational scattering might seem insurmountable, but there is another process that has a much higher cross-section. This process is called "electrogravitational conversion," which is the transmutation of a graviton into a photon via collision with an electron. Schematically we write
 
 $$
 G(\lambda) + e^{-}(p) \rightarrow \gamma(\lambda') + e^{-}(p').
@@ -78,7 +78,7 @@ $$
 \frac{d\sigma}{d\Omega} \sim \frac{\alpha^{2}G_{N}\hbar}{c^{3}} \sim 10^{-70}\ \mathrm{cm}^{2},
 $$
 
-which is certainly an improvement over the gravito-Compton result by a factor of $10^{41}$. But this still leaves us with a process dramatically weaker than electromagnetic interactions, putting it well out of reach of any realistic experiment. For a full analysis of electrogravitational conversion, I refer the reader to:
+which is certainly an improvement over the gravito-Compton result by a factor of $$10^{41}$$. But this still leaves us with a process dramatically weaker than electromagnetic interactions, putting it well out of reach of any realistic experiment. For a full analysis of electrogravitational conversion, I refer the reader to:
 
 - De Logi, W. K., and A. R. Mickelson. "Electrogravitational conversion cross sections in static electromagnetic fields." _Physical Review D_ **16.10** (1977): 2915. [10.1103/PhysRevD.16.2915](https://doi.org/10.1103/PhysRevD.16.2915)
 
@@ -86,7 +86,7 @@ which is certainly an improvement over the gravito-Compton result by a factor of
 
 Regardless of the challenges of detecting the graviton today, we can imagine a far future where humanity uses highly advanced technology to attempt to detect gravitons. To do this, these future scientists would need to build planetary sized detectors to even have a shred of hope. Let me quote an amusing excerpt from Dyson's paper:
 
-> "If we imagine the whole mass of the Earth to be available as raw material for the manufacture of graviton detectors, with the cross-section (21) per electron and the flux (24), the counting rate is $2.4 \times 10^{-17}$ per second. If the experiment continues for the lifetime of the Sun, which is 5 billion years, the expected total number of gravitons detected will be 4. The experiment barely succeeds, but in principle, it can detect gravitons."
+> "If we imagine the whole mass of the Earth to be available as raw material for the manufacture of graviton detectors, with the cross-section (21) per electron and the flux (24), the counting rate is $$2.4 \times 10^{-17}$$ per second. If the experiment continues for the lifetime of the Sun, which is 5 billion years, the expected total number of gravitons detected will be 4. The experiment barely succeeds, but in principle, it can detect gravitons."
 
 Even if future humanity attempts such a feat, there are further difficulties that oppose conclusive graviton detection. In an ironic twist, the main difficulty (neglecting the challenges of a 5-billion-year experimental runtime) is that even if you could build a fantastical detector the size of a planet, your signal would be virtually impossible to separate from the neutrino background, a famously weakly interacting particle. Quoting Rothman and Boughn:
 
