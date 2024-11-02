@@ -8,7 +8,7 @@ categories: physics
 
 A graviton $G$ is a theoretical **quantum** of the gravitational field, which presumably exists if gravity can indeed be quantized. There remains an important question regarding this fundamental particle: Can we ever detect a single graviton?
 
-Sadly, the answer is almost certainly not (see the end of the post for hope). This question occupied renowned physicist **Freeman Dyson** for some time, which puts us in good company. Let us explore some of the reasons why graviton detection is so elusive.
+Sadly, the answer is almost (see the end) certainly no. This question occupied renowned physicist **Freeman Dyson** for some time, which puts us in good company. Let us explore some of the reasons why graviton detection is so elusive.
 
 _The following is based in part on:_
 
@@ -93,6 +93,8 @@ Even if future humanity attempts such a feat, there are further difficulties tha
 Rothman and Boughn's prognosis is also pretty clear:
 
 > "Certainly, if a 'no graviton' law appears elusive, we do feel entitled to predict that no one will ever detect one in our universe."
+
+### Future hope?
 
 Despite the finality of that sentiment, work on this problem continues with more optimistic outlooks, and you can find a more recent analysis here:
 
