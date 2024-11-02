@@ -3,6 +3,7 @@
 layout: post  
 title: "Why E = mc² and not E = ½mc²?"  
 categories: physics
+tags: relativity mechanics
 
 ---
 
