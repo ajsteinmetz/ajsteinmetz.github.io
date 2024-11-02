@@ -1,10 +1,31 @@
 ---
 
 layout: post  
-title: "How do we show that SU(2) is compact?"  
+title: "Proving that SU(2) is compact"  
 categories: mathematics
+tags: groups "Lie groups" 
 
 ---
+
+The following derivation is the outcome of my own personal journey in trying to learn more group theory (and also representation theory) which is important to many areas of physics. Despite the importance of groups in physics, I don't believe physicists are well-educated at the university level on this topic (or at least I wasn't) unless they go out of their way.
+
+All too often physics texts throw out statements like "spin-1/2 particles transform under elements of the $\text{SU}(2)$ group" without taking the time to establish what any of this machinary means. Mathematics text on the otherhand are written in their own language and rigor opaque to the average physicist. As a result, there's a plethora of books out there with titles like "Group Theory for Physicists" to varying levels of usefulness.
+
+So the purpose of this post is to use a simple proof about the properties of the $\text{SU}(2)$ group as a Trojan horse to introduce concepts in group theory. I won't be starting from total scratch however, but some familiarity with mathematical notation will be needed to decipher the what comes next. But I'll try and stop to define vocabulary as it arises.
+
+### What is $\text{SU}(2)$?
+The group $\text{SU}(2)$ is defined as the set of all $2 \times 2$ unitary matrices $U$ with determinant equal to 1:
+
+$$
+\text{SU}(2) = \{ U \in \text{GL}(2, \mathbb{C}) \mid U^\dagger U = I \text{ and } \det(U) = 1 \}.
+$$
+
+Let's break down the properties outlined above:
+- $\text{GL}(2, \mathbb{C})$ is the **general linear group** of dimension 2 which is all $2\times2$ complex matrices which are invertible $U^{-1}U=1$.
+- Unitarity ($U^\dagger U = I$) means $U$ preserves inner products and thus is an isometry, which implies its columns are orthonormal.
+- $\det(U) = 1$ further restricts $U$ to matrices that can be continuously deformed to the identity matrix within the set of unitary matrices.
+
+If you've learned any quantum mechanics, then you'll know that such matrices are used to rotate the two-component spinors we define for spin-1/2 particles such as the electron.
 
 To show that $\text{SU}(2)$ is a compact Lie group, we need to demonstrate that:
 
@@ -12,16 +33,6 @@ To show that $\text{SU}(2)$ is a compact Lie group, we need to demonstrate that:
 2. $\text{SU}(2)$ is compact.
 
 ### 1. $\text{SU}(2)$ as a Lie Group
-
-The group $\text{SU}(2)$ is defined as the set of all $2 \times 2$ unitary matrices $U$ with determinant equal to 1:
-
-```math
-\text{SU}(2) = \{ U \in \text{GL}(2, \mathbb{C}) \mid U^\dagger U = I \text{ and } \det(U) = 1 \}.
-```
-
-Here:
-- Unitarity ($U^\dagger U = I$) means $U$ preserves inner products and thus is an isometry, which implies its columns are orthonormal.
-- $\det(U) = 1$ further restricts $U$ to matrices that can be continuously deformed to the identity matrix within the set of unitary matrices.
 
 The structure of $\text{SU}(2)$ makes it a subgroup of $\text{GL}(2, \mathbb{C})$, the group of invertible $2 \times 2$ complex matrices. Since the unitary matrices form a smooth manifold, and the condition $\det(U) = 1$ is a smooth constraint, $\text{SU}(2)$ inherits a smooth manifold structure, making it a Lie group.
 
