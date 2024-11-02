@@ -7,7 +7,7 @@ tags: relativity mechanics
 
 ---
 
-It's easy to notice that the famous equation $$E = mc^2$$ is similar to the classical expression for kinetic energy $$T = \frac{1}{2}mv^2$$. Both are proportional to mass, and both have a "speed" (c or v) which is squared. That they are alike might prompt the question: why doesn't Einstein's equation include the factor of 1/2 like kinetic energy does? Did Einstein overlook this factor?
+It's easy to notice that the famous equation $$E = mc^2$$ is similar to the classical expression for kinetic energy $$T = \frac{1}{2}mv^2$$. Both are proportional to mass, and both have a "speed" ($$c$$ or $$v$$) which is squared. That they are alike might prompt the question: why doesn't Einstein's equation include the factor of 1/2 like kinetic energy does? Did Einstein overlook this factor?
 
 ## Understanding rest energy vs. kinetic energy
 
@@ -29,7 +29,7 @@ $$
 P^{\mu}P_{\mu} = \eta_{\mu\nu}p^{\mu}p^{\nu} = m^{2}c^{2} = E^{2}/c^{2} - p^{2}.
 $$
 
-We see the above equation is our energy-momentum relation from earlier. When the object is at rest ($$p = 0$$), the equation simplifies to
+We see the above equation is our energy-momentum relation from earlier. When the object is at rest $$(p = 0)$$, the equation simplifies to
 
 $$
 E = mc^2,
@@ -51,7 +51,7 @@ $$
 E = \sqrt{m^2 c^4 + p^2 c^2} = mc^2 \sqrt{1 + \left( \frac{p}{mc} \right)^2}.
 $$
 
-Let $$x = \frac{p}{mc}$$. Since $$x \ll 1$$ in the nonrelativistic limit, we can use the Taylor series expansion for $$\sqrt{1 + x^2}$$
+Let $$x = \frac{p}{mc}$$. Since $$x \ll 1$$ in the nonrelativistic limit, we can use the Taylor series expansion for $$\sqrt{1 + x^2}$$ to obtain
 
 $$
 \sqrt{1 + x^2} = 1 + \frac{x^2}{2} - \frac{x^4}{8} + \ldots
