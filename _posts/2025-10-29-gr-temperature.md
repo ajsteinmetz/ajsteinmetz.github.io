@@ -3,6 +3,7 @@
 layout: post  
 title: "Time, temperature, and black holes"  
 categories: physics
+tags: time gravity "black holes" thermodynamics
 
 ---
 
@@ -18,17 +19,32 @@ $$
 
 Here $k_{B}$ is the Boltzmann constant, $m$ the mass of the gas, and $v$ to be the averaged speed of the particles. This is perhaps the cleanest expression of temperature as kinetic energy as we don't have any pesky intermolecular forces to get in the way like we do for non-ideal gases, liquids or solids.
 
+- Define time as the differential of energy and entropy which is a more general definition.
+- Comment about this allowing ideas like negative temperature.
+
 ## What is time?
 
-Now that I've hopefully convinced you that temperature is actually complicated, I wish to do the same for time. As per Einstein's theory of special relativity, time is one of the dimensions of our four-dimensional spacetime which means it is not uniquely separable from length and spatial distances. Special relativity tells us that time varies from observer to observer and that "your" time will be a mixture of space and time from another's perspective.
+Now that I've hopefully convinced you that temperature is actually complicated, I wish to do the same for time.
+
+- Time in quantum mechanics (and classical mechanics) is an independant variable connected to time evolution of the Hamiltonian.
+- Time is also defined as a dimensional coordinate in Special Relativity.
+- Mention the problem of time and the Wheeler-DeWitt equation.
+
+As per Einstein's theory of special relativity, time is one of the dimensions of our four-dimensional spacetime which means it is not uniquely separable from length and spatial distances. Special relativity tells us that time varies from observer to observer and that "your" time will be a mixture of space and time from another's perspective.
 
 ## So how do time and temperature mix?
 
+- Show the relationship between unitary time evolution in quantum mechanics and the partition function in thermodynamics.
+- Specifically the relationship between them occurs when time is imaginary $t\rightarrow i\tau$.
+
 ## How do black holes and Hawking radiation fit into this?
 
-## What about other spacetimes?
+- Make the Schwarzschild metric Euclidean by transforming to imaginary time $t\rightarrow i\tau$.
+- Define the circumference of the metric for rotations in imaginary time.
+- Show that the near-horizon circumference has a $2\pi$ symmetry.
+- This symmetry is isomorphic to the rotational symmetry of the flat 2D Euclidean metric in polar coordinates.
 
-The above is based in part on:
+_The above is based in part on:_
 
 - Gibbons, G. W., and S. W. Hawking. "Cosmological event horizons, thermodynamics, and particle creation." _Physical Review D_ **15.10** (1977): 2738. [10.1103/PhysRevD.15.2738](https://doi.org/10.1103/PhysRevD.15.2738)
 
