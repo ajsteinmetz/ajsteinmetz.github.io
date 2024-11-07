@@ -23,9 +23,9 @@ The special unitary group (of degree 2)[^1] $$\text{SU}(2)$$ is defined as the s
 
 [^1]: The degree of a group tells us the size of its matrices. E.g. $$\text{SU}(n)$$ can be represented by $$n\times n$$ matrices. A specific element of the group however has $$d=n^2 - 1$$ dimensions or degrees of freedom. This makes $$\text{SU}(2)$$ have dimension $$d = 2^2 - 1 = 3$$ corresponding to three real parameters $$\mathbb{R}^3$$.
 
-```math
+$$
 \text{SU}(2) = \{ U \in \text{GL}(2, \mathbb{C}) \mid U^\dagger U = I \text{ and } \det(U) = 1 \}.
-```
+$$
 
 If you've learned any quantum mechanics, then you'll know that such matrices are used to rotate the two-component spinors we define for spin-1/2 particles such as the electron. Let's break down the properties outlined above:
 - $$\text{GL}(2, \mathbb{C})$$ is the **general linear group** of degree 2 which is all $$2\times2$$ complex matrices $$U$$ which are invertible $$U^{-1}U=I$$.
@@ -58,9 +58,9 @@ A Lie group is a group that is also a smooth manifold[^6]. The structure of $$\t
 
 To show compactness, we can parametrize $$\text{SU}(2)$$ explicitly. Any $$U \in \text{SU}(2)$$ can be written as
 
-```math
+$$
 U = \begin{pmatrix} \alpha & -\beta^* \\ \beta & \alpha^* \end{pmatrix},
-```
+$$
 
 where $$\alpha, \beta \in \mathbb{C}$$ and $$|\alpha|^2 + |\beta|^2 = 1$$ (a consequence of unitarity and the determinant condition). This parametrization reveals that $$U$$ depends on four $$n^2 = 2^2 = 4$$ real parameters given by the real and imaginary parts of $$\alpha$$ and $$\beta$$. Let $$\alpha = x_1 + i x_2$$ and $$\beta = x_1 + i x_4$$ where $$x_1, x_2, x_3, x_4 \in \mathbb{R}$$. Then
 
@@ -84,9 +84,9 @@ To see why the 3-sphere $$S^3$$ is compact, let’s go through a couple of funda
 
 [^9]: An n-sphere is defined by the condition $$\sum_i ^N x_i ^2 = 1$$ on $$\mathbb{R}^n$$.
 
-```math
+$$
 S^3 = \left\{ (x_1, x_2, x_3, x_4) \in \mathbb{R}^4 \mid x_1^2 + x_2^2 + x_3^2 + x_4^2 = 1 \right\}.
-```
+$$
 
 This is the 3-dimensional analog of the 2-sphere $$S^2$$ in $$\mathbb{R}^3$$.
 
