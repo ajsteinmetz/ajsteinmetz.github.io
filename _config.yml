@@ -2,6 +2,8 @@ title: ... a stubbornly persistent illusion.
 author:
   name: Andrew James Steinmetz
   email: ajsteinmetz@arizona.com
+  
+google_analytics: G-N71QSCS57Q
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
