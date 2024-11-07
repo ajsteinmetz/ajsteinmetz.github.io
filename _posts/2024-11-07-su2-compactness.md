@@ -1,7 +1,7 @@
 ---
 
 layout: post  
-title: "Proving that SU(2) is compact"  
+title: "Proving that SU(2) is compact (and other group theory bits)"  
 categories: mathematics
 tags: groups "Lie groups" 
 
