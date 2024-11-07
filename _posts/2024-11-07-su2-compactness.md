@@ -9,7 +9,7 @@ tags: groups "Lie groups"
 
 The following derivation is the outcome of my own personal journey in trying to learn more group theory (and representation theory) which appears in many areas of physics. Despite the importance of groups in physics, I don't believe physicists are well-educated at the university level on this topic (or at least I wasn't) unless they go out of their way.
 
-All too often physics texts throw out statements like "spin-1/2 particles transform under elements of the $$\text{SU}(2)$$ group" without taking the time to establish what any of this machinary means. Mathematics texts, on the other hand, are often written with a level of rigor and language that can be opaque to the average physicist. As a result, there's a plethora of books out there with titles like "Group Theory for Physicists" to varying levels of usefulness.
+All too often physics texts throw out statements like "spin $$1/2$$ particles transform under elements of the $$\text{SU}(2)$$ group" without taking the time to establish what any of this machinary means. Mathematics texts, on the other hand, are often written with a level of rigor and language that can be opaque to the average physicist. As a result, there's a plethora of books out there with titles like "Group Theory for Physicists" to varying levels of usefulness.
 
 So the purpose of this post is to use a simple proof about the properties of the $$\text{SU}(2)$$ group as a Trojan horse to introduce concepts in group theory. I won't be starting from total scratch however, so some familiarity with mathematical notation (just undergraduate level?) will be needed to decipher what comes next. With that said, I'll try and stop to define vocabulary as it arises using footnotes.
 
@@ -17,6 +17,10 @@ So the purpose of this post is to use a simple proof about the properties of the
 Compactness of a group conveys that the set is "small" and bounded to some region of a larger space. In Euclidean space $$\mathbb{R}^n$$, the Heine-Borel theorem tells us that a set is compact if and only if it is closed and bounded. Therefore we need to verify two things about $$\text{SU}(2)$$:
 1. **Closed:** A set is closed if it contains all its limit points.
 2. **Bounded:** All elements in the set are within some finite distance of a fixed point.
+
+If you've learned any quantum mechanics, then you'll know that $$\text{SU}(2)$$ defines matrices which are used to rotate the two-component spinors $$\chi=(\chi_{1},\chi_{2})^{T}$$ for spin $$1/2$$ particles such as the electron. If we consider Euclidean rotations[^zero] in $$\mathbb{R}^3$$, we intuitively understand that rotations are compact compared to translations which can move vectors arbitrary distances. Therefore, we expect such rotation in spinor-space to also be "compact" as described above. Let's more closely look at how $$\text{SU}(2)$$ is defined.
+
+[^zero]: It turns out that $$\text{SU}(2)$$ and the Euclidean 3-rotation group $$\text{SO}(3)$$ are related via what we call "double cover." This means that every element of $$\text{SO}(3)$$ corresponds to two elements of $$\text{SU}(2)$$.
 
 ### What is $$\text{SU}(2)$$?
 The special unitary group (of degree 2)[^1] $$\text{SU}(2)$$ is defined as the set of all $$2 \times 2$$ unitary matrices $$U$$ with determinant equal to 1:
@@ -27,7 +31,7 @@ $$
 \text{SU}(2) = \{ U \in \text{GL}(2, \mathbb{C}) \mid U^\dagger U = I \text{ and } \det(U) = 1 \}.
 $$
 
-If you've learned any quantum mechanics, then you'll know that such matrices are used to rotate the two-component spinors we define for spin-1/2 particles such as the electron. Let's break down the properties outlined above:
+Let's break down the properties outlined above:
 - $$\text{GL}(2, \mathbb{C})$$ is the general linear group of degree 2 which is all $$2\times2$$ complex matrices $$U$$ which are invertible $$U^{-1}U=I$$.
 - Unitarity ($$U^\dagger U = I$$)[^2] means $$U$$ preserves inner products and thus is an isometry[^3], which implies its columns are orthonormal[^4].
 - $$\det(U) = I$$ further restricts $$U$$ to matrices that can be continuously deformed[^5] to the identity matrix within the set of unitary matrices.
