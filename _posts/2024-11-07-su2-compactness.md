@@ -47,7 +47,7 @@ To show that $$\text{SU}(2)$$ is a compact Lie group, we need to demonstrate tha
 
 #### $$\text{SU}(2)$$ as a Lie group
 
-A Lie group is a group that is also a smooth manifold[^6]. The structure of $$\text{SU}(2)$$ makes it a subgroup of $$\text{GL}(2, \mathbb{C})$$, the group of invertible $$2 \times 2$$ complex matrices. Since the unitary matrices $U(n)$ form a smooth manifold, and the condition $$\det(U) = 1$$ is a smooth constraint[^7], $$\text{SU}(2)$$ inherits a smooth manifold structure, making it a Lie group. This is a very abbreviated description of Lie groups, but ultimately we want a group whose elements describe a geometry we can do calculus on.
+A Lie group is a group that is also a smooth manifold[^6]. The structure of $$\text{SU}(2)$$ makes it a subgroup of $$\text{GL}(2, \mathbb{C})$$, the group of invertible $$2 \times 2$$ complex matrices. Since the unitary matrices $$\text{U}(n)$$ form a smooth manifold, and the condition $$\det(U) = 1$$ is a smooth constraint[^7], $$\text{SU}(2)$$ inherits a smooth manifold structure, making it a Lie group. This is a very abbreviated description of Lie groups, but ultimately we want a group whose elements describe a geometry we can do calculus on.
 
 [^6]: A smooth manifold (the underlying geometry) has the following properties: (a) We can assign coordinates (e.g. charts $$(x,y,z)$$) that define the space, (b) it locally resembles a Euclidean space $$\mathbb{R}^{n}$$, and (c) it is smooth letting us do calculus and differentiate.
 
