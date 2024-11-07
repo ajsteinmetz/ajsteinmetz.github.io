@@ -11,9 +11,7 @@
 
   {%- include custom-head.html -%}
 
-  {% raw %}{% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
-  {% endif %}{% endraw %}
 
   <!--KaTeX-->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" 
