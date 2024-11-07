@@ -117,5 +117,7 @@ Since every point $$(x_1, x_2, x_3, x_4) \in S^3$$ satisfies $$x_1^2 + x_2^2 + x
 
 Thus, $$\text{SU}(2)$$ is compact. QED.
 
+_Further discussion of this blog post can be found on [reddit](https://www.reddit.com/r/math/comments/1gltguz/proving_that_su2_is_compact_and_other_group/) and [tildes](https://tildes.net/~science/1jxu/proving_that_su_2_is_compact_and_other_group_theory_bits)._
+
 #### Footnotes
 
