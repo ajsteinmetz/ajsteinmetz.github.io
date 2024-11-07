@@ -40,7 +40,6 @@ If you've learned any quantum mechanics, then you'll know that such matrices are
 
 [^5]: A complex $$2\times2$$ unitary matrix can be parameterized by two complex phases $$(\phi,\psi)$$ and an angle $$\theta$$. For a suitable choice of complex phases and angle, this can be continuously deformed to the identity matrix within the group of unitary matrices. This property is also known as path-connectedness.
 
-
 To show that $$\text{SU}(2)$$ is a compact Lie group, we need to demonstrate that:
 
 1. $$\text{SU}(2)$$ is a Lie group.
@@ -62,7 +61,7 @@ $$
 U = \begin{pmatrix} \alpha & -\beta^* \\ \beta & \alpha^* \end{pmatrix},
 $$
 
-where $$\alpha, \beta \in \mathbb{C}$$ and $$|\alpha|^2 + |\beta|^2 = 1$$ (a consequence of unitarity and the determinant condition). This parametrization reveals that $$U$$ depends on four $$n^2 = 2^2 = 4$$ real parameters given by the real and imaginary parts of $$\alpha$$ and $$\beta$$. Let $$\alpha = x_1 + i x_2$$ and $$\beta = x_1 + i x_4$$ where $$x_1, x_2, x_3, x_4 \in \mathbb{R}$$. Then
+where $$\alpha, \beta \in \mathbb{C}$$ and $$\alpha\alpha^{\*} + \beta\beta^{\*} = 1$$ (a consequence of unitarity and the determinant condition). This parametrization reveals that $$U$$ depends on four $$n^2 = 2^2 = 4$$ real parameters given by the real and imaginary parts of $$\alpha$$ and $$\beta$$. Let $$\alpha = x_1 + i x_2$$ and $$\beta = x_1 + i x_4$$ where $$x_1, x_2, x_3, x_4 \in \mathbb{R}$$. Then
 
 $$
 |\alpha|^2 = x_1 ^2 + x_2 ^2\ \mathrm{and}\ |\beta|^2 = x_3 ^2 + x_4 ^2,
@@ -85,7 +84,7 @@ To see why the 3-sphere $$S^3$$ is compact, let’s go through a couple of funda
 [^9]: An n-sphere is defined by the condition $$\sum_i ^N x_i ^2 = 1$$ on $$\mathbb{R}^n$$.
 
 $$
-S^3 = \left\{ (x_1, x_2, x_3, x_4) \in \mathbb{R}^4 \mid x_1^2 + x_2^2 + x_3^2 + x_4^2 = 1 \right\}.
+S^3 = \{ (x_1, x_2, x_3, x_4) \in \mathbb{R}^4 \mid x_1^2 + x_2^2 + x_3^2 + x_4^2 = 1 \}.
 $$
 
 This is the 3-dimensional analog of the 2-sphere $$S^2$$ in $$\mathbb{R}^3$$.
