@@ -1,7 +1,7 @@
 ---
 
 layout: post  
-title: "Why E = mc² and not E = ½mc²?"  
+title: "Einstein's mass-energy and kinetic energy"  
 categories: physics
 tags: relativity mechanics
 
