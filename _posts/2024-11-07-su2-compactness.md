@@ -28,7 +28,7 @@ $$
 $$
 
 If you've learned any quantum mechanics, then you'll know that such matrices are used to rotate the two-component spinors we define for spin-1/2 particles such as the electron. Let's break down the properties outlined above:
-- $$\text{GL}(2, \mathbb{C})$$ is the **general linear group** of degree 2 which is all $$2\times2$$ complex matrices $$U$$ which are invertible $$U^{-1}U=I$$.
+- $$\text{GL}(2, \mathbb{C})$$ is the general linear group of degree 2 which is all $$2\times2$$ complex matrices $$U$$ which are invertible $$U^{-1}U=I$$.
 - Unitarity ($$U^\dagger U = I$$)[^2] means $$U$$ preserves inner products and thus is an isometry[^3], which implies its columns are orthonormal[^4].
 - $$\det(U) = I$$ further restricts $$U$$ to matrices that can be continuously deformed[^5] to the identity matrix within the set of unitary matrices.
 
@@ -75,7 +75,7 @@ $$
 
 which is the 3-sphere in $$\mathbb{R}^4$$. Therefore, $$\text{SU}(2)$$ is diffeomorphic[^8] to the 3-dimensional sphere $$S^3$$ in $$\mathbb{R}^4$$. Since $$S^3$$ is a compact manifold, it follows that $$\text{SU}(2)$$ is also compact.
 
-[^8]: Diffeomorphic means we can write a (bijective) map $$f$$ between two manifolds $$f:M\rightarrow N$$ such that $f$ is smooth (preserves calculus) and smoothly invertible $$f^-1$$. This implies $$M$$ and $$N$$ are smoothly equivalent.
+[^8]: Diffeomorphic means we can write a (bijective) map $$f$$ between two manifolds $$f:M\rightarrow N$$ such that $$f$$ is smooth (preserves calculus) and smoothly invertible $$f^-1$$. This implies $$M$$ and $$N$$ are smoothly equivalent.
 
 ### How do we know the 3-sphere manifold $$S^3$$ is compact?
 
