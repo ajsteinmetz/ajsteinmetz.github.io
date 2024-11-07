@@ -11,7 +11,7 @@ The following derivation is the outcome of my own personal journey in trying to 
 
 All too often physics texts throw out statements like "spin-1/2 particles transform under elements of the $$\text{SU}(2)$$ group" without taking the time to establish what any of this machinary means. Mathematics texts, on the other hand, are often written with a level of rigor and language that can be opaque to the average physicist. As a result, there's a plethora of books out there with titles like "Group Theory for Physicists" to varying levels of usefulness.
 
-So the purpose of this post is to use a simple proof about the properties of the $$\text{SU}(2)$$ group as a Trojan horse to introduce concepts in group theory. I won't be starting from total scratch however, but some familiarity with mathematical notation will be needed to decipher what comes next. With that said, I'll try and stop to define vocabulary as it arises using footnotes.
+So the purpose of this post is to use a simple proof about the properties of the $$\text{SU}(2)$$ group as a Trojan horse to introduce concepts in group theory. I won't be starting from total scratch however, so some familiarity with mathematical notation (just undergraduate level?) will be needed to decipher what comes next. With that said, I'll try and stop to define vocabulary as it arises using footnotes.
 
 ### What is compactness?
 Compactness of a group conveys that the set is "small" and bounded to some region of a larger space. In Euclidean space $$\mathbb{R}^n$$, the Heine-Borel theorem tells us that a set is compact if and only if it is closed and bounded. Therefore we need to verify two things about $$\text{SU}(2)$$:
@@ -32,7 +32,7 @@ If you've learned any quantum mechanics, then you'll know that such matrices are
 - Unitarity ($$U^\dagger U = I$$)[^2] means $$U$$ preserves inner products and thus is an isometry[^3], which implies its columns are orthonormal[^4].
 - $$\det(U) = I$$ further restricts $$U$$ to matrices that can be continuously deformed[^5] to the identity matrix within the set of unitary matrices.
 
-[^2]: The dagger notation $$U^\dagger$$ represents the complex conjugate transpose $$U^\dagger = (U^*)^T$$. For unitary matrices, the conjugate transpose is also the inverse $$U^\dagger = U^-1$$.
+[^2]: The dagger notation $$U^\dagger$$ represents the complex conjugate transpose $$U^\dagger = (U^*)^T$$. For unitary matrices, the conjugate transpose is also the inverse $$U^\dagger = U^{-1}$$.
 
 [^3]: An isometry is an operation $$U$$ which preserves distances and angles in a vector space. If we consider a pair of vectors $$\mathbf{u}$$ and $$\mathbf{v}$$, the inner product is then $$\mathbf{u}^\dagger\mathbf{v} = \sum_{k}^{N}u_{k}^{*}v_{k}$$. The operation $$\mathbf{v}\rightarrow U\mathbf{v}$$ therefore preserves the inner product as $$\mathbf{u}^\dagger U^\dagger U\mathbf{v} = \mathbf{u}^\dagger\mathbf{v}$$.
 
