@@ -75,7 +75,7 @@ $$
 
 which is the 3-sphere in $$\mathbb{R}^4$$. Therefore, $$\text{SU}(2)$$ is diffeomorphic[^8] to the 3-dimensional sphere $$S^3$$ in $$\mathbb{R}^4$$. Since $$S^3$$ is a compact manifold, it follows that $$\text{SU}(2)$$ is also compact.
 
-[^8]: Diffeomorphic means we can write a (bijective) map $$f$$ between two manifolds $$f:M\rightarrow N$$ such that $$f$$ is smooth (preserves calculus) and smoothly invertible $$f^-1$$. This implies $$M$$ and $$N$$ are smoothly equivalent.
+[^8]: Diffeomorphic means we can write a (bijective) map $$f$$ between two manifolds $$f:M\rightarrow N$$ such that $$f$$ is smooth (preserves calculus) and smoothly invertible $$f^{-1}$$. This implies $$M$$ and $$N$$ are smoothly equivalent.
 
 ### How do we know the 3-sphere manifold $$S^3$$ is compact?
 
