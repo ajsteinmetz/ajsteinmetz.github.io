@@ -61,7 +61,7 @@ $$
 U = \begin{pmatrix} \alpha & -\beta^* \\ \beta & \alpha^* \end{pmatrix},
 $$
 
-where $$\alpha, \beta \in \mathbb{C}$$ and $$\alpha\alpha^{\*} + \beta\beta^{\*} = 1$$ (a consequence of unitarity and the determinant condition). This parametrization reveals that $$U$$ depends on four $$n^2 = 2^2 = 4$$ real parameters given by the real and imaginary parts of $$\alpha$$ and $$\beta$$. Let $$\alpha = x_1 + i x_2$$ and $$\beta = x_1 + i x_4$$ where $$x_1, x_2, x_3, x_4 \in \mathbb{R}$$. Then
+where $$\alpha, \beta \in \mathbb{C}$$ and $$\alpha\alpha^{*} + \beta\beta^{*} = 1$$ (a consequence of unitarity and the determinant condition). This parametrization reveals that $$U$$ depends on four $$n^2 = 2^2 = 4$$ real parameters given by the real and imaginary parts of $$\alpha$$ and $$\beta$$. Let $$\alpha = x_1 + i x_2$$ and $$\beta = x_1 + i x_4$$ where $$x_1, x_2, x_3, x_4 \in \mathbb{R}$$. Then
 
 $$
 |\alpha|^2 = x_1 ^2 + x_2 ^2\ \mathrm{and}\ |\beta|^2 = x_3 ^2 + x_4 ^2,
