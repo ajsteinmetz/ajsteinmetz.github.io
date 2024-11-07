@@ -91,7 +91,7 @@ $$
 S^3 = \{ (x_1, x_2, x_3, x_4) \in \mathbb{R}^4 \mid x_1^2 + x_2^2 + x_3^2 + x_4^2 = 1 \}.
 $$
 
-This is the 3-dimensional analog of the 2-sphere $$S^2$$ in $$\mathbb{R}^3$$. To show that $$S^3$$ is compact, we need to verify two things according to the Heine-Borel theorem:
+This is the 3-dimensional analog of the 2-sphere $$S^2$$ in $$\mathbb{R}^3$$. To show that $$S^3$$ is compact, we need to verify as discussed earlier according to the Heine-Borel theorem:
 1. **Closedness:** $$S^3$$ is a closed subset of $$\mathbb{R}^4$$.
 2. **Boundedness:** $$S^3$$ is bounded in $$\mathbb{R}^4$$.
 
