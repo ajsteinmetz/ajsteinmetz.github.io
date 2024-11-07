@@ -65,7 +65,7 @@ $$
 U = \begin{pmatrix} \alpha & -\beta^* \\ \beta & \alpha^* \end{pmatrix},
 $$
 
-where $$\alpha, \beta \in \mathbb{C}$$ and $$\alpha\alpha^{*} + \beta\beta^{*} = 1$$ (a consequence of unitarity and the determinant condition). This parametrization reveals that $$U$$ depends on four $$n^2 = 2^2 = 4$$ real parameters given by the real and imaginary parts of $$\alpha$$ and $$\beta$$. Letting $$\alpha = x_1 + i x_2$$ and $$\beta = x_1 + i x_4$$ where $$x_1, x_2, x_3, x_4 \in \mathbb{R}$$, we can write
+where $$\alpha, \beta \in \mathbb{C}$$ and $$\alpha\alpha^{*} + \beta\beta^{*} = 1$$ (a consequence of unitarity and the determinant condition). This parametrization reveals that $$U$$ depends on four $$n^2 = 2^2 = 4$$ real parameters given by the real and imaginary parts of $$\alpha$$ and $$\beta$$. Letting $$\alpha = x_1 + i x_2$$ and $$\beta = x_3 + i x_4$$ where $$x_1, x_2, x_3, x_4 \in \mathbb{R}$$, we can write
 
 $$
 |\alpha|^2 = x_1 ^2 + x_2 ^2\ \mathrm{and}\ |\beta|^2 = x_3 ^2 + x_4 ^2,
@@ -115,5 +115,7 @@ therefore $$S^3$$ is closed in $$\mathbb{R}^4$$. I hope it is easy to see why $$
 #### $$S^3$$ is bounded
 Since every point $$(x_1, x_2, x_3, x_4) \in S^3$$ satisfies $$x_1^2 + x_2^2 + x_3^2 + x_4^2 = 1$$, all points on $$S^3$$ are within a distance of 1 from the origin. Therefore, $$S^3$$ is bounded in $$\mathbb{R}^4$$.
 
-QED -- at least in my naive way.
+Thus, $$\text{SU}(2)$$ is compact. QED.
+
+#### Footnotes
 
