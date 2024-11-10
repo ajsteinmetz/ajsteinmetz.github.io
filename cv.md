@@ -10,24 +10,24 @@
   target="orcid.widget"
   rel="me noopener noreferrer"
   style="vertical-align: top">
+  0000-0001-5474-2649
   <img
     src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
     style="width: 1em; margin-inline-start: 0.5em"
     alt="ORCID iD icon"/>
-  0000-0001-5474-2649
 </a>
-
-### Education 
-* PhD. Physics, University of Arizona. 2023
-  * Advisor: Johann Rafelski
-* BS. Physics, University of Arizona. 2014
-* BS. Chemical Engineering, University of Arizona. 2014
 
 ### Employment 
 * Global Professor. University of Arizona, Dept. of Physics. 2023 - Current
   * Arizona College of Technology at the Hebei University of Technology (ACT@HEBUT).
 * Adjunct Faculty. Pima Community College, Physics Dept. & Astronomy Dept. 2020 - 2023
 * Graduate Assistant. University of Arizona, Dept. of Physics & Dept. of Chemistry & Biochemistry. 2015 - 2023
+
+### Education 
+* PhD. Physics, University of Arizona. 2023
+  * Advisor: Johann Rafelski
+* BS. Physics, University of Arizona. 2014
+* BS. Chemical Engineering, University of Arizona. 2014
 
 ### Publications
 
