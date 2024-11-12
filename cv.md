@@ -117,4 +117,4 @@ Links to publications and GitHub repositories, if available, are provided.
 - **AstroBin**: [https://www.astrobin.com/users/djinn/](https://www.astrobin.com/users/djinn/)
 - **LinkedIn**: [https://www.linkedin.com/in/ajsteinmetz/](https://www.linkedin.com/in/ajsteinmetz/)
 
-**My Erdős number is 5.**
+**[My Erdős number is 5.](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017)**
