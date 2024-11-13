@@ -24,3 +24,7 @@
 | 10        | Zehao Wu           | Shuocheng Hu        | Zhengting Li      | Taoping Song         |
 | 11        | Qidong Wang        | Dezheng Meng        | Shaoqiu Gu        |                      |
 
+- [NSF/Grant Outline](https://ajsteinmetz.github.io/nsf.html)
+- [Project Description](https://ajsteinmetz.github.io/project.html)
+- [Project Phases](https://ajsteinmetz.github.io/phases.html)
+- [Budget Outline](https://ajsteinmetz.github.io/budget.html)
