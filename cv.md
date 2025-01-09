@@ -51,7 +51,7 @@ Additional interests include analyzing the dynamics of charged particles with ma
 10. Formanek, M., Evans, S., Rafelski, J., Steinmetz, A. & Yang, C. T. "Strong fields and neutral particle magnetic moment dynamics." *Plasma Phys. Control. Fusion* 60.7 (2018). [10.1088/1361-6587/aac06a](https://doi.org/10.1088/1361-6587/aac06a)
 11. Rafelski, J., Formanek, M. & Steinmetz, A. "Relativistic dynamics of point magnetic moment." *Eur. Phys. J. C* 78 (2018): 1-12. [10.1140/epjc/s10052-017-5493-2](https://doi.org/10.1140/epjc/s10052-017-5493-2)
 
-Links to publications and GitHub repositories, if available, are provided.
+Links to publications, if available, are provided.
 
 ### Book Chapters
 12. Rafelski, J., Steinmetz, A. & Yang, C. T. "Dynamic Flavor Mixing Through Transition Moments." *Harald Fritzsch Memorial Volume*, pp. 269-284 (2024). [10.1142/9789811292279_0015](https://doi.org/10.1142/9789811292279_0015)
