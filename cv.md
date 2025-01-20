@@ -58,21 +58,18 @@ Links to publications, if available, are provided.
 
 ### Works in Progress
 
-13. Steinmetz, A. & Rafelski, J. "Magnetized primordial quark-gluon plasma." _In preparation_ (2024).
-14. Steinmetz, A., Evans, S., Formanek, M., Grayson, C., Labun, L., Price, W., Rafelski, J. "Strong fields in classical and quantum physics review." _In preparation_ (2024).
+13. Steinmetz, A. & Rafelski, J. "Magnetized primordial quark-gluon plasma." _In preparation_ (2025).
+14. Steinmetz, A., Evans, S., Formanek, M., Grayson, C., Labun, L., Price, W., Rafelski, J. "Strong fields in classical and quantum physics review." _In preparation_ (2025).
 15. Steinmetz, A., Yang, C. T. & Rafelski, J. "Electromagnetic field forcing of dynamic CP-violation in lepton sector." _In preparation_ (2025).
 16. Steinmetz, A., Evans, S. "Anomalous magnetic moment in the QCD vacuum." _In preparation_ (2025).
 
 ### Invited Presentations and Talks
 
-- **Title**: Primordial Cosmic Magnetism **Event**: SMT 30th Anniversary Steward Observatory Symposium  
-   **Location**: The University of Arizona, Tucson, AZ **Date**: September 22, 2023  
-- **Title**: Magnetism in the Cosmic Plasma Epoch **Event**: ELI-Beamlines Strong Fields Frontiers  
-   **Location**: The Extreme Light Infrastructure ERIC, Prague, Czech Republic **Date**: June 13, 2023  
-- **Title**: Magnetism in the Cosmic Plasma Epoch **Event**: Margaret Island Symposium on Particles and Plasmas  
-   **Location**: Wigner Research Centre for Physics, Budapest, Hungary **Date**: June 8, 2023  
-- **Title**: Relativistic Two-Body Quantum Mechanics **Event**: Grad Talk  
-   **Location**: The University of Arizona, Tucson, Arizona **Date**: March 2017  
+- **Title**: Quarks to Cosmos: Particles and Plasma in Cosmological Evolution. **Event**: XVIth Quark Confinement and the Hadron Spectrum Conference. (Speaker: Dr. Jan Rafelski) **Location**: Cairns, Queensland, Australia. **Date**: August 21, 2024
+- **Title**: Primordial Cosmic Magnetism **Event**: SMT 30th Anniversary Steward Observatory Symposium. **Location**: The University of Arizona, Tucson, Arizona. **Date**: September 22, 2023  
+- **Title**: Magnetism in the Cosmic Plasma Epoch **Event**: ELI-Beamlines Strong Fields Frontiers. **Location**: The Extreme Light Infrastructure ERIC, Prague, Czech Republic. **Date**: June 13, 2023  
+- **Title**: Magnetism in the Cosmic Plasma Epoch **Event**: Margaret Island Symposium on Particles and Plasmas. **Location**: Wigner Research Centre for Physics, Budapest, Hungary. **Date**: June 8, 2023  
+- **Title**: Relativistic Two-Body Quantum Mechanics **Event**: Grad Talk. **Location**: The University of Arizona, Tucson, Arizona. **Date**: March 2017  
 
 ### Teaching Experience (as Instructor-of-Record)
 
@@ -102,11 +99,15 @@ Links to publications, if available, are provided.
 - **PCC**: Pima Community College  
 - **IN**: Integrated Lecture and Laboratory
 
-## Public Scientific Outreach
+## Public Outreach and Press
 
-- **Steinmetz, A.** (2024, November 7). "[Proving that SU(2) is compact (and other group theory bits).](https://ajsteinmetz.github.io/mathematics/2024/11/07/su2-compactness.html)" *Persistent Illusion*.
-- **Steinmetz, A.** (2024, October 17). "[Einstein’s mass-energy and kinetic energy.](https://ajsteinmetz.github.io/physics/2024/10/17/kinetic-energy-coefficient.html)" *Persistent Illusion*.
-- **Steinmetz, A.** (2024, October 16). "[Can we ever detect the graviton?](https://ajsteinmetz.github.io/physics/2024/10/16/graviton-detector.html)" *Persistent Illusion*.
+- World Scientific Publishing. (2025, January 9). *World Scientific Publishing on LinkedIn: 🎉 The International Journal of Modern Physics A (IJMPA) celebrates 40 Years...* LinkedIn. https://www.linkedin.com/posts/world-scientific-publishing_the-international-journal-of-modern-physics-activity-7282999555967610880-SJ78
+- Steinmetz, A. (2024, November 7). Proving that SU(2) is compact (and other group theory bits). *Persistent Illusion*. https://ajsteinmetz.github.io/mathematics/2024/11/07/su2-compactness.html
+- Steinmetz, A. (2024, October 17). Einstein’s mass-energy and kinetic energy. *Persistent Illusion*. https://ajsteinmetz.github.io/physics/2024/10/17/kinetic-energy-coefficient.html
+- Steinmetz, A. (2024, October 16). Can we ever detect the graviton? *Persistent Illusion*. https://ajsteinmetz.github.io/physics/2024/10/16/graviton-detector.html
+- The University of Arizona, Department of Physics. (2024, January 26). *Announcing Department of Physics new Faculty Member Prof. Andrew Steinmetz*. UA Science | Physics. https://w3.physics.arizona.edu/news/announcing-department-physics-new-faculty-member-prof-andrew-steinmetz
+- The University of Arizona, Department of Physics. (2023, July 25). *International Symposium on "Particles and Plasmas" and "Strong Fields."* UA Science | Physics. https://w3.physics.arizona.edu/news/international-symposium-particles-and-plasmas-and-strong-fields
+- Springer. (2018, January 29). Relativity matters: Two opposing views of the magnetic force reconciled. *Phys.org*. https://phys.org/news/2018-01-relativity-opposing-views-magnetic.html
 
 ## Other Links and Websites
 
