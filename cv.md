@@ -108,7 +108,7 @@ Links to publications, if available, are provided.
 - The University of Arizona, Department of Physics. (2024, January 26). *Announcing Department of Physics new Faculty Member Prof. Andrew Steinmetz*. UA Science Physics. https://w3.physics.arizona.edu/news/announcing-department-physics-new-faculty-member-prof-andrew-steinmetz
 - The University of Arizona, Department of Physics. (2023, July 25). *International Symposium on "Particles and Plasmas" and "Strong Fields."* UA Science Physics. https://w3.physics.arizona.edu/news/international-symposium-particles-and-plasmas-and-strong-fields
 - Springer. (2018, January 29). Relativity matters: Two opposing views of the magnetic force reconciled. *Phys.org*. https://phys.org/news/2018-01-relativity-opposing-views-magnetic.html
-  - Also published in: [EPJ C Highlight](https://www.epj.org/epjc-news/1422-epjc-highlight-relativity-matters-two-opposing-views-of-the-magnetic-force-reconciled), [Springer Press](https://www.springer.com/gp/about-springer/media/research-news/all-english-research-news/relativity-matters--two-opposing-views-of-the-magnetic-force-reconciled/15417658), EurekAlert!, Science Newsline, Sky Nightly, Space Daily.
+  - Also published in: [EPJ C Highlight](https://www.epj.org/epjc-news/1422-epjc-highlight-relativity-matters-two-opposing-views-of-the-magnetic-force-reconciled), [Springer Press](https://www.springer.com/gp/about-springer/media/research-news/all-english-research-news/relativity-matters--two-opposing-views-of-the-magnetic-force-reconciled/15417658), [ScienceDaily](https://www.sciencedaily.com/releases/2018/01/180129131327.htm), EuroPhysicsNews, EurekAlert!, Science Newsline, Sky Nightly, Space Daily.
 
 ## Other Links and Websites
 
