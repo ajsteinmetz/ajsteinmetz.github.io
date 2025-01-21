@@ -105,9 +105,10 @@ Links to publications, if available, are provided.
 - Steinmetz, A. (2024, November 7). Proving that SU(2) is compact (and other group theory bits). *Persistent Illusion*. https://ajsteinmetz.github.io/mathematics/2024/11/07/su2-compactness.html
 - Steinmetz, A. (2024, October 17). Einstein’s mass-energy and kinetic energy. *Persistent Illusion*. https://ajsteinmetz.github.io/physics/2024/10/17/kinetic-energy-coefficient.html
 - Steinmetz, A. (2024, October 16). Can we ever detect the graviton? *Persistent Illusion*. https://ajsteinmetz.github.io/physics/2024/10/16/graviton-detector.html
-- The University of Arizona, Department of Physics. (2024, January 26). *Announcing Department of Physics new Faculty Member Prof. Andrew Steinmetz*. UA Science | Physics. https://w3.physics.arizona.edu/news/announcing-department-physics-new-faculty-member-prof-andrew-steinmetz
-- The University of Arizona, Department of Physics. (2023, July 25). *International Symposium on "Particles and Plasmas" and "Strong Fields."* UA Science | Physics. https://w3.physics.arizona.edu/news/international-symposium-particles-and-plasmas-and-strong-fields
+- The University of Arizona, Department of Physics. (2024, January 26). *Announcing Department of Physics new Faculty Member Prof. Andrew Steinmetz*. UA Science Physics. https://w3.physics.arizona.edu/news/announcing-department-physics-new-faculty-member-prof-andrew-steinmetz
+- The University of Arizona, Department of Physics. (2023, July 25). *International Symposium on "Particles and Plasmas" and "Strong Fields."* UA Science Physics. https://w3.physics.arizona.edu/news/international-symposium-particles-and-plasmas-and-strong-fields
 - Springer. (2018, January 29). Relativity matters: Two opposing views of the magnetic force reconciled. *Phys.org*. https://phys.org/news/2018-01-relativity-opposing-views-magnetic.html
+  - Also published in: [EPJ C Highlight](https://www.epj.org/epjc-news/1422-epjc-highlight-relativity-matters-two-opposing-views-of-the-magnetic-force-reconciled), [Springer Press](https://www.springer.com/gp/about-springer/media/research-news/all-english-research-news/relativity-matters--two-opposing-views-of-the-magnetic-force-reconciled/15417658), EurekAlert!, Science Newsline, Sky Nightly, Space Daily.
 
 ## Other Links and Websites
 
