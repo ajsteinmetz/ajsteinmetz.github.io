@@ -13,6 +13,6 @@
 * Formanek, M., 🌟Steinmetz, A. & Rafelski, J. Classical neutral point particle in linearly polarized EM plane wave field. <i>Plas. Phys. Cont. Fus.</i> 61.8 (2019): 084006. <a href="https://doi.org/10.1088/1361-6587/ab242e">10.1088/1361-6587/ab242e</a>
 * 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/magnetic-dipole-moment), Formanek, M. & Rafelski, J. Magnetic dipole moment in relativistic quantum mechanics. <i>Eur. Phys. J. A</i> 55, 40 (2019). <a href="https://doi.org/10.1140/epja/i2019-12715-5">10.1140/epja/i2019-12715-5</a>
 * Formanek, M., Evans, S., Rafelski, J., 🌟Steinmetz, A. & Yang, C. T. Strong fields and neutral particle magnetic moment dynamics. <i>Plas. Phys. Cont. Fus.</i> 60.7 (2018). <a href="https://doi.org/10.1088/1361-6587/aac06a">10.1088/1361-6587/aac06a</a>
-* Rafelski, J., Formanek, M. & 🌟Steinmetz, A. Relativistic dynamics of point magnetic moment. <i>Eur. Phys. J. C</i> 78 (2018): 1-12. <a href="https://doi.org/10.1140/epjc/s10052-017-5493-2">10.1140/epjc/s10052-017-5493-2</a>
+* Rafelski, J., Formanek, M. & 🌟Steinmetz, A. Relativistic dynamics of point magnetic moment. <i>Eur. Phys. J. C</i> 78 (2018): 1-12. <a href="https://doi.org/10.1140/epjc/s10052-017-5493-2">10.1140/epjc/s10052-017-5493-2</a> <div data-badge-type='donut' class='altmetric-embed' data-badge-popover='left' data-doi='10.1140/epjc/s10052-017-5493-2'></div>
 
 🔗 Linked to publications and GitHub projects, if available, are provided.
