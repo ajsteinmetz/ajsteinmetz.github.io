@@ -1,10 +1,9 @@
 ### Publications 📚
 
-* Rafelski, J., Birrell, J., Grayson, C., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-collab-project), Yang, C. T. Quarks to Cosmos: Particles and Plasma in Cosmological evolution
-. <i>In press EPJ ST</i> (2024). [10.48550/arXiv.2409.19031](https://doi.org/10.48550/arXiv.2409.19031)
+* Rafelski, J., Birrell, J., Grayson, C., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-collab-project), Yang, C. T. Quarks to Cosmos: Particles and Plasma in Cosmological evolution. <i>In press EPJ ST</i> (2024). [10.48550/arXiv.2409.19031](https://doi.org/10.48550/arXiv.2409.19031)
 * Birrell, J., Formanek, M., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/fermi-distribution), Yang, C. T., Rafelski, J. Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion. <i>Int J Theor Phys</i> 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
 * 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-ajsteinmetz) Modern Topics in Relativistic Spin Dynamics and Magnetism. Doctoral dissertation. University of Arizona, 2023. <a href="http://hdl.handle.net/10150/670301">HDL:10150/670301</a>
-* Rafelski, J., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/neutrino-transition-moments) & Yang, C. T. Dynamic fermion flavor mixing through transition dipole moments. <i>IJMPA</i> 38.31 (2023): 2350163. <a href="https://doi.org/10.1142/S0217751X23501634">10.1142/S0217751X23501634</a>
+* Rafelski, J., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/neutrino-transition-moments) & Yang, C. T. Dynamic fermion flavor mixing through transition dipole moments. <i>IJMPA</i> 38.31 (2023): 2350163. <a href="https://doi.org/10.1142/S0217751X23501634">10.1142/S0217751X23501634</a> <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="154708441"></div>
   * <i>Harald Fritzsch Memorial Volume</i>, pp. 269-284 (2024). [10.1142/9789811292279_0015](https://doi.org/10.1142/9789811292279_0015)
 * 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/plasma-partition), Yang, C. T. & Rafelski, J. Matter-antimatter origin of cosmic magnetism. <i>Phys. Rev. D</i> 108 (2023): 123522. <a href="https://doi.org/10.1103/PhysRevD.108.123522">10.1103/PhysRevD.108.123522</a>
 * Rafelski, J., Birrell, J., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/a-short-survey) & Yang, C.T. A Short Survey of Matter-Antimatter Evolution in the Primordial Universe. <i>Universe</i> 9.7 (2023): 309. <a href="https://doi.org/10.3390/universe9070309">10.3390/universe9070309</a>
