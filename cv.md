@@ -76,6 +76,8 @@ Links to publications, if available, are provided.
 
 | Course #   | Course Title                      | Delivery Method | # of Sections | # of Students | Institution | Semester       |
 |------------|-----------------------------------|-----------------|---------------|---------------|-------------|----------------|
+| PHYS 371   | Quantum Theory                    | In-person       | 1             | Est. 70       | UA/ACT      | Spring 2025    |
+| PHYS 381   | Methods in Exp. Physics I         | In-person       | 2             | Est. 70       | UA/ACT      | Spring 2025    |
 | PHYS 321   | Theoretical Mechanics             | In-person       | 2             | 139           | UA/ACT      | Fall 2024      |
 | PHYS 382   | Methods in Exp. Physics II**      | In-person       | 2             | 46            | UA/ACT      | Fall 2024      |
 | ENGR 498A  | Senior Design/Capstone**          | In-person       | 1             | 43            | UA/ACT      | Fall 2024      |
