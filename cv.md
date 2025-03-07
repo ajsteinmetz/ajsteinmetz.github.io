@@ -36,6 +36,7 @@ Additional interests include analyzing the dynamics of charged particles with ma
 - **Title**: Modern Topics in Relativistic Spin Dynamics and Magnetism  
 - **Committee**: Dr. Johann Rafelski (Chair), Dr. Shufang Su (Member), Dr. John Rutherfoord (Member), Dr. Stefan Meinel (Member), Dr. Sean Fleming (Member)  
 - **HDL**: [http://hdl.handle.net/10150/670301](http://hdl.handle.net/10150/670301)
+- **Presentation**: [10.13140/RG.2.2.24323.27689](http://dx.doi.org/10.13140/RG.2.2.24323.27689)
 
 ### Journal Publications
 
@@ -65,9 +66,9 @@ Links to publications, if available, are provided.
 
 ### Invited Presentations and Talks
 
-- **Title**: Primordial Cosmic Magnetism **Event**: SMT 30th Anniversary Steward Observatory Symposium. **Location**: The University of Arizona, Tucson, Arizona. **Date**: September 22, 2023  
-- **Title**: Magnetism in the Cosmic Plasma Epoch **Event**: ELI-Beamlines Strong Fields Frontiers. **Location**: The Extreme Light Infrastructure ERIC, Prague, Czech Republic. **Date**: June 13, 2023  
-- **Title**: Magnetism in the Cosmic Plasma Epoch **Event**: Margaret Island Symposium on Particles and Plasmas. **Location**: Wigner Research Centre for Physics, Budapest, Hungary. **Date**: June 8, 2023  
+- **Title**: Primordial Cosmic Magnetism **Event**: SMT 30th Anniversary Steward Observatory Symposium. **Location**: The University of Arizona, Tucson, Arizona. **Date**: September 22, 2023. [10.13140/RG.2.2.19213.24806](http://dx.doi.org/10.13140/RG.2.2.19213.24806)
+- **Title**: Magnetism in the Cosmic Plasma Epoch **Event**: ELI-Beamlines Strong Fields Frontiers. **Location**: The Extreme Light Infrastructure ERIC, Prague, Czech Republic. **Date**: June 13, 2023. [10.13140/RG.2.2.32635.02087](http://dx.doi.org/10.13140/RG.2.2.32635.02087)
+- **Title**: Magnetism in the Cosmic Plasma Epoch **Event**: Margaret Island Symposium on Particles and Plasmas. **Location**: Wigner Research Centre for Physics, Budapest, Hungary. **Date**: June 8, 2023. [10.13140/RG.2.2.29279.57762](http://dx.doi.org/10.13140/RG.2.2.29279.57762)
 - **Title**: Relativistic Two-Body Quantum Mechanics **Event**: Grad Talk. **Location**: The University of Arizona, Tucson, Arizona. **Date**: March 2017  
 
 ### Teaching Experience (as Instructor-of-Record)
