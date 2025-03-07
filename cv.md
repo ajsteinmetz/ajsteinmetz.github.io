@@ -65,7 +65,6 @@ Links to publications, if available, are provided.
 
 ### Invited Presentations and Talks
 
-- **Title**: Quarks to Cosmos: Particles and Plasma in Cosmological Evolution. **Event**: XVIth Quark Confinement and the Hadron Spectrum Conference. (Speaker: Dr. Jan Rafelski) **Location**: Cairns, Queensland, Australia. **Date**: August 21, 2024
 - **Title**: Primordial Cosmic Magnetism **Event**: SMT 30th Anniversary Steward Observatory Symposium. **Location**: The University of Arizona, Tucson, Arizona. **Date**: September 22, 2023  
 - **Title**: Magnetism in the Cosmic Plasma Epoch **Event**: ELI-Beamlines Strong Fields Frontiers. **Location**: The Extreme Light Infrastructure ERIC, Prague, Czech Republic. **Date**: June 13, 2023  
 - **Title**: Magnetism in the Cosmic Plasma Epoch **Event**: Margaret Island Symposium on Particles and Plasmas. **Location**: Wigner Research Centre for Physics, Budapest, Hungary. **Date**: June 8, 2023  
