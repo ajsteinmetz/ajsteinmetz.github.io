@@ -59,7 +59,7 @@ Links to publications, if available, are provided.
 
 ### Works in Progress
 
-13. Steinmetz, A. & Rafelski, J. Short note on spin magnetization in QGP. Submitted to EPJ ST. (2025). [10.48550/arXiv.2502.05052](https://doi.org/10.48550/arXiv.2502.05052)
+13. Steinmetz, A. & Rafelski, J. "Short note on spin magnetization in QGP." _Submitted to EPJ ST_ (2025). [10.48550/arXiv.2502.05052](https://doi.org/10.48550/arXiv.2502.05052)
 14. Steinmetz, A. & Rafelski, J. "Magnetized primordial quark-gluon plasma." _In preparation_ (2025).
 15. Steinmetz, A., Evans, S., Formanek, M., Grayson, C., Labun, L., Price, W., Rafelski, J. "Strong fields in classical and quantum physics review." _In preparation_ (2025).
 16. Steinmetz, A., Yang, C. T. & Rafelski, J. "Electromagnetic field forcing of dynamic CP-violation in lepton sector." _In preparation_ (2025).
