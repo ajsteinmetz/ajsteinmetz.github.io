@@ -40,7 +40,7 @@ Additional interests include analyzing the dynamics of charged particles with ma
 
 ### Journal Publications
 
-1. [Steinmetz, A.](https://github.com/ajsteinmetz/short-note-qgp) & Rafelski, J. "Short Note on Spin Magnetization in QGP." _Submitted to EPJ ST_ (2025). [10.48550/arXiv.2502.05052](https://doi.org/10.48550/arXiv.2502.05052)
+1. Steinmetz, A. & Rafelski, J. "Short Note on Spin Magnetization in QGP." _Submitted to EPJ ST_ (2025). [10.48550/arXiv.2502.05052](https://doi.org/10.48550/arXiv.2502.05052)
 2. Rafelski, J., Birrell, J., Grayson, C., Steinmetz, A., Yang, C. T. "Quarks to Cosmos: Particles and Plasma in Cosmological evolution." *In press* EPJ ST (2024). [10.48550/arXiv.2409.19031](https://doi.org/10.48550/arXiv.2409.19031)
 3. Birrell, J., Formanek, M., Steinmetz, A., Yang, C. T., Rafelski, J. "Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion." *Int J Theor Phys* 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
 4. Rafelski, J., Steinmetz, A. & Yang, C. T. "Dynamic fermion flavor mixing through transition dipole moments." *IJMPA* 38.31 (2023): 2350163. [10.1142/S0217751X23501634](https://doi.org/10.1142/S0217751X23501634)
