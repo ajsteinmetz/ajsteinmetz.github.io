@@ -40,37 +40,36 @@ Additional interests include analyzing the dynamics of charged particles with ma
 
 ### Journal Publications
 
-1. Steinmetz, A. & Rafelski, J. "Short Note on Spin Magnetization in QGP." _Submitted to EPJ ST_ (2025). [10.48550/arXiv.2502.05052](https://doi.org/10.48550/arXiv.2502.05052)
-2. Rafelski, J., Birrell, J., Grayson, C., Steinmetz, A., Yang, C. T. "Quarks to Cosmos: Particles and Plasma in Cosmological evolution." *In press* EPJ ST (2024). [10.48550/arXiv.2409.19031](https://doi.org/10.48550/arXiv.2409.19031)
-3. Birrell, J., Formanek, M., Steinmetz, A., Yang, C. T., Rafelski, J. "Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion." *Int J Theor Phys* 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
-4. Rafelski, J., Steinmetz, A. & Yang, C. T. "Dynamic fermion flavor mixing through transition dipole moments." *IJMPA* 38.31 (2023): 2350163. [10.1142/S0217751X23501634](https://doi.org/10.1142/S0217751X23501634)
-5. Steinmetz, A., Yang, C. T. & Rafelski, J. "Matter-antimatter origin of cosmic magnetism." *Phys. Rev. D* 108 (2023): 123522. [10.1103/PhysRevD.108.123522](https://doi.org/10.1103/PhysRevD.108.123522)
-6. Rafelski, J., Birrell, J., Steinmetz, A. & Yang, C.T. "A Short Survey of Matter-Antimatter Evolution in the Primordial Universe." *Universe* 9.7 (2023): 309. [10.3390/universe9070309](https://doi.org/10.3390/universe9070309)
-7. Formanek, M., Steinmetz, A. & Rafelski, J. "Motion of classical charged particles with magnetic moment in external plane-wave electromagnetic fields." *Phys. Rev. A* 103.5 (2021): 052218. [10.1103/PhysRevA.103.052218](https://doi.org/10.1103/PhysRevA.103.052218)
-8. Formanek, M., Steinmetz, A. & Rafelski, J. "Radiation reaction friction: Resistive material medium." *Phys. Rev. D* 102.5 (2020): 056015. [10.1103/PhysRevD.102.056015](https://doi.org/10.1103/PhysRevD.102.056015)
-9. Formanek, M., Steinmetz, A. & Rafelski, J. "Classical neutral point particle in linearly polarized EM plane wave field." *Plasma Phys. Control. Fusion* 61.8 (2019): 084006. [10.1088/1361-6587/ab242e](https://doi.org/10.1088/1361-6587/ab242e)
-10. Steinmetz, A., Formanek, M. & Rafelski, J. "Magnetic dipole moment in relativistic quantum mechanics." *Eur. Phys. J. A* 55, 40 (2019). [10.1140/epja/i2019-12715-5](https://doi.org/10.1140/epja/i2019-12715-5)
-11. Formanek, M., Evans, S., Rafelski, J., Steinmetz, A. & Yang, C. T. "Strong fields and neutral particle magnetic moment dynamics." *Plasma Phys. Control. Fusion* 60.7 (2018). [10.1088/1361-6587/aac06a](https://doi.org/10.1088/1361-6587/aac06a)
-12. Rafelski, J., Formanek, M. & Steinmetz, A. "Relativistic dynamics of point magnetic moment." *Eur. Phys. J. C* 78 (2018): 1-12. [10.1140/epjc/s10052-017-5493-2](https://doi.org/10.1140/epjc/s10052-017-5493-2)
+1. Birrell, J., Formanek, M., **Steinmetz, A.**, Yang, C. T., Rafelski, J. "Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion." *Int J Theor Phys* 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
+2. Rafelski, J., **Steinmetz, A.** & Yang, C. T. "Dynamic fermion flavor mixing through transition dipole moments." *IJMPA* 38.31 (2023): 2350163. [10.1142/S0217751X23501634](https://doi.org/10.1142/S0217751X23501634)
+3. **Steinmetz, A.**, Yang, C. T. & Rafelski, J. "Matter-antimatter origin of cosmic magnetism." *Phys. Rev. D* 108 (2023): 123522. [10.1103/PhysRevD.108.123522](https://doi.org/10.1103/PhysRevD.108.123522)
+4. Formanek, M., **Steinmetz, A.** & Rafelski, J. "Motion of classical charged particles with magnetic moment in external plane-wave electromagnetic fields." *Phys. Rev. A* 103.5 (2021): 052218. [10.1103/PhysRevA.103.052218](https://doi.org/10.1103/PhysRevA.103.052218)
+5. Formanek, M., **Steinmetz, A.** & Rafelski, J. "Radiation reaction friction: Resistive material medium." *Phys. Rev. D* 102.5 (2020): 056015. [10.1103/PhysRevD.102.056015](https://doi.org/10.1103/PhysRevD.102.056015)
+6. Formanek, M., **Steinmetz, A.** & Rafelski, J. "Classical neutral point particle in linearly polarized EM plane wave field." *Plasma Phys. Control. Fusion* 61.8 (2019): 084006. [10.1088/1361-6587/ab242e](https://doi.org/10.1088/1361-6587/ab242e)
+7. **Steinmetz, A.**, Formanek, M. & Rafelski, J. "Magnetic dipole moment in relativistic quantum mechanics." *Eur. Phys. J. A* 55, 40 (2019). [10.1140/epja/i2019-12715-5](https://doi.org/10.1140/epja/i2019-12715-5)
+8. Formanek, M., Evans, S., Rafelski, J., **Steinmetz, A.** & Yang, C. T. "Strong fields and neutral particle magnetic moment dynamics." *Plasma Phys. Control. Fusion* 60.7 (2018). [10.1088/1361-6587/aac06a](https://doi.org/10.1088/1361-6587/aac06a)
+9. Rafelski, J., Formanek, M. & **Steinmetz, A.** "Relativistic dynamics of point magnetic moment." *Eur. Phys. J. C* 78 (2018): 1-12. [10.1140/epjc/s10052-017-5493-2](https://doi.org/10.1140/epjc/s10052-017-5493-2)
 
-Links to publications, if available, are provided.
+### Book Chapters and Review Articles
 
-### Book Chapters
-13. Rafelski, J., Steinmetz, A. & Yang, C. T. "Dynamic Flavor Mixing Through Transition Moments." *Harald Fritzsch Memorial Volume*, pp. 269-284 (2024). [10.1142/9789811292279_0015](https://doi.org/10.1142/9789811292279_0015)
+1. Rafelski, J., Birrell, J., Grayson, C., **Steinmetz, A.**, Yang, C. T. "Quarks to Cosmos: Particles and Plasma in Cosmological evolution." *In press* EPJ ST (2024). [10.48550/arXiv.2409.19031](https://doi.org/10.48550/arXiv.2409.19031)
+2. Rafelski, J., **Steinmetz, A.** & Yang, C. T. "Dynamic Flavor Mixing Through Transition Moments." *Harald Fritzsch Memorial Volume*, pp. 269-284 (2024). [10.1142/9789811292279_0015](https://doi.org/10.1142/9789811292279_0015)
+3. Rafelski, J., Birrell, J., **Steinmetz, A.** & Yang, C.T. "A Short Survey of Matter-Antimatter Evolution in the Primordial Universe." *Universe* 9.7 (2023): 309. [10.3390/universe9070309](https://doi.org/10.3390/universe9070309)
 
-### Works in Progress
+### Works in Progress or Under Review
 
-14. Steinmetz, A., Evans, S., Formanek, M., Grayson, C., Labun, L., Price, W., Rafelski, J. "Strong fields in classical and quantum physics review." _In preparation_ (2025).
-15. Steinmetz, A. & Rafelski, J. "Magnetized primordial quark-gluon plasma." _In preparation_ (2025).
-16. Steinmetz, A., Yang, C. T. & Rafelski, J. "Electromagnetic field forcing of dynamic CP-violation in lepton sector." _In preparation_ (2025).
-17. Steinmetz, A., Evans, S. "Anomalous magnetic moment in the QCD vacuum." _In preparation_ (2025).
+1. **Steinmetz, A.**, Rafelski, J. "Short Note on Spin Magnetization in QGP." _Submitted to EPJ ST_ (2025). [10.48550/arXiv.2502.05052](https://doi.org/10.48550/arXiv.2502.05052)
+2. **Steinmetz, A.**, Evans, S., Formanek, M., Grayson, C., Labun, L., Price, W., Rafelski, J. "Strong fields in classical and quantum physics." _In preparation_ (2025).
+3. **Steinmetz, A.**, Rafelski, J. "Magnetized primordial heavy-quark plasma." _In preparation_ (2025).
+4. **Steinmetz, A.**, Yang, C. T. & Rafelski, J. "Electromagnetic field forcing of dynamic CP-violation in lepton sector." _In preparation_ (2025).
+5. **Steinmetz, A.**, Evans, S. "Anomalous magnetic moment in the QCD vacuum." _In preparation_ (2025).
 
-### Invited Presentations and Talks
+### Invited Talks and Conference Presentations
 
-- **Title**: Primordial Cosmic Magnetism **Event**: SMT 30th Anniversary Steward Observatory Symposium. **Location**: The University of Arizona, Tucson, Arizona. **Date**: September 22, 2023. [10.13140/RG.2.2.19213.24806](http://dx.doi.org/10.13140/RG.2.2.19213.24806)
-- **Title**: Magnetism in the Cosmic Plasma Epoch **Event**: ELI-Beamlines Strong Fields Frontiers. **Location**: The Extreme Light Infrastructure ERIC, Prague, Czech Republic. **Date**: June 13, 2023. [10.13140/RG.2.2.32635.02087](http://dx.doi.org/10.13140/RG.2.2.32635.02087)
-- **Title**: Magnetism in the Cosmic Plasma Epoch **Event**: Margaret Island Symposium on Particles and Plasmas. **Location**: Wigner Research Centre for Physics, Budapest, Hungary. **Date**: June 8, 2023. [10.13140/RG.2.2.29279.57762](http://dx.doi.org/10.13140/RG.2.2.29279.57762)
-- **Title**: Relativistic Two-Body Quantum Mechanics **Event**: Grad Talk. **Location**: The University of Arizona, Tucson, Arizona. **Date**: March 2017  
+1. **Title**: Primordial Cosmic Magnetism **Event**: SMT 30th Anniversary Steward Observatory Symposium. **Location**: The University of Arizona, Tucson, Arizona. **Date**: September 22, 2023. [10.13140/RG.2.2.19213.24806](http://dx.doi.org/10.13140/RG.2.2.19213.24806)
+2. **Title**: Magnetism in the Cosmic Plasma Epoch **Event**: ELI-Beamlines Strong Fields Frontiers. **Location**: The Extreme Light Infrastructure ERIC, Prague, Czech Republic. **Date**: June 13, 2023. [10.13140/RG.2.2.32635.02087](http://dx.doi.org/10.13140/RG.2.2.32635.02087)
+3. **Title**: Magnetism in the Cosmic Plasma Epoch **Event**: Margaret Island Symposium on Particles and Plasmas. **Location**: Wigner Research Centre for Physics, Budapest, Hungary. **Date**: June 8, 2023. [10.13140/RG.2.2.29279.57762](http://dx.doi.org/10.13140/RG.2.2.29279.57762)
+4. **Title**: Relativistic Two-Body Quantum Mechanics **Event**: Grad Talk. **Location**: The University of Arizona, Tucson, Arizona. **Date**: March 2017  
 
 ### Teaching Experience (as Instructor-of-Record)
 
@@ -101,6 +100,11 @@ Links to publications, if available, are provided.
 - **ACT**: Arizona College of Technology, Hebei University of Technology  
 - **PCC**: Pima Community College  
 - **IN**: Integrated Lecture and Laboratory
+
+## Academic Service
+- Member, Department of Physics, University of Arizona, Faculty Search Committee, 2025
+- Member, Department of Physics, University of Arizona, Faculty Search Committee, 2024
+- Reviewer for _Physical Review D_, _Modern Physics Letters A_, _MDPI Universe_, and _ICPMS 2025_.
 
 ## Public Outreach and Press
 
