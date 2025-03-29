@@ -40,15 +40,16 @@ Additional interests include analyzing the dynamics of charged particles with ma
 
 ### Journal Publications
 
-1. Birrell, J., Formanek, M., **Steinmetz, A.**, Yang, C. T., Rafelski, J. "Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion." *Int J Theor Phys* 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
-2. Rafelski, J., **Steinmetz, A.** & Yang, C. T. "Dynamic fermion flavor mixing through transition dipole moments." *IJMPA* 38.31 (2023): 2350163. [10.1142/S0217751X23501634](https://doi.org/10.1142/S0217751X23501634)
-3. **Steinmetz, A.**, Yang, C. T. & Rafelski, J. "Matter-antimatter origin of cosmic magnetism." *Phys. Rev. D* 108 (2023): 123522. [10.1103/PhysRevD.108.123522](https://doi.org/10.1103/PhysRevD.108.123522)
-4. Formanek, M., **Steinmetz, A.** & Rafelski, J. "Motion of classical charged particles with magnetic moment in external plane-wave electromagnetic fields." *Phys. Rev. A* 103.5 (2021): 052218. [10.1103/PhysRevA.103.052218](https://doi.org/10.1103/PhysRevA.103.052218)
-5. Formanek, M., **Steinmetz, A.** & Rafelski, J. "Radiation reaction friction: Resistive material medium." *Phys. Rev. D* 102.5 (2020): 056015. [10.1103/PhysRevD.102.056015](https://doi.org/10.1103/PhysRevD.102.056015)
-6. Formanek, M., **Steinmetz, A.** & Rafelski, J. "Classical neutral point particle in linearly polarized EM plane wave field." *Plasma Phys. Control. Fusion* 61.8 (2019): 084006. [10.1088/1361-6587/ab242e](https://doi.org/10.1088/1361-6587/ab242e)
-7. **Steinmetz, A.**, Formanek, M. & Rafelski, J. "Magnetic dipole moment in relativistic quantum mechanics." *Eur. Phys. J. A* 55, 40 (2019). [10.1140/epja/i2019-12715-5](https://doi.org/10.1140/epja/i2019-12715-5)
-8. Formanek, M., Evans, S., Rafelski, J., **Steinmetz, A.** & Yang, C. T. "Strong fields and neutral particle magnetic moment dynamics." *Plasma Phys. Control. Fusion* 60.7 (2018). [10.1088/1361-6587/aac06a](https://doi.org/10.1088/1361-6587/aac06a)
-9. Rafelski, J., Formanek, M. & **Steinmetz, A.** "Relativistic dynamics of point magnetic moment." *Eur. Phys. J. C* 78 (2018): 1-12. [10.1140/epjc/s10052-017-5493-2](https://doi.org/10.1140/epjc/s10052-017-5493-2)
+1. **Steinmetz, A.**, Rafelski, J. "Short Note on Spin Magnetization in QGP." _In press EPJ ST_ (2025). [10.48550/arXiv.2502.05052](https://doi.org/10.48550/arXiv.2502.05052)
+2. Birrell, J., Formanek, M., **Steinmetz, A.**, Yang, C. T., Rafelski, J. "Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion." *Int J Theor Phys* 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
+3. Rafelski, J., **Steinmetz, A.** & Yang, C. T. "Dynamic fermion flavor mixing through transition dipole moments." *IJMPA* 38.31 (2023): 2350163. [10.1142/S0217751X23501634](https://doi.org/10.1142/S0217751X23501634)
+4. **Steinmetz, A.**, Yang, C. T. & Rafelski, J. "Matter-antimatter origin of cosmic magnetism." *Phys. Rev. D* 108 (2023): 123522. [10.1103/PhysRevD.108.123522](https://doi.org/10.1103/PhysRevD.108.123522)
+5. Formanek, M., **Steinmetz, A.** & Rafelski, J. "Motion of classical charged particles with magnetic moment in external plane-wave electromagnetic fields." *Phys. Rev. A* 103.5 (2021): 052218. [10.1103/PhysRevA.103.052218](https://doi.org/10.1103/PhysRevA.103.052218)
+6. Formanek, M., **Steinmetz, A.** & Rafelski, J. "Radiation reaction friction: Resistive material medium." *Phys. Rev. D* 102.5 (2020): 056015. [10.1103/PhysRevD.102.056015](https://doi.org/10.1103/PhysRevD.102.056015)
+7. Formanek, M., **Steinmetz, A.** & Rafelski, J. "Classical neutral point particle in linearly polarized EM plane wave field." *Plasma Phys. Control. Fusion* 61.8 (2019): 084006. [10.1088/1361-6587/ab242e](https://doi.org/10.1088/1361-6587/ab242e)
+8. **Steinmetz, A.**, Formanek, M. & Rafelski, J. "Magnetic dipole moment in relativistic quantum mechanics." *Eur. Phys. J. A* 55, 40 (2019). [10.1140/epja/i2019-12715-5](https://doi.org/10.1140/epja/i2019-12715-5)
+9. Formanek, M., Evans, S., Rafelski, J., **Steinmetz, A.** & Yang, C. T. "Strong fields and neutral particle magnetic moment dynamics." *Plasma Phys. Control. Fusion* 60.7 (2018). [10.1088/1361-6587/aac06a](https://doi.org/10.1088/1361-6587/aac06a)
+10. Rafelski, J., Formanek, M. & **Steinmetz, A.** "Relativistic dynamics of point magnetic moment." *Eur. Phys. J. C* 78 (2018): 1-12. [10.1140/epjc/s10052-017-5493-2](https://doi.org/10.1140/epjc/s10052-017-5493-2)
 
 ### Book Chapters and Review Articles
 
@@ -58,11 +59,10 @@ Additional interests include analyzing the dynamics of charged particles with ma
 
 ### Works in Progress or Under Review
 
-1. **Steinmetz, A.**, Rafelski, J. "Short Note on Spin Magnetization in QGP." _Submitted to EPJ ST_ (2025). [10.48550/arXiv.2502.05052](https://doi.org/10.48550/arXiv.2502.05052)
-2. **Steinmetz, A.**, Evans, S., Formanek, M., Grayson, C., Labun, L., Price, W., Rafelski, J. "Strong fields in classical and quantum physics." _In preparation_ (2025).
-3. **Steinmetz, A.**, Rafelski, J. "Magnetized primordial heavy-quark plasma." _In preparation_ (2025).
-4. **Steinmetz, A.**, Yang, C. T. & Rafelski, J. "Electromagnetic field forcing of dynamic CP-violation in lepton sector." _In preparation_ (2025).
-5. **Steinmetz, A.**, Evans, S. "Anomalous magnetic moment in the QCD vacuum." _In preparation_ (2025).
+1. **Steinmetz, A.**, Evans, S., Formanek, M., Grayson, C., Labun, L., Price, W., Rafelski, J. "Strong fields in classical and quantum physics." _In preparation_ (2025). (First draft nearly complete)
+2. **Steinmetz, A.**, Rafelski, J. "Magnetized primordial heavy-quark plasma." _In preparation_ (2025). (Partial first draft)
+3. **Steinmetz, A.**, Yang, C. T. & Rafelski, J. "Electromagnetic field forcing of dynamic CP-violation in lepton sector." _In preparation_ (2025). (Partial first draft)
+4. **Steinmetz, A.**, Evans, S. "Anomalous magnetic moment in the QCD vacuum." _In preparation_ (2025). (Partial first draft)
 
 ### Invited Talks and Conference Presentations
 
