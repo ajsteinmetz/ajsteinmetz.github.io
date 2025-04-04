@@ -21,9 +21,9 @@
 
 | Degree                  | Field               | Institution              | Dates        |
 |-------------------------|---------------------|--------------------------|--------------|
-| Doctor of Philosophy (Ph.D.) | Physics       | The University of Arizona | 2015 – 2023 |
-| Bachelor of Science (B.S.)   | Physics       | The University of Arizona | 2009 – 2014 |
-| Bachelor of Science (B.S.)   | Chemical Engineering | The University of Arizona | 2009 – 2014 |
+| Doctor of Philosophy (PhD) | Physics       | The University of Arizona | 2015 – 2023 |
+| Bachelor of Science (BS)   | Physics       | The University of Arizona | 2009 – 2014 |
+| Bachelor of Science (BS)   | Chemical Engineering | The University of Arizona | 2009 – 2014 |
 
 ### Research Interests
 
