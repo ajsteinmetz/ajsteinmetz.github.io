@@ -1,5 +1,7 @@
 ### Publications 📚
 
+🔗 Linked to publications and GitHub projects, if available, are provided.
+
 #### Journal Publications
 
 1. **[Steinmetz, A.](https://github.com/ajsteinmetz/short-note-qgp)**, Rafelski, J. "Short Note on Spin Magnetization in QGP." <i>Eur. Phys. J. ST</i> (in press, 2025). [10.48550/arXiv.2502.05052](https://doi.org/10.48550/arXiv.2502.05052)
@@ -26,5 +28,3 @@
 - **HDL**: [http://hdl.handle.net/10150/670301](http://hdl.handle.net/10150/670301)
 - **Presentation**: [10.13140/RG.2.2.24323.27689](http://dx.doi.org/10.13140/RG.2.2.24323.27689)
 - **GitHub**: [https://github.com/ajsteinmetz/thesis-ajsteinmetz](https://github.com/ajsteinmetz/thesis-ajsteinmetz)
-
-🔗 Linked to publications and GitHub projects, if available, are provided.
