@@ -34,12 +34,12 @@ Additional interests include analyzing the dynamics of charged particles with ma
 ### Dissertation
 
 - **Title**: Modern Topics in Relativistic Spin Dynamics and Magnetism  
-- **Committee**: Dr. Johann Rafelski (Chair), Dr. Shufang Su (Member), Dr. John Rutherfoord (Member), Dr. Stefan Meinel (Member), Dr. Sean Fleming (Member)  
+- **Committee**: Prof. Johann Rafelski (Chair), Prof. Shufang Su (Member), Prof. John Rutherfoord (Member), Prof. Stefan Meinel (Member), Prof. Sean Fleming (Member)  
 - **HDL**: [http://hdl.handle.net/10150/670301](http://hdl.handle.net/10150/670301)
 - **Presentation**: [10.13140/RG.2.2.24323.27689](http://dx.doi.org/10.13140/RG.2.2.24323.27689)
 - **GitHub**: [https://github.com/ajsteinmetz/thesis-ajsteinmetz](https://github.com/ajsteinmetz/thesis-ajsteinmetz)
 
-### Journal Publications
+### Published Journal Articles
 
 1. **[Steinmetz, A.](https://github.com/ajsteinmetz/short-note-qgp)**, Rafelski, J. "Short Note on Spin Magnetization in QGP." _In press EPJ ST_ (2025). [10.48550/arXiv.2502.05052](https://doi.org/10.48550/arXiv.2502.05052)
 2. Birrell, J., Formanek, M., **[Steinmetz, A.](https://github.com/ajsteinmetz/fermi-distribution)**, Yang, C. T., Rafelski, J. "Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion." *IJTP* 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
@@ -52,32 +52,32 @@ Additional interests include analyzing the dynamics of charged particles with ma
 9. Formanek, M., Evans, S., Rafelski, J., **Steinmetz, A.**, Yang, C. T. "Strong fields and neutral particle magnetic moment dynamics." *Plasma Phys. Control. Fusion* 60.7 (2018). [10.1088/1361-6587/aac06a](https://doi.org/10.1088/1361-6587/aac06a)
 10. Rafelski, J., Formanek, M., **Steinmetz, A.** "Relativistic dynamics of point magnetic moment." *Eur. Phys. J. C* 78 (2018): 1-12. [10.1140/epjc/s10052-017-5493-2](https://doi.org/10.1140/epjc/s10052-017-5493-2)
 
-### Book Chapters and Review Articles
+### Published Book Chapters & Review Articles
 
 1. Rafelski, J., Birrell, J., Grayson, C., **[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-collab-project)**, Yang, C. T. "Quarks to Cosmos: Particles and Plasma in Cosmological evolution." *In press* EPJ ST (2024). [10.48550/arXiv.2409.19031](https://doi.org/10.48550/arXiv.2409.19031)
 2. Rafelski, J., **Steinmetz, A.**, Yang, C. T. "Dynamic Flavor Mixing Through Transition Moments." *Harald Fritzsch Memorial Volume*, pp. 269-284 (2024). [10.1142/9789811292279_0015](https://doi.org/10.1142/9789811292279_0015)
 3. Rafelski, J., Birrell, J., **[Steinmetz, A.](https://github.com/ajsteinmetz/a-short-survey)**, Yang, C.T. "A Short Survey of Matter-Antimatter Evolution in the Primordial Universe." *Universe* 9.7 (2023): 309. [10.3390/universe9070309](https://doi.org/10.3390/universe9070309)
 
-### Works in Progress or Under Review
+### Works in Progress
 
-1. **Steinmetz, A.**, Evans, S., Formanek, M., Grayson, C., Labun, L., Price, W., Rafelski, J. "Strong fields in classical and quantum physics." _In preparation_ (2025). (First draft nearly complete)
-2. **Steinmetz, A.**, Rafelski, J. "Magnetized primordial heavy-quark plasma." _In preparation_ (2025). (Partial first draft)
-3. **Steinmetz, A.**, Yang, C. T., Rafelski, J. "Electromagnetic field forcing of dynamic CP-violation in lepton sector." _In preparation_ (2025). (Partial first draft)
-4. **Steinmetz, A.**, Evans, S. "Anomalous magnetic moment in the QCD vacuum." _In preparation_ (2025). (Partial first draft)
+1. **Steinmetz, A.**, Evans, S., Formanek, M., Grayson, C., Labun, L., Price, W., Rafelski, J. "Strong fields in classical and quantum physics." _In preparation_ (2025).
+2. **Steinmetz, A.**, Rafelski, J. "Magnetized primordial heavy-quark plasma." _In preparation_ (2025).
+3. **Steinmetz, A.**, Yang, C. T., Rafelski, J. "Electromagnetic field forcing of dynamic CP-violation in lepton sector." _In preparation_ (2025).
+4. Evans, S., **Steinmetz, A.** "Anomalous magnetic moment in the QCD vacuum." _In preparation_ (2025).
 
 ### Invited Talks and Conference Presentations
 
-1. **Title**: Primordial Cosmic Magnetism **Event**: SMT 30th Anniversary Steward Observatory Symposium. **Location**: The University of Arizona, Tucson, Arizona. **Date**: September 22, 2023. [10.13140/RG.2.2.19213.24806](http://dx.doi.org/10.13140/RG.2.2.19213.24806)
-2. **Title**: Magnetism in the Cosmic Plasma Epoch **Event**: ELI-Beamlines Strong Fields Frontiers. **Location**: The Extreme Light Infrastructure ERIC, Prague, Czech Republic. **Date**: June 13, 2023. [10.13140/RG.2.2.32635.02087](http://dx.doi.org/10.13140/RG.2.2.32635.02087)
-3. **Title**: Magnetism in the Cosmic Plasma Epoch **Event**: Margaret Island Symposium on Particles and Plasmas. **Location**: Wigner Research Centre for Physics, Budapest, Hungary. **Date**: June 8, 2023. [10.13140/RG.2.2.29279.57762](http://dx.doi.org/10.13140/RG.2.2.29279.57762)
-4. **Title**: Relativistic Two-Body Quantum Mechanics **Event**: Grad Talk. **Location**: The University of Arizona, Tucson, Arizona. **Date**: March 2017  
+1. **Title**: Primordial Cosmic Magnetism. **Event**: SMT 30th Anniversary Steward Observatory Symposium. The University of Arizona, Tucson, Arizona. September 22, 2023. [10.13140/RG.2.2.19213.24806](http://dx.doi.org/10.13140/RG.2.2.19213.24806)
+2. **Title**: Magnetism in the Cosmic Plasma Epoch. **Event**: ELI-Beamlines Strong Fields Frontiers. The Extreme Light Infrastructure ERIC, Prague, Czech Republic. June 13, 2023. [10.13140/RG.2.2.32635.02087](http://dx.doi.org/10.13140/RG.2.2.32635.02087)
+3. **Title**: Magnetism in the Cosmic Plasma Epoch. **Event**: Margaret Island Symposium on Particles and Plasmas. HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 8, 2023. [10.13140/RG.2.2.29279.57762](http://dx.doi.org/10.13140/RG.2.2.29279.57762)
+4. **Title**: Relativistic Two-Body Quantum Mechanics. **Event**: Physics Department Grad Talk. The University of Arizona, Tucson, Arizona. March, 2017.
 
-### Teaching Experience (as Instructor-of-Record)
+### Teaching Experience (as Instructor-of-Record)*
 
 | Course #   | Course Title                      | Delivery Method | # of Sections | # of Students | Institution | Semester       |
 |------------|-----------------------------------|-----------------|---------------|---------------|-------------|----------------|
-| PHYS 371   | Quantum Theory                    | In-person       | 1             | Est. 70       | UA/ACT      | Spring 2025    |
-| PHYS 381   | Methods in Exp. Physics I         | In-person       | 2             | Est. 70       | UA/ACT      | Spring 2025    |
+| PHYS 371   | Quantum Theory                    | In-person       | 1             | 75            | UA/ACT      | Spring 2025    |
+| PHYS 381   | Methods in Exp. Physics I         | In-person       | 2             | 67            | UA/ACT      | Spring 2025    |
 | PHYS 321   | Theoretical Mechanics             | In-person       | 2             | 139           | UA/ACT      | Fall 2024      |
 | PHYS 382   | Methods in Exp. Physics II**      | In-person       | 2             | 46            | UA/ACT      | Fall 2024      |
 | ENGR 498A  | Senior Design/Capstone**          | In-person       | 1             | 43            | UA/ACT      | Fall 2024      |
@@ -94,15 +94,13 @@ Additional interests include analyzing the dynamics of charged particles with ma
 | AST 101IN  | The Solar System                  | Virtual         | 1             | 24            | PCC         | Fall 2020      |
 | PHY 121IN  | Intro. Physics I                  | Online          | 1             | 25            | PCC         | Fall 2020      |
 
+* Recent student course evaluations available upon request.
 ** First time offered at this institution. Designed, developed, and delivered curriculum.
 
-**Key**:  
-- **UA**: The University of Arizona  
-- **ACT**: Arizona College of Technology, Hebei University of Technology  
-- **PCC**: Pima Community College  
-- **IN**: Integrated Lecture and Laboratory
+**Key**: UA (The University of Arizona), ACT (Arizona College of Technology, Hebei University of Technology), PCC (Pima Community College), IN (Integrated Lecture and Laboratory)
 
 ## Academic Service
+- Organizer, Undergraduate Journal Club, Arizona College of Technology, Hebei University of Technology
 - Member, Department of Physics, University of Arizona, Faculty Search Committee, 2025
 - Member, Department of Physics, University of Arizona, Faculty Search Committee, 2024
 - Reviewer for _Physical Review D_, _Modern Physics Letters A_, _MDPI Universe_, and _ICPMS 2025_.
