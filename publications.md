@@ -3,7 +3,7 @@
 #### Journal Publications
 
 1. **[Steinmetz, A.](https://github.com/ajsteinmetz/short-note-qgp)**, Rafelski, J. "Short Note on Spin Magnetization in QGP." _In press EPJ ST_ (2025). [10.48550/arXiv.2502.05052](https://doi.org/10.48550/arXiv.2502.05052)
-2. Birrell, J., Formanek, M., **[Steinmetz, A.](https://github.com/ajsteinmetz/fermi-distribution)**, Yang, C. T., Rafelski, J. "Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion." *Int J Theor Phys* 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
+2. Birrell, J., Formanek, M., **[Steinmetz, A.](https://github.com/ajsteinmetz/fermi-distribution)**, Yang, C. T., Rafelski, J. "Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion." *IJTP* 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
 3. Rafelski, J., **[Steinmetz, A.](https://github.com/ajsteinmetz/neutrino-transition-moments)**, Yang, C. T. "Dynamic fermion flavor mixing through transition dipole moments." *IJMPA* 38.31 (2023): 2350163. [10.1142/S0217751X23501634](https://doi.org/10.1142/S0217751X23501634)
 4. **[Steinmetz, A.](https://github.com/ajsteinmetz/plasma-partition)**, Yang, C. T., Rafelski, J. "Matter-antimatter origin of cosmic magnetism." *Phys. Rev. D* 108 (2023): 123522. [10.1103/PhysRevD.108.123522](https://doi.org/10.1103/PhysRevD.108.123522)
 5. Formanek, M., **Steinmetz, A.**, Rafelski, J. "Motion of classical charged particles with magnetic moment in external plane-wave electromagnetic fields." *Phys. Rev. A* 103.5 (2021): 052218. [10.1103/PhysRevA.103.052218](https://doi.org/10.1103/PhysRevA.103.052218)
@@ -25,6 +25,6 @@
 - **Committee**: Dr. Johann Rafelski (Chair), Dr. Shufang Su (Member), Dr. John Rutherfoord (Member), Dr. Stefan Meinel (Member), Dr. Sean Fleming (Member)  
 - **HDL**: [http://hdl.handle.net/10150/670301](http://hdl.handle.net/10150/670301)
 - **Presentation**: [10.13140/RG.2.2.24323.27689](http://dx.doi.org/10.13140/RG.2.2.24323.27689)
-- **GitHub**: https://github.com/ajsteinmetz/thesis-ajsteinmetz
+- **GitHub**: [https://github.com/ajsteinmetz/thesis-ajsteinmetz](https://github.com/ajsteinmetz/thesis-ajsteinmetz)
 
 🔗 Linked to publications and GitHub projects, if available, are provided.
