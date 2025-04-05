@@ -1,5 +1,7 @@
 # Home 🏡
 
+Hi, I’m Dr. Andrew James Steinmetz! Welcome to my personal website where I share my projects, blogs, and research in physics. I’m a Global Professor in the Department of Physics at The University of Arizona, with a role at the Arizona College of Technology at the Hebei University of Technology in Tianjin, China. My work focuses on ⚛ quantum mechanics, 🌌 cosmology, and 🧲 electromagnetism.
+
 ## Recent Publications
 
 * 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/short-note-qgp), Rafelski, J. Short Note on Spin Magnetization in QGP. <i>Eur. Phys. J. ST</i> (in press, 2025). [10.48550/arXiv.2502.05052](https://doi.org/10.48550/arXiv.2502.05052)
