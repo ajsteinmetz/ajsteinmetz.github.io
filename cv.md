@@ -25,7 +25,9 @@
 
 ### Research Interests
 
-Advancing relativistic spin dynamics and anomalous magnetic moments within quantum and classical frameworks. Researching the role of matter-antimatter interactions in cosmic magnetism. Developing novel asymptotic expansions for Fermi-Dirac integrals in extreme conditions in astrophysics, quark-gluon plasma, and cosmology. Additional interests include nonlinear electromagnetism, radiation reaction, and neutrino physics in strong fields. 
+- **Relativistic Spin Dynamics:** Exploring non-minimal (and nonlinear) electromagnetism (EM) in quantum mechanics utilizing the Klein-Gordon-Pauli (KGP) equation, or classically via modifying the covariant Thomas-Bargman-Michel-Telegdi (TMBT) torque equation.
+- **Neutrino Physics:** EM mixing of neutrino flavor through transition magnetic dipole moments as a possible probe of the hierarchy problem. Exploring possible EM-induced neutrino mass splitting.
+- **Cosmic Magnetization:** Magnetized spin-polarized thermal plasmas during the electron-positron and quark-gluon-plasma (QGP) epochs as a possible origin of primordial magnetic fields (PMF).
 
 ### Dissertation
 
