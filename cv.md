@@ -95,9 +95,8 @@
 - **Key:** UA (The University of Arizona), ACT (Arizona College of Technology, Hebei University of Technology), PCC (Pima Community College)
 
 ### Academic Service
-- Organizer, Undergraduate Journal Club, Hebei University of Technology, 2025.
-- Member, Department of Physics, University of Arizona, Faculty Search Committee, 2025.
-- Member, Department of Physics, University of Arizona, Faculty Search Committee, 2024.
+- Organizer, Undergraduate Journal Club, Hebei University of Technology, (2025).
+- Member, Department of Physics, University of Arizona, Faculty Search Committee, (2024, 2025).
 - Reviewer for _Physical Review D_, _Modern Physics Letters A_, _MDPI Universe_, and _ICPMS 2025_.
 
 ### Press
