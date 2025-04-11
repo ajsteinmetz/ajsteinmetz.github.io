@@ -38,7 +38,7 @@
 ### Publications
 #### Peer-Reviewed Journal Articles
 
-1. **[Steinmetz, A.](https://github.com/ajsteinmetz/short-note-qgp)**, Rafelski, J. "Short Note on Spin Magnetization in QGP." <i>Eur. Phys. J. ST</i> (in press, 2025). [10.48550/arXiv.2502.05052](https://doi.org/10.48550/arXiv.2502.05052)
+1. **[Steinmetz, A.](https://github.com/ajsteinmetz/short-note-qgp)**, Rafelski, J. "Short note on spin magnetization in QGP." <i>Eur. Phys. J. Spec. Top.</i> (2025). [10.1140/epjs/s11734-025-01625-9](https://doi.org/10.1140/epjs/s11734-025-01625-9)
 2. Birrell, J., Formanek, M., **[Steinmetz, A.](https://github.com/ajsteinmetz/fermi-distribution)**, Yang, C. T., Rafelski, J. "Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion." <i>Int. J. Theor. Phys.</i> 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
 3. Rafelski, J., **[Steinmetz, A.](https://github.com/ajsteinmetz/neutrino-transition-moments)**, Yang, C. T. "Dynamic fermion flavor mixing through transition dipole moments." *IJMPA* 38.31 (2023): 2350163. [10.1142/S0217751X23501634](https://doi.org/10.1142/S0217751X23501634)
 4. **[Steinmetz, A.](https://github.com/ajsteinmetz/plasma-partition)**, Yang, C. T., Rafelski, J. "Matter-antimatter origin of cosmic magnetism." *Phys. Rev. D* 108 (2023): 123522. [10.1103/PhysRevD.108.123522](https://doi.org/10.1103/PhysRevD.108.123522)
@@ -51,7 +51,7 @@
 
 #### Book Chapters & Review Articles
 
-1. Rafelski, J., Birrell, J., Grayson, C., **[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-collab-project)**, Yang, C. T. "Quarks to Cosmos: Particles and Plasma in Cosmological evolution." <i>Eur. Phys. J. ST</i> (in press, 2025). [10.48550/arXiv.2409.19031](https://doi.org/10.48550/arXiv.2409.19031)
+1. Rafelski, J., Birrell, J., Grayson, C., **[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-collab-project)**, Yang, C. T. "Quarks to cosmos: particles and plasma in cosmological evolution." <i>Eur. Phys. J. ST</i> (in press, 2025). [10.48550/arXiv.2409.19031](https://doi.org/10.48550/arXiv.2409.19031)
 2. Rafelski, J., **Steinmetz, A.**, Yang, C. T. "Dynamic Flavor Mixing Through Transition Moments." *Harald Fritzsch Memorial Volume*, pp. 269-284 (2024). [10.1142/9789811292279_0015](https://doi.org/10.1142/9789811292279_0015)
 3. Rafelski, J., Birrell, J., **[Steinmetz, A.](https://github.com/ajsteinmetz/a-short-survey)**, Yang, C.T. "A Short Survey of Matter-Antimatter Evolution in the Primordial Universe." *Universe* 9.7 (2023): 309. [10.3390/universe9070309](https://doi.org/10.3390/universe9070309)
 
