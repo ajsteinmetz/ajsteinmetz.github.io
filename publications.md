@@ -25,6 +25,4 @@
 
 - **Title**: Modern Topics in Relativistic Spin Dynamics and Magnetism  
 - **Committee**: Dr. Johann Rafelski (Chair), Dr. Shufang Su (Member), Dr. John Rutherfoord (Member), Dr. Stefan Meinel (Member), Dr. Sean Fleming (Member)  
-- **HDL**: [http://hdl.handle.net/10150/670301](http://hdl.handle.net/10150/670301)
-- **Presentation**: [10.13140/RG.2.2.24323.27689](http://dx.doi.org/10.13140/RG.2.2.24323.27689)
-- **GitHub**: [https://github.com/ajsteinmetz/thesis-ajsteinmetz](https://github.com/ajsteinmetz/thesis-ajsteinmetz)
+- **HDL**: [http://hdl.handle.net/10150/670301](http://hdl.handle.net/10150/670301) **Presentation**: [10.13140/RG.2.2.24323.27689](http://dx.doi.org/10.13140/RG.2.2.24323.27689)
