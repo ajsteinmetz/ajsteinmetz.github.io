@@ -1,3 +1,5 @@
+## Publications 📚
+
 <style>
   /* Reusable container for badges */
   .badge-box {
@@ -27,10 +29,8 @@
   });
 </script>
 
-<!-- Begin Publications section -->
-<h4>Publications 📚</h4>
-
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 <p>🔗 Linked to publications and GitHub projects, if available, are provided.</p>
