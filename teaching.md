@@ -1,6 +1,8 @@
 ## Teaching ✏️
 
-### Teaching Experience (as Instructor-of-Record)\*
+**Key:** UA (The University of Arizona), ACT (Arizona College of Technology, Hebei University of Technology), PCC (Pima Community College)
+
+### Teaching Record (as Instructor-of-Record)\*
 
 | Course #   | Course Title                      | Delivery Method | # of Sections | # of Students | Institution | Semester       |
 |------------|-----------------------------------|-----------------|---------------|---------------|-------------|----------------|
@@ -26,24 +28,23 @@
 
 \** First time offered at this institution. Designed, developed, and delivered curriculum.
 
-### Teaching Experience (as Teaching Assistant)
+### Teaching Record (as Teaching Assistant)
 
-| Course                                       | Delivery Method | # of Sections | # of Students | Institution | Semester    |
-|----------------------------------------------|-----------------|---------------|---------------|-------------|-------------|
-| CHEM 164H – Honors Gen. Chemistry Lab        | In-person       | 1             | 13            | UA          | Spring 2023 |
-| CHEM 152 – Gen. Chemistry II Lab             | In-person       | 2             | 50            | UA          | Fall 2022   |
-| CHEM 151 – Gen. Chemistry I Lab              | In-person       | 2             | 49            | UA          | Spring 2022 |
-| CHEM 151 – Gen. Chemistry I Lab              | In-person       | 2             | 46            | UA          | Fall 2021   |
-| PHYS 139 – Intro. Mechanics Lab              | Online          | 1             | ~20           | UA          | Spring 2020 |
-| PHYS 181/182 – Intro. Physics Lab I/II        | Online          | 2             | ~40           | UA          | Spring 2020 |
-| CHEM 151 – Gen. Chemistry I Lab              | In-person       | 2             | 47            | UA          | Fall 2019   |
-| PHYS 382 – Methods in Exp. Physics II         | In-person       | 2             | 13            | UA          | Spring 2019 |
-| PHYS 382 – Methods in Exp. Physics I          | In-person       | 2             | 28            | UA          | Spring 2019 |
-| PHYS 381 – Methods in Exp. Physics I          | In-person       | 1             | 19            | UA          | Fall 2018   |
-| PHYS 382 – Methods in Exp. Physics II         | In-person       | 2             | 17            | UA          | Spring 2018 |
-| PHYS 381 – Methods in Exp. Physics I          | In-person       | 2             | 13            | UA          | Spring 2018 |
-| PHYS 240 – Intro. Electricity & Magnetism Lab | In-person       | 1             | ~20           | UA          | Fall 2017   |
-| PHYS 105 – Intro. to Scientific Computing     | In-person       | 1             | 37            | UA          | Fall 2017   |
-| PHYS 105 – Intro. to Scientific Computing     | In-person       | 1             | ~30           | UA          | Spring 2017 |
+| Course #   | Course Title                       | Delivery Method | # of Sections | # of Students | Institution | Semester    |
+|------------|------------------------------------|-----------------|---------------|---------------|-------------|-------------|
+| CHEM 164H  | Honors Gen. Chemistry Lab          | In-person       | 1             | 13            | UA          | Spring 2023 |
+| CHEM 152   | Gen. Chemistry II Lab              | In-person       | 2             | 50            | UA          | Fall 2022   |
+| CHEM 151   | Gen. Chemistry I Lab               | In-person       | 2             | 49            | UA          | Spring 2022 |
+| CHEM 151   | Gen. Chemistry I Lab               | In-person       | 2             | 46            | UA          | Fall 2021   |
+| PHYS 139   | Intro. Mechanics Lab               | Online          | 1             | Est. 20       | UA          | Spring 2020 |
+| PHYS 181/2 | Intro. Physics Lab I/II            | Online          | 2             | Est. 40       | UA          | Spring 2020 |
+| CHEM 151   | Gen. Chemistry I Lab               | In-person       | 2             | 47            | UA          | Fall 2019   |
+| PHYS 382   | Methods in Exp. Physics II         | In-person       | 2             | 13            | UA          | Spring 2019 |
+| PHYS 382   | Methods in Exp. Physics I          | In-person       | 2             | 28            | UA          | Spring 2019 |
+| PHYS 381   | Methods in Exp. Physics I          | In-person       | 1             | 19            | UA          | Fall 2018   |
+| PHYS 382   | Methods in Exp. Physics II         | In-person       | 2             | 17            | UA          | Spring 2018 |
+| PHYS 381   | Methods in Exp. Physics I          | In-person       | 2             | 13            | UA          | Spring 2018 |
+| PHYS 240   | Intro. Electricity & Magnetism Lab | In-person       | 1             | Est. 20       | UA          | Fall 2017   |
+| PHYS 105   | Intro. to Scientific Computing     | In-person       | 1             | 37            | UA          | Fall 2017   |
+| PHYS 105   | Intro. to Scientific Computing     | In-person       | 1             | Est. 30       | UA          | Spring 2017 |
 
-- **Key:** UA (The University of Arizona), ACT (Arizona College of Technology, Hebei University of Technology), PCC (Pima Community College)
