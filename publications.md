@@ -15,12 +15,12 @@
     document.querySelectorAll(".donut-badge").forEach(function(el) {
       el.setAttribute("data-badge-type", "donut");
       el.setAttribute("data-badge-popover", "right");
-      el.setAttribute("data-hide-no-mentions", "true");
+      el.setAttribute("data-hide-no-mentions", "false");
     });
     
     // For Dimensions badges: inject common attributes into every element with the "small-dimensions-badge" class
     document.querySelectorAll(".small-dimensions-badge").forEach(function(el) {
-      el.setAttribute("data-hide-zero-citations", "true");
+      el.setAttribute("data-hide-zero-citations", "false");
       el.setAttribute("data-style", "small_circle");
       el.setAttribute("data-legend", "hover-left");
     });
@@ -232,7 +232,7 @@
       </td>
       <td>
         <div class="badge-box">
-          <div class="altmetric-embed donut-badge" data-doi="10.48550/arXiv.2409.19031"></div>
+          <div class="altmetric-embed donut-badge" data-altmetric-id="168842996"></div>
         </div>
       </td>
     </tr>
