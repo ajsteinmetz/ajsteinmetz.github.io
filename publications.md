@@ -33,7 +33,7 @@
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-<p>🔗 Linked to publications and GitHub projects, if available, are provided.</p>
+<p>🔗 Linked to publications and GitHub projects are provided.</p>
 
 <h4>Peer-Reviewed Journal Articles</h4>
 <table border="1">
