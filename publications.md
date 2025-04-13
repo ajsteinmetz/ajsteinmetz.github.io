@@ -5,6 +5,20 @@
 
 <p>🔗 Linked to publications and GitHub projects, if available, are provided.</p>
 
+<h4>Dissertation</h4>
+
+<ul>
+  <li>
+    <strong>Title:</strong> Modern Topics in Relativistic Spin Dynamics and Magnetism
+  </li>
+  <li>
+    <strong>Committee:</strong> Dr. Johann Rafelski (Chair), Dr. Shufang Su (Member), Dr. John Rutherfoord (Member), Dr. Stefan Meinel (Member), Dr. Sean Fleming (Member)
+  </li>
+  <li>
+    <strong>HDL:</strong> <a href="http://hdl.handle.net/10150/670301">10150/670301</a> <strong>Presentation:</strong> <a href="http://dx.doi.org/10.13140/RG.2.2.24323.27689">10.13140/RG.2.2.24323.27689</a> <strong>Github:</strong> <a href="https://github.com/ajsteinmetz/thesis-ajsteinmetz">thesis-ajsteinmetz</a>
+  </li>
+</ul>
+
 <h4>Peer-Reviewed Journal Articles</h4>
 <table border="1">
   <thead>
@@ -173,18 +187,4 @@
     </tr>
   </tbody>
 </table>
-
-<h4>Dissertation</h4>
-
-<ul>
-  <li>
-    <strong>Title:</strong> Modern Topics in Relativistic Spin Dynamics and Magnetism
-  </li>
-  <li>
-    <strong>Committee:</strong> Dr. Johann Rafelski (Chair), Dr. Shufang Su (Member), Dr. John Rutherfoord (Member), Dr. Stefan Meinel (Member), Dr. Sean Fleming (Member)
-  </li>
-  <li>
-    <strong>HDL:</strong> <a href="http://hdl.handle.net/10150/670301">10150/670301</a> <strong>Presentation:</strong> <a href="http://dx.doi.org/10.13140/RG.2.2.24323.27689">10.13140/RG.2.2.24323.27689</a>
-  </li>
-</ul>
 
