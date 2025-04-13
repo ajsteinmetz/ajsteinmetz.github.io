@@ -1,4 +1,4 @@
-### Teaching Record ✏️
+### Teaching ✏️
 
 ### Teaching Experience (as Instructor-of-Record)\*
 
