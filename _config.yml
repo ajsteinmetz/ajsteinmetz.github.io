@@ -38,6 +38,7 @@ header_pages:
   - index.md
   - about.md
   - publications.md
+  - teaching.md
   - cv.md
 relative_links:
   enabled: true
