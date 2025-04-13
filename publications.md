@@ -15,7 +15,7 @@
 9. Formanek, M., Evans, S., Rafelski, J., **Steinmetz, A.**, Yang, C. T. "Strong fields and neutral particle magnetic moment dynamics." *Plasma Phys. Control. Fusion* 60.7 (2018). [10.1088/1361-6587/aac06a](https://doi.org/10.1088/1361-6587/aac06a)
 10. Rafelski, J., Formanek, M., **Steinmetz, A.** "Relativistic dynamics of point magnetic moment." *Eur. Phys. J. C* 78 (2018): 1-12. [10.1140/epjc/s10052-017-5493-2](https://doi.org/10.1140/epjc/s10052-017-5493-2)
 
-#### Book Chapters \& Review Articles
+#### Book Chapters & Review Articles
 
 1. Rafelski, J., Birrell, J., Grayson, C., **[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-collab-project)**, Yang, C. T. "Quarks to Cosmos: Particles and Plasma in Cosmological evolution." <i>Eur. Phys. J. Spec. Top.</i> (in press, 2025). [10.48550/arXiv.2409.19031](https://doi.org/10.48550/arXiv.2409.19031)
 2. Rafelski, J., **Steinmetz, A.**, Yang, C. T. "Dynamic Flavor Mixing Through Transition Moments." *Harald Fritzsch Memorial Volume*, pp. 269-284 (2024). [10.1142/9789811292279_0015](https://doi.org/10.1142/9789811292279_0015)
