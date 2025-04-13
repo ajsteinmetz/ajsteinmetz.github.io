@@ -2,14 +2,23 @@
 
 Hi, I'm **Dr. Andrew James Steinmetz!** Welcome to my personal website where I share my projects, blogs, and research in physics. I'm a **Global Professor** in the Department of Physics at The University of Arizona, with a role at the Arizona College of Technology at the Hebei University of Technology in Tianjin, China. My work focuses on ⚛ quantum mechanics, 🌌 cosmology, and 🧲 electromagnetism.
 
-| Science 🔗 | Social & Fun 🔗 |
-|--|--|
-| [ORCID](https://orcid.org/0000-0001-5474-2649) |[BlueSky](https://bsky.app/profile/ajsteinmetz.com) |
-| [INSPIRE-HEP](https://inspirehep.net/authors/1796313) | [AstroBin](https://www.astrobin.com/users/djinn/) |
-| [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ) | [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect) |
-| [arXiv](https://arxiv.org/a/steinmetz_a_1.html) | [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/) |
-| [GitHub](https://github.com/ajsteinmetz) | [My Erdős number is 5.](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017) |
-| [Arizona U.](https://w3.physics.arizona.edu/person/andrew-steinmetz) |  |
+### More Links 🔗
+
+- 🧪 **Science:** <a
+  id="cy-effective-orcid-url"
+  class="underline"
+  href="https://orcid.org/0000-0001-5474-2649"
+  target="orcid.widget"
+  rel="me noopener noreferrer"
+  style="vertical-align: top">
+  <img
+    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+    style="width: 1em; margin-inline-start: 0.5em"
+    alt="ORCID iD icon"/>
+  0000-0001-5474-2649
+</a> 🔗 [INSPIRE-HEP](https://inspirehep.net/authors/1796313) 🔗 [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ) 🔗 [arXiv](https://arxiv.org/a/steinmetz_a_1.html) 🔗 [GitHub](https://github.com/ajsteinmetz)
+- 🎉 **Social & Fun:** [BlueSky](https://bsky.app/profile/ajsteinmetz.com) 🔗 [AstroBin](https://www.astrobin.com/users/djinn/) 🔗 [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect) 🔗 [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/)
+- **My Erdős number is 5.** [(Source)](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017)
 
 The name of this blog _"... a stubbornly persistent illusion."_ comes from Albert Einstein, who upon hearing of his dear friend Michele Besso's passing, wrote a letter to Besso's family which ended on the hopeful note: 
 
