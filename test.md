@@ -1,6 +1,9 @@
-### Altmetric Badges 
+### Metric Badges 
 
-### Publications 📚
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<script type='text/javascript'>
+    _altmetric_embed_init();
+</script>
 
 🔗 Linked to publications and GitHub projects, if available, are provided.
 
@@ -28,5 +31,3 @@
 - **Title**: Modern Topics in Relativistic Spin Dynamics and Magnetism  
 - **Committee**: Dr. Johann Rafelski (Chair), Dr. Shufang Su (Member), Dr. John Rutherfoord (Member), Dr. Stefan Meinel (Member), Dr. Sean Fleming (Member)  
 - **HDL**: [http://hdl.handle.net/10150/670301](http://hdl.handle.net/10150/670301) **Presentation**: [10.13140/RG.2.2.24323.27689](http://dx.doi.org/10.13140/RG.2.2.24323.27689)
-
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
