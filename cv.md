@@ -7,21 +7,21 @@
 - **Website:** [https://ajsteinmetz.github.io/](https://ajsteinmetz.github.io/)
 - **ORCID:** [https://orcid.org/0000-0001-5474-2649](https://orcid.org/0000-0001-5474-2649)
 
-### Education
-
-| Degree | Field                | Institution              | Dates        |
-|--------|----------------------|--------------------------|--------------|
-| Ph.D.  | Physics              | The University of Arizona | 2015 – 2023 |
-| B.S.   | Physics              | The University of Arizona | 2009 – 2014 |
-| B.S.   | Chemical Engineering | The University of Arizona | 2009 – 2014 |
-
 ### Employment
 
-| Position             | Department                          | Institution                     | Dates                    |
-|----------------------|-------------------------------------|---------------------------------|--------------------------|
-| Global Professor     | Department of Physics              | The University of Arizona       | Nov. 2023 – Present  |
-| Global Professor     | Arizona College of Technology      | Hebei University of Technology  | Feb. 2024 – Present  |
-| Adjunct Faculty      | Physics & Astronomy Department     | Pima Community College          | June 2020 – Dec. 2023|
+| Position             | Department                         | Institution                     | Dates                 |
+|----------------------|------------------------------------|---------------------------------|-----------------------|
+| Global Professor     | Department of Physics              | The University of Arizona       | Nov. 2023 – Present   |
+| Global Professor     | Arizona College of Technology      | Hebei University of Technology  | Feb. 2024 – Present   |
+| Adjunct Faculty      | Physics & Astronomy Department     | Pima Community College          | June 2020 – Dec. 2023 |
+
+### Education
+
+| Degree | Field                | Institution               | Dates |
+|--------|----------------------|---------------------------|-------|
+| Ph.D.  | Physics              | The University of Arizona | 2023  |
+| B.S.   | Physics              | The University of Arizona | 2014  |
+| B.S.   | Chemical Engineering | The University of Arizona | 2014  |
 
 ### Research Interests
 
@@ -90,8 +90,8 @@
 
 \** First time offered at this institution. Designed, developed, and delivered curriculum.
 
-- **Adjunct Courses at PCC (as Instructor-of-Record):** Intro. Physics I/II (2020, 2021, 2023), The Solar System (2020--2023), Intro. Electricity \& Magnetism (2022)
-- **TA Courses at UA:** Intro. to Scientific Computing (2017), Intro. Electricity \& Magnetism (2017), Methods in Exp. Physics I/II (2018, 2019), Intro. Mechanics I/II Lab (2020), Intro. Physics I/II Lab (2020), General Chemistry I(Honors)/II Lab (2019, 2021--2023)
+- **Adjunct Courses at PCC (Physics & Astronomy Dept., as Instructor-of-Record):** Intro. Physics I/II (2020, 2021, 2023), The Solar System (2020--2023), Intro. Electricity \& Magnetism (2022)
+- **TA Courses at UA (Dept. of Physics, Dept. of Chemistry & Biochemistry):** Intro. to Scientific Computing (2017), Intro. Electricity \& Magnetism (2017), Methods in Exp. Physics I/II (2018, 2019), Intro. Mechanics I/II Lab (2020), Intro. Physics I/II Lab (2020), General Chemistry I(Honors)/II Lab (2019, 2021--2023)
 - **Key:** UA (The University of Arizona), ACT (Arizona College of Technology, Hebei University of Technology), PCC (Pima Community College)
 
 ### Academic Service
