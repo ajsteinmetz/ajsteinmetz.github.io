@@ -24,4 +24,4 @@ The name of this blog _"... a stubbornly persistent illusion."_ comes from Alber
 
 > _"Now he has departed from this strange world a little ahead of me. That means nothing. People like us, who believe in physics, know that the distinction between past, present, and future is only a stubbornly persistent illusion."_
 
-If causality is truly the principle of physics we believe it so, then the past will always be with us, as it determines the future. If time is fully merged with spatial dimensions as Special Relativity suggests, then the past is never gone. It is merely an address to a street we can no longer travel to.
+If time is fully merged with spatial dimensions as Special Relativity suggests, then the past is never gone. It is merely an address to a street we can no longer travel to.
