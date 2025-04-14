@@ -117,5 +117,4 @@
 - **Wikipedia Userpage:** [https://en.wikipedia.org/wiki/User:CosmologicalDefect](https://en.wikipedia.org/wiki/User:CosmologicalDefect)
 - **AstroBin:** [https://www.astrobin.com/users/djinn/](https://www.astrobin.com/users/djinn/)
 - **LinkedIn:** [https://www.linkedin.com/in/ajsteinmetz/](https://www.linkedin.com/in/ajsteinmetz/)
-
-**[My Erdős number is 5.](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017)**
+- My Erdős number is 5. [(source)](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017)
