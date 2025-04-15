@@ -140,3 +140,74 @@ _The above is based in part on:_
 - Antonelli, R. "A geometric proof of Hawking radiation, through imaginary time." _Hologrammata_ (2016). [https://rantonels.github.io/a-geometric-proof-of-hawking-radiation-through-imaginary-time/](https://rantonels.github.io/a-geometric-proof-of-hawking-radiation-through-imaginary-time/)
 
 The second link is to a blog post by reddit user /u/rantonels who introduced me to the idea.
+
+---
+
+### The General Form of the Tolman–Ehrenfest effect
+
+In a static spacetime characterized by a metric with a time–time component \( g_{00}(\vec{x}) \), the Tolman relation states that
+
+\[
+T(\vec{x}) \sqrt{-g_{00}(\vec{x})} = \text{constant}.
+\]
+
+This equation ensures that although the locally measured temperature \( T(\vec{x}) \) may vary with position, the “redshifted temperature” remains constant throughout the system. The quantity \( \sqrt{-g_{00}(\vec{x})} \) serves as the gravitational redshift factor.
+
+---
+
+### Weak-Field Approximation
+
+In many practical scenarios—for instance, in a weak gravitational field—the metric can be written approximately as
+
+\[
+g_{00} \approx -\Bigl(1 + \frac{2\Phi(\vec{x})}{c^2}\Bigr),
+\]
+
+where \( \Phi(\vec{x}) \) is the gravitational potential (with the sign chosen so that it is negative in a gravitational well). In this approximation, the Tolman relation becomes
+
+\[
+T(\vec{x}) \approx \frac{T_0}{\sqrt{1 + \frac{2\Phi(\vec{x})}{c^2}}} \approx T_0 \left( 1 - \frac{\Phi(\vec{x})}{c^2} \right),
+\]
+
+with \( T_0 \) being the constant redshifted temperature observed at a reference location.
+
+---
+
+### Application to a Uniform Gravitational Field
+
+Consider a uniform gravitational field. In many cases, the gravitational potential can be taken as
+
+\[
+\Phi(z) = -gz,
+\]
+
+where \( z \) is the vertical coordinate (with \( z = 0 \) at some reference level) and \( g \) is the gravitational acceleration. Substituting into the weak-field approximation:
+
+\[
+T(z) \approx T(0) \left( 1 + \frac{gz}{c^2} \right).
+\]
+
+Alternatively, thinking in differential form, the temperature gradient is given by
+
+\[
+\frac{dT}{dz} = -\frac{g}{c^2}\, T,
+\]
+
+which has the solution
+
+\[
+T(z) = T(0) \exp\left(-\frac{gz}{c^2}\right).
+\]
+
+**Note on Signs:**  
+Be aware that the precise form (and whether the temperature increases or decreases with height) depends on the sign conventions chosen for the gravitational potential and the coordinate system. In many settings—especially in general relativity—the relation is best expressed in its invariant form, \( T(\vec{x}) \sqrt{-g_{00}(\vec{x})} = \text{constant} \), which avoids any ambiguity.
+
+This effect, first derived by Richard C. Tolman (and developed with Paul Ehrenfest), implies that in a gravitational field, the condition for thermal equilibrium requires the local temperature to vary in a specific way with the gravitational potential, ensuring no net heat flow due to gravitational redshift.
+
+---
+
+
+
+
+
+
