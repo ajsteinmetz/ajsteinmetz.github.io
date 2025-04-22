@@ -97,7 +97,7 @@
 ### Academic Service
 - Organizer, Undergraduate Journal Club, Hebei University of Technology, (2025).
 - Member, Department of Physics, University of Arizona, Faculty Search Committee, (2024, 2025).
-- Reviewer for _Physical Review D_, _Modern Physics Letters A_, _MDPI Universe_, and _ICPMS 2025_.
+- Reviewer for _Physical Review D_, _Physical Review Research_, _Modern Physics Letters A_, _International Journal of Modern Physics A_, _MDPI Universe_, and _ICPMS 2025_.
 
 ### Press
 
