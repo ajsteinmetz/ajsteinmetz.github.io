@@ -74,6 +74,8 @@
 3. **Title:** Magnetism in the Cosmic Plasma Epoch. **Event:** Margaret Island Symposium on Particles and Plasmas. HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 8, 2023. [10.13140/RG.2.2.29279.57762](http://dx.doi.org/10.13140/RG.2.2.29279.57762)
 4. **Title:** Relativistic Two-Body Quantum Mechanics. **Event:** Physics Department Grad Talk. The University of Arizona, Tucson, Arizona. March, 2017.
 
+In addition, I have collaborated on producing research talks which were delivered by Dr. Rafelski at the following conferences and institutes: _16th Conference on Quark Confinement and the Hadron Spectrum (QCHSC 2024)_, _Particles & Plasmas Symposium 2024_, _22nd Zimanyi School Winter Workshop on Heavy Ion Physics_, _XI International Conference on New Frontiers in Physics (ICNFP 2022)_, _Hungarian Academy of Sciences_, _Institute of Theoretical Physics Uniwersytet Wroclawski_, _21st Zimanyi School Winter Workshop on Heavy Ion Physics_, _4th LeCosPA Symposium_.
+
 ### Teaching Experience (as Instructor-of-Record)\*
 
 | Course #   | Course Title                      | Delivery Method | # of Sections | # of Students | Institution | Semester       |
@@ -90,7 +92,7 @@
 
 \** First time offered at this institution. Designed, developed, and delivered curriculum.
 
-- **Adjunct Courses at PCC (Physics & Astronomy Dept., as Instructor-of-Record):** Intro. Physics I/II (2020, 2021, 2023), The Solar System (2020--2023), Intro. Electricity \& Magnetism (2022)
+- **Adjunct Courses at PCC (Physics & Astronomy Dept., as Instructor-of-Record):** Intro. Physics I/II (2020, 2021, 2023), The Solar System (2020--2023), Intro. Electricity & Magnetism (2022)
 - **TA Courses at UA (Dept. of Physics, Dept. of Chemistry & Biochemistry):** Intro. to Scientific Computing (2017), Intro. Electricity \& Magnetism (2017), Methods in Exp. Physics I/II (2018, 2019), Intro. Mechanics I/II Lab (2020), Intro. Physics I/II Lab (2020), General Chemistry I(Honors)/II Lab (2019, 2021--2023)
 - **Key:** UA (The University of Arizona), ACT (Arizona College of Technology, Hebei University of Technology), PCC (Pima Community College)
 
