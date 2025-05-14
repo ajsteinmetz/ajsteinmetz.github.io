@@ -74,7 +74,7 @@
 3. **Title:** Magnetism in the Cosmic Plasma Epoch. **Event:** Margaret Island Symposium on Particles and Plasmas. HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 8, 2023. [10.13140/RG.2.2.29279.57762](http://dx.doi.org/10.13140/RG.2.2.29279.57762)
 4. **Title:** Relativistic Two-Body Quantum Mechanics. **Event:** Physics Department Grad Talk. The University of Arizona, Tucson, Arizona. March, 2017.
 
-In addition, I have collaborated on producing research talks which were delivered by Prof. Johann Rafelski at the following conferences and institutes: _16th Conference on Quark Confinement and the Hadron Spectrum (QCHSC 2024)_, _Particles & Plasmas Symposium (2024,2023)_, _(22nd,21st) Zimanyi School Winter Workshop on Heavy Ion Physics_, _XI International Conference on New Frontiers in Physics (ICNFP 2022)_, _Hungarian Academy of Sciences_, _Institute of Theoretical Physics Uniwersytet Wroclawski_, _4th LeCosPA Symposium_.
+In addition, I have collaborated on producing research talks which were delivered by Prof. Johann Rafelski at the following conferences and institutes: _16th Conference on Quark Confinement and the Hadron Spectrum (QCHSC 2024)_, _Particles & Plasmas Symposium (2024, 2023)_, _(22nd, 21st) Zimanyi School Winter Workshop on Heavy Ion Physics_, _XI International Conference on New Frontiers in Physics (ICNFP 2022)_, _Hungarian Academy of Sciences_, _Institute of Theoretical Physics Uniwersytet Wroclawski_, _4th LeCosPA Symposium_.
 
 ### Teaching Experience (as Instructor-of-Record)\*
 
@@ -98,7 +98,7 @@ In addition, I have collaborated on producing research talks which were delivere
 
 ### Academic Service
 - Organizer, Undergraduate Journal Club, Hebei University of Technology, (2025).
-- Member, Department of Physics, University of Arizona, Faculty Search Committee, (2024, 2025).
+- Member, Department of Physics, University of Arizona, Faculty Search Committee, (2025, 2024).
 - Reviewer for _Physical Review D_, _Physical Review Research_, _European Physical Journal Plus_, _Modern Physics Letters A_, _International Journal of Modern Physics A_, _MDPI Universe_, and _ICPMS 2025_.
 
 ### Press
