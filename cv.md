@@ -93,13 +93,13 @@ In addition, I have collaborated on producing research talks which were delivere
 \** First time offered at this institution. Designed, developed, and delivered curriculum.
 
 - **Adjunct Courses at PCC (Physics & Astronomy Dept., as Instructor-of-Record):** Intro. Physics I/II (2020, 2021, 2023), The Solar System (2020--2023), Intro. Electricity & Magnetism (2022)
-- **TA Courses at UA (Dept. of Physics, Dept. of Chemistry & Biochemistry):** Intro. to Scientific Computing (2017), Intro. Electricity \& Magnetism (2017), Methods in Exp. Physics I/II (2018, 2019), Intro. Mechanics I/II Lab (2020), Intro. Physics I/II Lab (2020), General Chemistry I(Honors)/II Lab (2019, 2021--2023)
+- **TA Courses at UA (Dept. of Physics, Dept. of Chemistry & Biochemistry):** Intro. to Scientific Computing (2017), Intro. Electricity & Magnetism (2017), Methods in Exp. Physics I/II (2018, 2019), Intro. Mechanics I/II Lab (2020), Intro. Physics I/II Lab (2020), General Chemistry I(Honors)/II Lab (2019, 2021--2023)
 - **Key:** UA (The University of Arizona), ACT (Arizona College of Technology, Hebei University of Technology), PCC (Pima Community College)
 
 ### Academic Service
 - Organizer, Undergraduate Journal Club, Hebei University of Technology, (2025).
 - Member, Department of Physics, University of Arizona, Faculty Search Committee, (2024, 2025).
-- Reviewer for _Physical Review D_, _Physical Review Research_, _Modern Physics Letters A_, _International Journal of Modern Physics A_, _MDPI Universe_, and _ICPMS 2025_.
+- Reviewer for _Physical Review D_, _Physical Review Research_, _European Physical Journal Plus_, _Modern Physics Letters A_, _International Journal of Modern Physics A_, _MDPI Universe_, and _ICPMS 2025_.
 
 ### Press
 
