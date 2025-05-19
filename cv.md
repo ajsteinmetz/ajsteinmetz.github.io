@@ -69,12 +69,18 @@
 
 ### Conference Presentations & Departmental Talks
 
-1. **Title:** Primordial Cosmic Magnetism. **Event:** SMT 30th Anniversary Steward Observatory Symposium. The University of Arizona, Tucson, Arizona. September 22, 2023. [10.13140/RG.2.2.19213.24806](http://dx.doi.org/10.13140/RG.2.2.19213.24806)
-2. **Title:** Magnetism in the Cosmic Plasma Epoch. **Event:** ELI-Beamlines Strong Fields Frontiers. The Extreme Light Infrastructure ERIC, Prague, Czech Republic. June 13, 2023. [10.13140/RG.2.2.32635.02087](http://dx.doi.org/10.13140/RG.2.2.32635.02087)
-3. **Title:** Magnetism in the Cosmic Plasma Epoch. **Event:** Margaret Island Symposium on Particles and Plasmas. HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 8, 2023. [10.13140/RG.2.2.29279.57762](http://dx.doi.org/10.13140/RG.2.2.29279.57762)
-4. **Title:** Relativistic Two-Body Quantum Mechanics. **Event:** Physics Department Grad Talk. The University of Arizona, Tucson, Arizona. March, 2017.
+1. Rafelski, J.\*, Birrell, J., Grayson, C., <b>Steinmetz, A.</b>, Yang, C. T., Foster, S. "Quarks to Cosmos: Particles and Plasma in Cosmological Evolution." <i>16th Conference on Quark Confinement and the Hadron Spectrum (QCHSC 2024).</i> The University of Adelaide, Cairns, Australia. August 9, 2024. [10.13140/RG.2.2.19642.30407](http://dx.doi.org/10.13140/RG.2.2.19642.30407)
+2. Rafelski, J.\*, Yang, C. T., Birrell, J., Grayson, C., Foster, S., <b>Steinmetz, A.</b>, "Particles & Plasmas in the First Hour of the Universe." <i>Physics Particles & Plasmas Symposium.</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 11, 2024. [10.13140/RG.2.2.22997.74727](http://dx.doi.org/10.13140/RG.2.2.22997.74727) 
+3. <b>Steinmetz, A.\*</b>, Yang, C. T., Rafelski, J. "Primordial Cosmic Magnetism." <i>SMT 30th Anniversary Steward Observatory Symposium.</i> The University of Arizona, Tucson, Arizona. September 22, 2023. [10.13140/RG.2.2.19213.24806](http://dx.doi.org/10.13140/RG.2.2.19213.24806)
+4. <b>Steinmetz, A.\*</b>, Yang, C. T., Rafelski, J. "Magnetism in the Cosmic Plasma Epoch." <i>ELI-Beamlines Strong Fields Frontiers.</i> The Extreme Light Infrastructure ERIC, Prague, Czech Republic. June 13, 2023. [10.13140/RG.2.2.32635.02087](http://dx.doi.org/10.13140/RG.2.2.32635.02087)
+5. <b>Steinmetz, A.\*</b>, Yang, C. T., Rafelski, J. "Magnetism in the Cosmic Plasma Epoch." <i>Margaret Island Symposium on Particles and Plasmas.</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 8, 2023. [10.13140/RG.2.2.29279.57762](http://dx.doi.org/10.13140/RG.2.2.29279.57762)
+6. Rafelski, J.\*, <b>Steinmetz, A.</b> "Space-time, Acceleration and Matter." The Extreme Light Infrastructure ERIC, Prague, Czech Republic. December, 2022. [10.13140/RG.2.2.25933.76001](http://dx.doi.org/10.13140/RG.2.2.25933.76001)
+7. Rafelski, J.\*, Yang, C. T., Birrell, J., Grayson, C., <b>Steinmetz, A.</b>, "Particles and Plasmas in the Universe." <i>22nd Zimanyi School Winter Workshop on Heavy Ion Physics.</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. December, 2022. [10.13140/RG.2.2.27611.48160](http://dx.doi.org/10.13140/RG.2.2.27611.48160) 
+8. <b>Steinmetz, A.\*</b> Relativistic "Two-Body Quantum Mechanics." <i>Physics Department Grad Talk.</i> The University of Arizona, Tucson, Arizona. March, 2017.
 
-In addition, I have closely collaborated on producing research and academic talks delivered by Prof. Johann Rafelski at the following conferences/institutes: 16th Conference on Quark Confinement and the Hadron Spectrum (QCHSC 2024), HUN-REN Wigner Research Centre for Physics Particles & Plasmas Symposium (2024, 2023), (22nd, 21st) Zimanyi School Winter Workshop on Heavy Ion Physics, XI International Conference on New Frontiers in Physics (ICNFP 2022), Hungarian Academy of Sciences, Institute of Theoretical Physics Uniwersytet Wroclawski, 4th LeCosPA Symposium.
+\* Presenter.
+
+In addition, I have closely collaborated on producing research and academic talks delivered by Prof. Johann Rafelski at the following conferences/institutes: HUN-REN Wigner Research Centre for Physics Particles & Plasmas Symposium (2023), 21st Zimanyi School Winter Workshop on Heavy Ion Physics, XI International Conference on New Frontiers in Physics (ICNFP 2022), Hungarian Academy of Sciences, Institute of Theoretical Physics Uniwersytet Wroclawski, 4th LeCosPA Symposium.
 
 ### Teaching Experience (as Instructor-of-Record)\*
 
