@@ -81,7 +81,7 @@
 
 \* Presenter.
 
-In addition, I have closely collaborated on producing research and academic talks delivered at the following conferences/institutes: HUN-REN Wigner Research Centre for Physics Particles & Plasmas Symposium (2023), Polish Academy of Science at Warsaw University (2023), XI International Conference on New Frontiers in Physics (ICNFP 2022), The University of Arizona (2922), Hungarian Academy of Sciences (2022), Institute of Theoretical Physics Uniwersytet Wroclawski (2022), 21st Zimanyi School Winter Workshop on Heavy Ion Physics (2021), 4th LeCosPA Symposium (2021).
+In addition, I have closely collaborated on producing research and academic talks delivered at the following conferences/institutes: HUN-REN Wigner Research Centre for Physics Particles & Plasmas Symposium (2023), Polish Academy of Science at Warsaw University (2023), XI International Conference on New Frontiers in Physics (ICNFP 2022), The University of Arizona (2022), Hungarian Academy of Sciences (2022), Institute of Theoretical Physics Uniwersytet Wroclawski (2022), 21st Zimanyi School Winter Workshop on Heavy Ion Physics (2021), 4th LeCosPA Symposium (2021).
 
 ### Teaching Experience (as Instructor-of-Record)\*
 
