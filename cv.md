@@ -75,12 +75,13 @@
 4. <b>Steinmetz, A.\*</b>, Yang, C. T., Rafelski, J. "Magnetism in the Cosmic Plasma Epoch." <i>ELI-Beamlines Strong Fields Frontiers.</i> The Extreme Light Infrastructure ERIC, Prague, Czech Republic. June 13, 2023. [10.13140/RG.2.2.32635.02087](http://dx.doi.org/10.13140/RG.2.2.32635.02087)
 5. <b>Steinmetz, A.\*</b>, Yang, C. T., Rafelski, J. "Magnetism in the Cosmic Plasma Epoch." <i>Margaret Island Symposium on Particles and Plasmas.</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 8, 2023. [10.13140/RG.2.2.29279.57762](http://dx.doi.org/10.13140/RG.2.2.29279.57762)
 6. Rafelski, J.\*, <b>Steinmetz, A.</b> "Space-time, Acceleration and Matter." The Extreme Light Infrastructure ERIC, Prague, Czech Republic. December, 2022. [10.13140/RG.2.2.25933.76001](http://dx.doi.org/10.13140/RG.2.2.25933.76001)
-7. Rafelski, J.\*, Yang, C. T., Birrell, J., Grayson, C., <b>Steinmetz, A.</b>, "Particles and Plasmas in the Universe." <i>22nd Zimanyi School Winter Workshop on Heavy Ion Physics.</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. December, 2022. [10.13140/RG.2.2.27611.48160](http://dx.doi.org/10.13140/RG.2.2.27611.48160) 
-8. <b>Steinmetz, A.\*</b> Relativistic "Two-Body Quantum Mechanics." <i>Physics Department Grad Talk.</i> The University of Arizona, Tucson, Arizona. March, 2017.
+7. Rafelski, J.\*, Yang, C. T., Birrell, J., Grayson, C., <b>Steinmetz, A.</b>, "Particles and Plasmas in the Universe." <i>22nd Zimanyi School Winter Workshop on Heavy Ion Physics.</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. December, 2022.
+8. Rafelski, J.\*, <b>Steinmetz, A.</b>, "Strong Field Physics: Report on Frankfurt School and Current Arizona Effort." <i>Margaret Island Symposium on Particles and Plasmas.</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. May 17, 2022. 
+9. <b>Steinmetz, A.\*</b> Relativistic "Two-Body Quantum Mechanics." <i>Physics Department Grad Talk.</i> The University of Arizona, Tucson, Arizona. March, 2017.
 
 \* Presenter.
 
-In addition, I have closely collaborated on producing research and academic talks delivered by Prof. Johann Rafelski at the following conferences/institutes: HUN-REN Wigner Research Centre for Physics Particles & Plasmas Symposium (2023), 21st Zimanyi School Winter Workshop on Heavy Ion Physics, XI International Conference on New Frontiers in Physics (ICNFP 2022), Hungarian Academy of Sciences, Institute of Theoretical Physics Uniwersytet Wroclawski, 4th LeCosPA Symposium.
+In addition, I have closely collaborated on producing research and academic talks delivered at the following conferences/institutes: HUN-REN Wigner Research Centre for Physics Particles & Plasmas Symposium (2023), Polish Academy of Science at Warsaw University (2023), XI International Conference on New Frontiers in Physics (ICNFP 2022), The University of Arizona (2922), Hungarian Academy of Sciences (2022), Institute of Theoretical Physics Uniwersytet Wroclawski (2022), 21st Zimanyi School Winter Workshop on Heavy Ion Physics (2021), 4th LeCosPA Symposium (2021).
 
 ### Teaching Experience (as Instructor-of-Record)\*
 
