@@ -69,7 +69,7 @@
 
 ### Conference Presentations & Talks
 
-I presented and/or co-produced:
+I presented and/or co-prepared:
 
 1. Rafelski, J.\*, Birrell, J., Grayson, C., <b>Steinmetz, A.</b>, Yang, C. T., Foster, S. "Quarks to Cosmos: Particles and Plasma in Cosmological Evolution." <i>16th Conference on Quark Confinement and the Hadron Spectrum (QCHSC 2024).</i> The University of Adelaide, Cairns, Australia. August 9, 2024. [10.13140/RG.2.2.19642.30407](http://dx.doi.org/10.13140/RG.2.2.19642.30407)
 2. Rafelski, J.\*, Yang, C. T., Birrell, J., Grayson, C., Foster, S., <b>Steinmetz, A.</b>, "Particles & Plasmas in the First Hour of the Universe." <i>Physics Particles & Plasmas Symposium.</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 11, 2024. [10.13140/RG.2.2.22997.74727](http://dx.doi.org/10.13140/RG.2.2.22997.74727) 
