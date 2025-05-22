@@ -71,7 +71,7 @@
 
 I presented and/or co-prepared:
 
-1. Rafelski, J.\*, Birrell, J., Grayson, C., <b>Steinmetz, A.</b>, Yang, C. T., Foster, S. "Quarks to Cosmos: Particles and Plasma in Cosmological Evolution." <i>16th Conference on Quark Confinement and the Hadron Spectrum (QCHSC 2024).</i> The University of Adelaide, Cairns, Australia. August 9, 2024. [10.13140/RG.2.2.19642.30407](http://dx.doi.org/10.13140/RG.2.2.19642.30407)
+1. Rafelski, J.^{\*,§}, Birrell, J., Grayson, C., <b>Steinmetz, A.</b>, Yang, C. T., Foster, S. "Quarks to Cosmos: Particles and Plasma in Cosmological Evolution." <i>16th Conference on Quark Confinement and the Hadron Spectrum (QCHSC 2024).</i> The University of Adelaide, Cairns, Australia. August 9, 2024. [10.13140/RG.2.2.19642.30407](http://dx.doi.org/10.13140/RG.2.2.19642.30407)
 2. Rafelski, J.\*, Yang, C. T., Birrell, J., Grayson, C., Foster, S., <b>Steinmetz, A.</b>, "Particles & Plasmas in the First Hour of the Universe." <i>Physics Particles & Plasmas Symposium.</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 11, 2024. [10.13140/RG.2.2.22997.74727](http://dx.doi.org/10.13140/RG.2.2.22997.74727) 
 3. <b>Steinmetz, A.\*</b>, Yang, C. T., Rafelski, J. "Primordial Cosmic Magnetism." <i>SMT 30th Anniversary Steward Observatory Symposium.</i> The University of Arizona, Tucson, Arizona. September 22, 2023. [10.13140/RG.2.2.19213.24806](http://dx.doi.org/10.13140/RG.2.2.19213.24806)
 4. <b>Steinmetz, A.\*</b>, Yang, C. T., Rafelski, J. "Magnetism in the Cosmic Plasma Epoch." <i>ELI-Beamlines Strong Fields Frontiers.</i> The Extreme Light Infrastructure ERIC, Prague, Czech Republic. June 13, 2023. [10.13140/RG.2.2.32635.02087](http://dx.doi.org/10.13140/RG.2.2.32635.02087)
@@ -81,7 +81,8 @@ I presented and/or co-prepared:
 8. Rafelski, J.\*, <b>Steinmetz, A.</b>, "Strong Field Physics: Report on Frankfurt School and Current Arizona Effort." <i>Margaret Island Symposium on Particles and Plasmas.</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. May 17, 2022. [10.13140/RG.2.2.13363.13600](http://dx.doi.org/10.13140/RG.2.2.13363.13600)
 9. <b>Steinmetz, A.\*</b> Relativistic "Two-Body Quantum Mechanics." The University of Arizona, Tucson, Arizona. March, 2017.
 
-\* Presenter.
+\* Presented by.
+§ Prepared by.
 
 In addition, I have closely collaborated on producing research and academic talks delivered at the following conferences/institutes: HUN-REN Wigner Research Centre for Physics Particles & Plasmas Symposium (2023), Polish Academy of Science at Warsaw University (2023), XI International Conference on New Frontiers in Physics (ICNFP 2022), The University of Arizona (2022), Hungarian Academy of Sciences (2022), Institute of Theoretical Physics Uniwersytet Wroclawski (2022), 21st Zimanyi School Winter Workshop on Heavy Ion Physics (2021), 4th LeCosPA Symposium (2021).
 
