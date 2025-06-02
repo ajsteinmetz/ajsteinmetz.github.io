@@ -33,7 +33,8 @@
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-<p>🔗 Links to publications and GitHub projects are provided.</p>
+<p>🔗 Links to official publications and GitHub projects are provided.</p>
+<p>🔗 All listed work is freely available on <a href="https://arxiv.org/a/steinmetz_a_1.html">arXiv</a>.</p>
 
 <h4>Peer-Reviewed Journal Articles</h4>
 <table border="1">
