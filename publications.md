@@ -249,7 +249,7 @@
       </td>
       <td>
         <div class="badge-box">
-          <div class="altmetric-embed donut-badge" data-doi="10.3390/universe9070309"></div>
+          <div class="altmetric-embed donut-badge" data-altmetric-id="148440866"></div>
         </div>
       </td>
     </tr>
@@ -257,15 +257,30 @@
 </table>
 
 <h4>Dissertation</h4>
-<ul>
-  <li>
-    <strong>Title:</strong> Modern Topics in Relativistic Spin Dynamics and Magnetism
-  </li>
-  <li>
-    <strong>Committee:</strong> Dr. Johann Rafelski (Chair), Dr. Shufang Su (Member), Dr. John Rutherfoord (Member), Dr. Stefan Meinel (Member), Dr. Sean Fleming (Member)
-  </li>
-  <li>
-    <strong>HDL:</strong> <a href="http://hdl.handle.net/10150/670301">10150/670301</a> <strong>Presentation:</strong> <a href="http://dx.doi.org/10.13140/RG.2.2.24323.27689">10.13140/RG.2.2.24323.27689</a> <strong>Github:</strong> <a href="https://github.com/ajsteinmetz/thesis-ajsteinmetz">thesis-ajsteinmetz</a>
-  </li>
-</ul>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Full Citation</th>
+      <th>Dimensions Badge</th>
+      <th>Altmetric Badge</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/ajsteinmetz/thesis-ajsteinmetz">Steinmetz, A.</a></strong> "Modern topics in relativistic spin dynamics and magnetism." PhD dissertation. University of Arizona, 2023. <a href="http://hdl.handle.net/10150/670301">HDL:10150/670301</a> <a href="https://doi.org/10.48550/arXiv.2310.07193">10.48550/arXiv.2310.07193</a>
+      </td>
+      <td>
+        <div class="badge-box">
+          <span class="__dimensions_badge_embed__ small-dimensions-badge" data-doi="10.48550/arXiv.2310.07193"></span>
+        </div>
+      </td>
+      <td>
+        <div class="badge-box">
+          <div class="altmetric-embed donut-badge" data-altmetric-id="155328339"></div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
