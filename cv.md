@@ -89,6 +89,8 @@ In addition, I have closely collaborated on preparing research and academic talk
 
 ### Teaching Experience (as Instructor-of-Record)\*
 
+**Key:** UA (The University of Arizona), ACT (Arizona College of Technology, Hebei University of Technology), PCC (Pima Community College)
+
 | Course #   | Course Title                      | Delivery Method | # of Sections | # of Students | Institution | Semester       |
 |------------|-----------------------------------|-----------------|---------------|---------------|-------------|----------------|
 | PHYS 371   | Quantum Theory                    | In-person       | 1             | 75            | UA/ACT      | Spring 2025    |
@@ -105,7 +107,9 @@ In addition, I have closely collaborated on preparing research and academic talk
 
 - **Adjunct Courses at PCC (Physics & Astronomy Dept., as Instructor-of-Record):** Intro. Physics I/II (2020, 2021, 2023), The Solar System (2020--2023), Intro. Electricity & Magnetism (2022)
 - **TA Courses at UA (Dept. of Physics, Dept. of Chemistry & Biochemistry):** Intro. to Scientific Computing (2017), Intro. Electricity & Magnetism (2017), Methods in Exp. Physics I/II (2018, 2019), Intro. Mechanics I/II Lab (2020), Intro. Physics I/II Lab (2020), General Chemistry I(Honors)/II Lab (2019, 2021--2023)
-- **Key:** UA (The University of Arizona), ACT (Arizona College of Technology, Hebei University of Technology), PCC (Pima Community College)
+
+### Curriculum Development & Institutional Reports
+ - <b>Steinmetz, A.</b> <i>Status and Outlook of PHYS 381/382 -- Methods in Experimental Physics I/II at ACT-HEBUT.</i> Internal report submitted to the University of Arizona Department of Physics, June 2025. Proposed curricular adjustments and $36k laboratory equipment expansion in response to enrollment growth and infrastructure constraints at ACT-HEBUT.
 
 ### Academic Service
 - Organizer, Undergraduate Journal Club, Hebei University of Technology, (2025).
