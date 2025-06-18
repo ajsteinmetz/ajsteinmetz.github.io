@@ -36,6 +36,9 @@
 - **HDL:** [http://hdl.handle.net/10150/670301](http://hdl.handle.net/10150/670301) **Presentation:** [10.13140/RG.2.2.24323.27689](http://dx.doi.org/10.13140/RG.2.2.24323.27689)
 
 ### Publications
+
+Citations = 125; h-index = 7 (Google Scholar, June 2025)
+
 #### Peer-Reviewed Journal Articles
 
 1. **[Steinmetz, A.](https://github.com/ajsteinmetz/short-note-qgp)**, Rafelski, J. "Short note on spin magnetization in QGP." <i>Eur. Phys. J. Spec. Top.</i> (2025). [10.1140/epjs/s11734-025-01625-9](https://doi.org/10.1140/epjs/s11734-025-01625-9)
@@ -63,9 +66,9 @@
 4. Evans, S., **Steinmetz, A.** "Anomalous magnetic moment in the QCD vacuum." (in preparation, 2025).
 
 #### Public Outreach
-1. Steinmetz, A. (2024, November 7). Proving that SU(2) is compact (and other group theory bits). [https://ajsteinmetz.github.io/mathematics/2024/11/07/su2-compactness.html](https://ajsteinmetz.github.io/mathematics/2024/11/07/su2-compactness.html)
-2. Steinmetz, A. (2024, October 17). Einstein’s mass-energy and kinetic energy. [https://ajsteinmetz.github.io/physics/2024/10/17/kinetic-energy-coefficient.html](https://ajsteinmetz.github.io/physics/2024/10/17/kinetic-energy-coefficient.html)
-3. Steinmetz, A. (2024, October 16). Can we ever detect the graviton? [https://ajsteinmetz.github.io/physics/2024/10/16/graviton-detector.html](https://ajsteinmetz.github.io/physics/2024/10/16/graviton-detector.html)
+1. Steinmetz, A. (2024, November 7). [Proving that SU(2) is compact (and other group theory bits).](https://ajsteinmetz.github.io/mathematics/2024/11/07/su2-compactness.html)
+2. Steinmetz, A. (2024, October 17). [Einstein's mass-energy and kinetic energy.](https://ajsteinmetz.github.io/physics/2024/10/17/kinetic-energy-coefficient.html)
+3. Steinmetz, A. (2024, October 16). [Can we ever detect the graviton?](https://ajsteinmetz.github.io/physics/2024/10/16/graviton-detector.html)
 
 ### Conference Presentations & Talks
 
@@ -86,6 +89,10 @@
 6. Rafelski, J. (presenter), <b>Steinmetz, A.</b>, "Strong Field Physics: Report on Frankfurt School and Current Arizona Effort." <i>Margaret Island Symposium on Particles & Plasmas (PP2022).</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. May 17, 2022. [10.13140/RG.2.2.13363.13600](http://dx.doi.org/10.13140/RG.2.2.13363.13600)
 
 In addition, I have closely collaborated on preparing research and academic talks delivered at the following conferences/institutes: Deutsche Elektronen-Synchrotron/DESY (2024), Margaret Island Symposium on Particles \& Plasmas (PP2023), Polish Academy of Science at Warsaw University (2023), XI International Conference on New Frontiers in Physics (ICNFP 2022), The University of Arizona (2022), Hungarian Academy of Sciences (2022), Institute of Theoretical Physics Uniwersytet Wroclawski (2022), 21st Zimanyi School Winter Workshop on Heavy Ion Physics (2021), 4th LeCosPA Symposium (2021).
+
+### Grants & Awards
+1. 2023 Springer-Verlag Conference Sponsorship (PP2023)
+2. 2023 Fanfare Graduate Travel Award, The University of Arizona, $1,500 USD (PP2023, ELI-Beamlines)
 
 ### Teaching Experience (as Instructor-of-Record)\*
 
@@ -109,21 +116,22 @@ In addition, I have closely collaborated on preparing research and academic talk
 - **TA Courses at UA (Dept. of Physics, Dept. of Chemistry & Biochemistry):** Intro. to Scientific Computing (2017), Intro. Electricity & Magnetism (2017), Methods in Exp. Physics I/II (2018, 2019), Intro. Mechanics I/II Lab (2020), Intro. Physics I/II Lab (2020), General Chemistry I(Honors)/II Lab (2019, 2021--2023)
 
 ### Curriculum Development & Institutional Reports
- - <b>Steinmetz, A.</b> <i>Status and Outlook of PHYS 381/382 -- Methods in Experimental Physics I/II at ACT/HEBUT.</i> Internal report submitted to the University of Arizona Department of Physics, June 2025. Proposed curricular adjustments and $36k laboratory equipment expansion in response to enrollment growth and infrastructure constraints at ACT/HEBUT.
- - Advanced Physics Laboratory (PHYS 381/382), ACT/HEBUT. Developed full-year experimental physics lab curriculum, advising and guidance for the purchasing of +\$70k (+500k RMB) in new equipment, and coordinated instruction for 100+ undergraduate students (2024--2025).
+ - <b>Steinmetz, A.</b> <i>Status and Outlook of PHYS 381/382 -- Methods in Experimental Physics I/II at ACT/HEBUT.</i> Internal report submitted to the University of Arizona Department of Physics, June 2025. Proposed curricular adjustments and $36,000 USD laboratory equipment expansion in response to enrollment growth and infrastructure constraints at ACT/HEBUT.
+ - Advanced Physics Laboratory (PHYS 381/382), ACT/HEBUT. Developed full-year experimental physics lab curriculum, advising and guidance for the purchasing of +$70,000 USD (+¥500,000 RMB) in new equipment, and coordinated instruction for 100+ undergraduate students (2024--2025).
+ - Senior Design/Capstone (ENGR 498A), ACT/HEBUT. Co-developed a one-semester senior design and career preparation curriculum, and coordinated instruction for 40+ undergraduate students (2024).
 
 ### Academic Service
 - Organizer, Undergraduate Journal Club, Hebei University of Technology, (2025).
 - Member, Department of Physics, University of Arizona, Faculty Search Committee, (2025, 2024).
-- Reviewer for _Physical Review D_, _Physical Review Research_, _European Physical Journal Plus_, _Modern Physics Letters A_, _International Journal of Modern Physics A_, _MDPI Universe_, and _ICPMS 2025_.
+- Reviewer for _Physical Review D_, _Physical Review Research_, _European Physical Journal Plus_, _Modern Physics Letters A_, _International Journal of Modern Physics A_, and _ICPMS 2025_.
 
 ### Press
 
-1. World Scientific Publishing. (2025, January 9). *World Scientific Publishing on LinkedIn: The International Journal of Modern Physics A (IJMPA) celebrates 40 Years...* LinkedIn. [https://www.linkedin.com/posts/world-scientific-publishing_the-international-journal-of-modern-physics-activity-7282999555967610880-SJ78](https://www.linkedin.com/posts/world-scientific-publishing_the-international-journal-of-modern-physics-activity-7282999555967610880-SJ78)
+1. World Scientific Publishing. (2025, January 9). [World Scientific Publishing on LinkedIn: The International Journal of Modern Physics A (IJMPA) celebrates 40 Years...](https://www.linkedin.com/posts/world-scientific-publishing_the-international-journal-of-modern-physics-activity-7282999555967610880-SJ78) LinkedIn.
 2. Kong, X. (2024, March 20) Professor Andrew Steinmetz of the University of Arizona Visited the Physics Demonstration and Exploration Laboratory. *Physics Experiments at HEBUT, Hebei University of Technology.* 
-3. The University of Arizona, Department of Physics. (2024, January 26). *Announcing Department of Physics new Faculty Member Prof. Andrew Steinmetz*. UA Science Physics. [https://w3.physics.arizona.edu/news/announcing-department-physics-new-faculty-member-prof-andrew-steinmetz](https://w3.physics.arizona.edu/news/announcing-department-physics-new-faculty-member-prof-andrew-steinmetz)
-4. The University of Arizona, Department of Physics. (2023, July 25). *International Symposium on "Particles and Plasmas" and "Strong Fields."* UA Science Physics. [https://w3.physics.arizona.edu/news/international-symposium-particles-and-plasmas-and-strong-fields](https://w3.physics.arizona.edu/news/international-symposium-particles-and-plasmas-and-strong-fields)
-5. Springer. (2018, January 29). Relativity matters: Two opposing views of the magnetic force reconciled. *Phys.org*. [https://phys.org/news/2018-01-relativity-opposing-views-magnetic.html](https://phys.org/news/2018-01-relativity-opposing-views-magnetic.html) (also published in: [EPJ C Highlight](https://www.epj.org/epjc-news/1422-epjc-highlight-relativity-matters-two-opposing-views-of-the-magnetic-force-reconciled), [Springer Press](https://www.springer.com/gp/about-springer/media/research-news/all-english-research-news/relativity-matters--two-opposing-views-of-the-magnetic-force-reconciled/15417658), [ScienceDaily](https://www.sciencedaily.com/releases/2018/01/180129131327.htm), EuroPhysicsNews, EurekAlert!, Science Newsline, Sky Nightly, Space Daily)
+3. The University of Arizona, Department of Physics. (2024, January 26). [Announcing Department of Physics new Faculty Member Prof. Andrew Steinmetz](https://w3.physics.arizona.edu/news/announcing-department-physics-new-faculty-member-prof-andrew-steinmetz). UA Science Physics.
+4. The University of Arizona, Department of Physics. (2023, July 25). [International Symposium on "Particles and Plasmas" and "Strong Fields."](https://w3.physics.arizona.edu/news/international-symposium-particles-and-plasmas-and-strong-fields) UA Science Physics.
+5. Springer. (2018, January 29). Relativity matters: [Two opposing views of the magnetic force reconciled](https://phys.org/news/2018-01-relativity-opposing-views-magnetic.html). Phys.org. Also coverage in [EPJ C Highlight](https://www.epj.org/epjc-news/1422-epjc-highlight-relativity-matters-two-opposing-views-of-the-magnetic-force-reconciled), [Springer Press](https://www.springer.com/gp/about-springer/media/research-news/all-english-research-news/relativity-matters--two-opposing-views-of-the-magnetic-force-reconciled/15417658), [ScienceDaily](https://www.sciencedaily.com/releases/2018/01/180129131327.htm), EuroPhysicsNews, EurekAlert!, Science Newsline, Sky Nightly, Space Daily.
 
 ### Other Links and Websites
 
