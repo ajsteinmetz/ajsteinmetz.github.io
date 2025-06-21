@@ -92,7 +92,7 @@ In addition, I have closely collaborated on preparing research and academic talk
 
 ### Grants & Awards
 1. 2023 Springer-Verlag Conference Sponsorship (PP2023)
-2. 2023 Fanfare Graduate Travel Award, The University of Arizona, $1,500 USD (PP2023, ELI-Beamlines)
+2. 2023 Fanfare Graduate Travel Award, The University of Arizona (PP2023, ELI-Beamlines)
 
 ### Teaching Experience (as Instructor-of-Record)\*
 
