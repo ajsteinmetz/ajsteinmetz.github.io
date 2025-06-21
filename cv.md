@@ -137,12 +137,18 @@ In addition, I have closely collaborated on preparing research and academic talk
 
 ### Other Links and Websites
 
-- **GitHub:** [https://github.com/ajsteinmetz](https://github.com/ajsteinmetz)
-- **INSPIRE-HEP:** [https://inspirehep.net/authors/1796313](https://inspirehep.net/authors/1796313)
-- **Google Scholar:** [https://scholar.google.com/citations?user=fJBK1GIAAAAJ](https://scholar.google.com/citations?user=fJBK1GIAAAAJ)
-- **arXiv:** [https://arxiv.org/a/steinmetz_a_1.html](https://arxiv.org/a/steinmetz_a_1.html)
-- **BlueSky:** [https://bsky.app/profile/ajsteinmetz.com](https://bsky.app/profile/ajsteinmetz.com)
-- **Wikipedia Userpage:** [https://en.wikipedia.org/wiki/User:CosmologicalDefect](https://en.wikipedia.org/wiki/User:CosmologicalDefect)
-- **AstroBin:** [https://www.astrobin.com/users/djinn/](https://www.astrobin.com/users/djinn/)
-- **LinkedIn:** [https://www.linkedin.com/in/ajsteinmetz/](https://www.linkedin.com/in/ajsteinmetz/)
-- My Erdős number is 5. [(source)](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017)
+- **Science:** <a
+  id="cy-effective-orcid-url"
+  class="underline"
+  href="https://orcid.org/0000-0001-5474-2649"
+  target="orcid.widget"
+  rel="me noopener noreferrer"
+  style="vertical-align: top">
+  <img
+    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+    style="width: 1em; margin-inline-start: 0.5em"
+    alt="ORCID iD icon"/>
+  0000-0001-5474-2649
+</a> 🔗 [INSPIRE-HEP](https://inspirehep.net/authors/1796313) 🔗 [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ) 🔗 [arXiv](https://arxiv.org/a/steinmetz_a_1.html) 🔗 [GitHub](https://github.com/ajsteinmetz)
+- **Social & Fun:** [BlueSky](https://bsky.app/profile/ajsteinmetz.com) 🔗 [AstroBin](https://www.astrobin.com/users/djinn/) 🔗 [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect) 🔗 [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/)
+- **My Erdős number is 5.** [(Source)](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017)
