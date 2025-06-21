@@ -2,6 +2,8 @@
 
 ### Andrew James Steinmetz, Ph.D.
 
+Updated June, 2025.
+
 - **Email:** ajsteinmetz@arizona.edu
 - **Faculty Page:** [https://w3.physics.arizona.edu/person/andrew-steinmetz](https://w3.physics.arizona.edu/person/andrew-steinmetz)
 - **Website:** [https://ajsteinmetz.github.io/](https://ajsteinmetz.github.io/)
