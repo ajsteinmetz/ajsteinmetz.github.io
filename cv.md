@@ -13,9 +13,9 @@ Updated June, 2025.
 
 | Position             | Department                         | Institution                     | Dates                 |
 |----------------------|------------------------------------|---------------------------------|-----------------------|
-| Global Professor     | Department of Physics              | The University of Arizona       | Nov. 2023—Present   |
-| Global Professor     | Arizona College of Technology      | Hebei University of Technology  | Feb. 2024—Present   |
-| Adjunct Faculty      | Physics & Astronomy Department     | Pima Community College          | June 2020—Dec. 2023 |
+| Global Professor     | Department of Physics              | The University of Arizona       | Nov. 2023-Present   |
+| Global Professor     | Arizona College of Technology      | Hebei University of Technology  | Feb. 2024-Present   |
+| Adjunct Faculty      | Physics & Astronomy Department     | Pima Community College          | June 2020-Dec. 2023 |
 
 ### Education
 
@@ -114,12 +114,12 @@ In addition, I have closely collaborated on preparing research and academic talk
 
 \** First time offered at this institution. Designed, developed, and delivered curriculum.
 
-- **Adjunct Courses at PCC (Physics & Astronomy Dept., as Instructor-of-Record):** Intro. Physics I/II (2020—2021, 2023), The Solar System (2020—2023), Intro. Electricity & Magnetism (2022)
-- **TA Courses at UA (Dept. of Physics, Dept. of Chemistry & Biochemistry):** Intro. to Scientific Computing (2017), Intro. Electricity & Magnetism (2017), Methods in Exp. Physics I/II (2018, 2019), Intro. Mechanics I/II Lab (2020), Intro. Physics I/II Lab (2020), General Chemistry I(Honors)/II Lab (2019, 2021—2023)
+- **Adjunct Courses at PCC (Physics & Astronomy Dept., as Instructor-of-Record):** Intro. Physics I/II (2020-2021, 2023), The Solar System (2020-2023), Intro. Electricity & Magnetism (2022)
+- **TA Courses at UA (Dept. of Physics, Dept. of Chemistry & Biochemistry):** Intro. to Scientific Computing (2017), Intro. Electricity & Magnetism (2017), Methods in Exp. Physics I/II (2018-2019), Intro. Mechanics I/II Lab (2020), Intro. Physics I/II Lab (2020), General Chemistry I(Honors)/II Lab (2019, 2021-2023)
 
 ### Curriculum Development & Institutional Reports
- - <b>Steinmetz, A.</b> <i>Status and Outlook of PHYS 381/382 -- Methods in Experimental Physics I/II at ACT/HEBUT.</i> Internal report submitted to the University of Arizona Department of Physics, June 2025. Proposed curricular adjustments and $36,000 USD laboratory equipment expansion in response to enrollment growth and infrastructure constraints at ACT/HEBUT.
- - Advanced Physics Laboratory (PHYS 381/382), ACT/HEBUT. Developed full-year experimental physics lab curriculum, advising and guidance for the purchasing of +$14,000 USD (+¥100,000 RMB) in new equipment, and coordinated instruction for 100+ undergraduate students (2024—2025).
+ - <b>Steinmetz, A.</b> <i>Status and Outlook of PHYS 381/382 — Methods in Experimental Physics I/II at ACT/HEBUT.</i> Internal report submitted to the University of Arizona Department of Physics, June 2025. Proposed curricular adjustments and $36,000 USD laboratory equipment expansion in response to enrollment growth and infrastructure constraints at ACT/HEBUT.
+ - Advanced Physics Laboratory (PHYS 381/382), ACT/HEBUT. Developed full-year experimental physics lab curriculum, advising and guidance for the purchasing of +$14,000 USD (+¥100,000 RMB) in new equipment, and coordinated instruction for 100+ undergraduate students (2024-2025).
  - Senior Design/Capstone (ENGR 498A), ACT/HEBUT. Co-developed a one-semester senior design and career preparation curriculum, and coordinated instruction for 40+ undergraduate students (2024).
 
 ### Academic Service
@@ -137,7 +137,8 @@ In addition, I have closely collaborated on preparing research and academic talk
 
 ### Other Links and Websites
 
-- **Science:** <a
+- **Science:**
+ - <a
   id="cy-effective-orcid-url"
   class="underline"
   href="https://orcid.org/0000-0001-5474-2649"
@@ -149,6 +150,14 @@ In addition, I have closely collaborated on preparing research and academic talk
     style="width: 1em; margin-inline-start: 0.5em"
     alt="ORCID iD icon"/>
   0000-0001-5474-2649
-</a> 🔗 [INSPIRE-HEP](https://inspirehep.net/authors/1796313) 🔗 [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ) 🔗 [arXiv](https://arxiv.org/a/steinmetz_a_1.html) 🔗 [GitHub](https://github.com/ajsteinmetz)
-- **Social & Fun:** [BlueSky](https://bsky.app/profile/ajsteinmetz.com) 🔗 [AstroBin](https://www.astrobin.com/users/djinn/) 🔗 [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect) 🔗 [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/)
+</a>
+ - [INSPIRE-HEP](https://inspirehep.net/authors/1796313)
+ - [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ)
+ - [arXiv](https://arxiv.org/a/steinmetz_a_1.html)
+ - [GitHub](https://github.com/ajsteinmetz)
+- **Socials:**
+ - [BlueSky](https://bsky.app/profile/ajsteinmetz.com)
+ - [AstroBin](https://www.astrobin.com/users/djinn/)
+ - [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect)
+ - [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/)
 - **My Erdős number is 5.** [(Source)](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017)
