@@ -13,8 +13,10 @@ Updated June, 2025.
 | Position             | Department                         | Institution                     | Dates                 |
 |----------------------|------------------------------------|---------------------------------|-----------------------|
 | Global Professor     | Department of Physics              | The University of Arizona       | Nov. 2023-Present   |
-| Global Professor     | Arizona College of Technology      | Hebei University of Technology  | Feb. 2024-Present   |
+| Global Professor\*     | Arizona College of Technology      | Hebei University of Technology  | Feb. 2024-Present   |
 | Adjunct Faculty      | Physics & Astronomy Department     | Pima Community College          | June 2020-Dec. 2023 |
+
+\* Joint position.
 
 ### Education
 
@@ -111,7 +113,7 @@ In addition, I have closely collaborated on preparing research and academic talk
 
 \* Recent student course evaluations available upon request.
 
-\** First time offered at this institution. Designed, developed, and delivered curriculum.
+\** First time offered at this institution. Designed, developed, and delivered curriculum. See below for details.
 
 - **Adjunct Courses at PCC (Physics & Astronomy Dept., as Instructor-of-Record):** Intro. Physics I/II (2020-2021, 2023), The Solar System (2020-2023), Intro. Electricity & Magnetism (2022)
 - **TA Courses at UA (Dept. of Physics, Dept. of Chemistry & Biochemistry):** Intro. to Scientific Computing (2017), Intro. Electricity & Magnetism (2017), Methods in Exp. Physics I/II (2018-2019), Intro. Mechanics I/II Lab (2020), Intro. Physics I/II Lab (2020), General Chemistry I(Honors)/II Lab (2019, 2021-2023)
