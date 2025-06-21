@@ -138,19 +138,7 @@ In addition, I have closely collaborated on preparing research and academic talk
 ### Other Links and Websites
 
 - **Science:**
- - <a
-  id="cy-effective-orcid-url"
-  class="underline"
-  href="https://orcid.org/0000-0001-5474-2649"
-  target="orcid.widget"
-  rel="me noopener noreferrer"
-  style="vertical-align: top">
-  <img
-    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-    style="width: 1em; margin-inline-start: 0.5em"
-    alt="ORCID iD icon"/>
-  0000-0001-5474-2649
-</a>
+ - <a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0000-0001-5474-2649" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/>0000-0001-5474-2649</a>
  - [INSPIRE-HEP](https://inspirehep.net/authors/1796313)
  - [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ)
  - [arXiv](https://arxiv.org/a/steinmetz_a_1.html)
