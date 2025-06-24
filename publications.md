@@ -211,16 +211,16 @@
   <tbody>
     <tr>
       <td>
-        Rafelski, J., Birrell, J., Grayson, C., <strong><a href="https://github.com/ajsteinmetz/thesis-collab-project">Steinmetz, A.</a></strong>, Yang, C. T. "Quarks to Cosmos: Particles and Plasma in Cosmological evolution." <i>Eur. Phys. J. Spec. Top.</i> (in press, 2025). <a href="https://doi.org/10.48550/arXiv.2409.19031">10.48550/arXiv.2409.19031</a>
+        Rafelski, J., Birrell, J., Grayson, C., <strong><a href="https://github.com/ajsteinmetz/thesis-collab-project">Steinmetz, A.</a></strong>, Yang, C. T. "Quarks to Cosmos: Particles and Plasma in Cosmological evolution." <i>Eur. Phys. J. Spec. Top.</i> (2025). <a href="https://doi.org/10.1140/epjs/s11734-025-01470-w">10.1140/epjs/s11734-025-01470-w</a>
       </td>
       <td>
         <div class="badge-box">
-          <span class="__dimensions_badge_embed__ small-dimensions-badge" data-doi="10.48550/arXiv.2409.19031"></span>
+          <span class="__dimensions_badge_embed__ small-dimensions-badge" data-doi="10.1140/epjs/s11734-025-01470-w"></span>
         </div>
       </td>
       <td>
         <div class="badge-box">
-          <div class="altmetric-embed donut-badge" data-altmetric-id="168842996"></div>
+          <div class="altmetric-embed donut-badge" data-doi="10.1140/epjs/s11734-025-01470-w"></div>
         </div>
       </td>
     </tr>
