@@ -115,8 +115,9 @@ In addition, I have closely collaborated on preparing research and academic talk
 
 ### Curriculum Development & Institutional Reports
 1. <b>Steinmetz, A.</b> <i>Status and Outlook of PHYS 381/382 — Methods in Experimental Physics I/II at ACT/HEBUT.</i> Internal report submitted to the University of Arizona Department of Physics, June 2025. Proposed curricular adjustments and $36,000 USD laboratory equipment expansion in response to enrollment growth and infrastructure constraints at ACT/HEBUT.
-2. Advanced Physics Laboratory (PHYS 381/382), ACT/HEBUT. Developed full-year experimental physics lab curriculum, advising and guidance for the purchasing of +$14,000 USD (+¥100,000 RMB) in new equipment, and coordinated instruction for 100+ undergraduate students (2024-2025).
-3. Senior Design/Capstone (ENGR 498A), ACT/HEBUT. Co-developed a one-semester senior design and career preparation curriculum, and coordinated instruction for 40+ undergraduate students (2024).
+2. <b>Steinmetz, A.</b> “Physics Lab, Journal Club, and AI Tools.” Presentation, <i>Cross College Faculty Forum (CCFF).</i> Arizona College of Technology, Hebei University of Technology. April 11, 2025.
+3. Advanced Physics Laboratory (PHYS 381/382), ACT/HEBUT. Developed full-year experimental physics lab curriculum, advising and guidance for the purchasing of +$14,000 USD (+¥100,000 RMB) in new equipment, and coordinated instruction for 100+ undergraduate students (2024-2025).
+4. Senior Design/Capstone (ENGR 498A), ACT/HEBUT. Co-developed a one-semester senior design and career preparation curriculum, and coordinated instruction for 40+ undergraduate students (2024).
 
 ### Academic Service
 - Organizer, Undergraduate Journal Club, Arizona College of Technology, Hebei University of Technology, (2025).
