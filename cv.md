@@ -12,7 +12,7 @@ Updated June, 2025.
 
 | Position             | Department                         | Institution                     | Dates                 |
 |----------------------|------------------------------------|---------------------------------|-----------------------|
-| Global Professor     | Department of Physics              | The University of Arizona       | Nov. 2023-Present   |
+| Global Professor\*     | Department of Physics              | The University of Arizona       | Nov. 2023-Present   |
 | Global Professor\*     | Arizona College of Technology      | Hebei University of Technology  | Feb. 2024-Present   |
 | Adjunct Faculty      | Physics & Astronomy Department     | Pima Community College          | June 2020-Dec. 2023 |
 
@@ -94,7 +94,7 @@ Citations = 125; h-index = 7 (Google Scholar, June 2025)
 In addition, I have closely collaborated on preparing research and academic talks delivered at the following conferences/institutes: Deutsche Elektronen-Synchrotron/DESY (2024), Margaret Island Symposium on Particles & Plasmas (PP2023), Polish Academy of Science at Warsaw University (2023), XI International Conference on New Frontiers in Physics (ICNFP 2022), The University of Arizona (2022), Hungarian Academy of Sciences (2022), Institute of Theoretical Physics Uniwersytet Wroclawski (2022), 21st Zimanyi School Winter Workshop on Heavy Ion Physics (2021), 4th LeCosPA Symposium (2021).
 
 ### Grants & Awards
-1. 2023 Springer-Verlag Conference Sponsorship (PP2023)
+1. 2023 Young Researcher Meeting Grant, European Physical Journal (EPJ), Springer-Verlag (PP2023)
 2. 2023 Fanfare Graduate Travel Award, The University of Arizona (PP2023, ELI-Beamlines)
 
 ### Teaching Experience (as Instructor-of-Record)\*
