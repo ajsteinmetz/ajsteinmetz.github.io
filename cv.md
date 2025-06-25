@@ -129,14 +129,19 @@ In addition, I have closely collaborated on preparing research and academic talk
 - Member, Department of Physics, University of Arizona, Faculty Search Committee(s), (2025, 2024).
 - Reviewer for _Physical Review D_, _Physical Review Research_, _European Physical Journal Plus_, _Modern Physics Letters A_, _International Journal of Modern Physics A_, and _ICPMS 2025_.
 
-### Press
+### External & Institutional Press
 
-1. World Scientific Publishing. (2025, January 9). [World Scientific Publishing on LinkedIn: The International Journal of Modern Physics A (IJMPA) celebrates 40 Years...](https://www.linkedin.com/posts/world-scientific-publishing_the-international-journal-of-modern-physics-activity-7282999555967610880-SJ78) LinkedIn.
-2. “亚利桑那工业学院中美跨学院教师论坛（CCFF）顺利举行” [Cross‑College Faculty Forum between Arizona Tech and Hebei University of Technology successfully held], *Hebei University of Technology News*, November 20, 2024. [Link](https://hatech.hebut.edu.cn/xw/62ff3dcc665b453898ec92841d45e0ce.htm)
-2. Kong, X. (2024, March 20) Professor Andrew Steinmetz of the University of Arizona Visited the Physics Demonstration and Exploration Laboratory. *Physics Experiments at HEBUT, Hebei University of Technology.* 
-3. The University of Arizona, Department of Physics. (2024, January 26). [Announcing Department of Physics new Faculty Member Prof. Andrew Steinmetz](https://w3.physics.arizona.edu/news/announcing-department-physics-new-faculty-member-prof-andrew-steinmetz). UA Science Physics.
-4. The University of Arizona, Department of Physics. (2023, July 25). [International Symposium on "Particles and Plasmas" and "Strong Fields."](https://w3.physics.arizona.edu/news/international-symposium-particles-and-plasmas-and-strong-fields) UA Science Physics.
-5. Springer. (2018, January 29). Relativity matters: [Two opposing views of the magnetic force reconciled](https://phys.org/news/2018-01-relativity-opposing-views-magnetic.html). Phys.org. Also coverage in [EPJ C Highlight](https://www.epj.org/epjc-news/1422-epjc-highlight-relativity-matters-two-opposing-views-of-the-magnetic-force-reconciled), [Springer Press](https://www.springer.com/gp/about-springer/media/research-news/all-english-research-news/relativity-matters--two-opposing-views-of-the-magnetic-force-reconciled/15417658), [ScienceDaily](https://www.sciencedaily.com/releases/2018/01/180129131327.htm), EuroPhysicsNews, EurekAlert!, Science Newsline, Sky Nightly, Space Daily.
+1. World Scientific Publishing. (2025, January 9). “The International Journal of Modern Physics A (IJMPA) celebrates 40 Years…,” *LinkedIn*. [Link](https://www.linkedin.com/posts/world-scientific-publishing_the-international-journal-of-modern-physics-activity-7282999555967610880-SJ78)
+
+2. “亚利桑那工业学院中美跨学院教师论坛（CCFF）顺利举行” [Cross-College Faculty Forum between Arizona Tech and Hebei University of Technology successfully held], *Hebei University of Technology News*, November 20, 2024. [Link](https://hatech.hebut.edu.cn/xw/62ff3dcc665b453898ec92841d45e0ce.htm)
+
+3. Kong, X. (2024, March 20). “Professor Andrew Steinmetz of the University of Arizona Visited the Physics Demonstration and Exploration Laboratory,” *Physics Experiments at HEBUT, Hebei University of Technology*.
+
+4. The University of Arizona, Department of Physics. (2024, January 26). “Announcing Department of Physics new Faculty Member Prof. Andrew Steinmetz,” *UA Science Physics*. [Link](https://w3.physics.arizona.edu/news/announcing-department-physics-new-faculty-member-prof-andrew-steinmetz)
+
+5. The University of Arizona, Department of Physics. (2023, July 25). “International Symposium on ‘Particles and Plasmas’ and ‘Strong Fields’,” *UA Science Physics*. [Link](https://w3.physics.arizona.edu/news/international-symposium-particles-and-plasmas-and-strong-fields)
+
+6. Springer. (2018, January 29). “Relativity matters: Two opposing views of the magnetic force reconciled,” *Phys.org*. [Phys.org](https://phys.org/news/2018-01-relativity-opposing-views-magnetic.html), [EPJ C Highlight](https://www.epj.org/epjc-news/1422-epjc-highlight-relativity-matters-two-opposing-views-of-the-magnetic-force-reconciled), [Springer Press](https://www.springer.com/gp/about-springer/media/research-news/all-english-research-news/relativity-matters--two-opposing-views-of-the-magnetic-force-reconciled/15417658), [ScienceDaily](https://www.sciencedaily.com/releases/2018/01/180129131327.htm), *also featured in* EuroPhysicsNews, EurekAlert!, Science Newsline, Sky Nightly, Space Daily.
 
 ### Other Links and Websites
 
