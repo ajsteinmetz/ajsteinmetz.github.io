@@ -69,9 +69,9 @@ Citations = 125; h-index = 7 (Google Scholar, June 2025)
 4. Evans, S., **Steinmetz, A.** "Anomalous magnetic moment in the QCD vacuum." (in preparation, 2025).
 
 #### Public Outreach
-1. Steinmetz, A. (2024, November 7). [Proving that SU(2) is compact (and other group theory bits).](https://ajsteinmetz.github.io/mathematics/2024/11/07/su2-compactness.html)
-2. Steinmetz, A. (2024, October 17). [Einstein's mass-energy and kinetic energy.](https://ajsteinmetz.github.io/physics/2024/10/17/kinetic-energy-coefficient.html)
-3. Steinmetz, A. (2024, October 16). [Can we ever detect the graviton?](https://ajsteinmetz.github.io/physics/2024/10/16/graviton-detector.html)
+1. Steinmetz, A. (2024, November 7). Proving that SU(2) is compact (and other group theory bits). [Link](https://ajsteinmetz.github.io/mathematics/2024/11/07/su2-compactness.html)
+2. Steinmetz, A. (2024, October 17). Einstein's mass-energy and kinetic energy. [Link](https://ajsteinmetz.github.io/physics/2024/10/17/kinetic-energy-coefficient.html)
+3. Steinmetz, A. (2024, October 16). Can we ever detect the graviton? [Link](https://ajsteinmetz.github.io/physics/2024/10/16/graviton-detector.html)
 
 ### Conference Presentations & Talks
 
