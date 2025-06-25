@@ -124,13 +124,15 @@ In addition, I have closely collaborated on preparing research and academic talk
 3. Senior Design/Capstone (ENGR 498A), ACT/HEBUT. Co-developed a one-semester senior design and career preparation curriculum, and coordinated instruction for 40+ undergraduate students (2024).
 
 ### Academic Service
-- Organizer, Undergraduate Journal Club, Hebei University of Technology, (2025).
+- Organizer, Undergraduate Journal Club, Arizona College of Technology, Hebei University of Technology, (2025).
+- Member, Cross College Faculty Forum (CCFF), Arizona College of Technology, Hebei University of Technology (2024-2025)
 - Member, Department of Physics, University of Arizona, Faculty Search Committee(s), (2025, 2024).
 - Reviewer for _Physical Review D_, _Physical Review Research_, _European Physical Journal Plus_, _Modern Physics Letters A_, _International Journal of Modern Physics A_, and _ICPMS 2025_.
 
 ### Press
 
 1. World Scientific Publishing. (2025, January 9). [World Scientific Publishing on LinkedIn: The International Journal of Modern Physics A (IJMPA) celebrates 40 Years...](https://www.linkedin.com/posts/world-scientific-publishing_the-international-journal-of-modern-physics-activity-7282999555967610880-SJ78) LinkedIn.
+2. “亚利桑那工业学院中美跨学院教师论坛（CCFF）顺利举行” [Cross‑College Faculty Forum between Arizona Tech and Hebei University of Technology successfully held], *Hebei University of Technology News*, November 20, 2024. [Link](https://hatech.hebut.edu.cn/xw/62ff3dcc665b453898ec92841d45e0ce.htm)
 2. Kong, X. (2024, March 20) Professor Andrew Steinmetz of the University of Arizona Visited the Physics Demonstration and Exploration Laboratory. *Physics Experiments at HEBUT, Hebei University of Technology.* 
 3. The University of Arizona, Department of Physics. (2024, January 26). [Announcing Department of Physics new Faculty Member Prof. Andrew Steinmetz](https://w3.physics.arizona.edu/news/announcing-department-physics-new-faculty-member-prof-andrew-steinmetz). UA Science Physics.
 4. The University of Arizona, Department of Physics. (2023, July 25). [International Symposium on "Particles and Plasmas" and "Strong Fields."](https://w3.physics.arizona.edu/news/international-symposium-particles-and-plasmas-and-strong-fields) UA Science Physics.
