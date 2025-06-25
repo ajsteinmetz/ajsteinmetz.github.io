@@ -12,8 +12,8 @@ Updated June, 2025.
 
 | Position Title        | Department                         | Institution                     | Dates                 |
 |----------------------|------------------------------------|---------------------------------|-----------------------|
-| Global Professor\*     | Department of Physics              | The University of Arizona       | Nov. 2023-Present   |
-| Global Professor\*     | Arizona College of Technology      | Hebei University of Technology  | Feb. 2024-Present   |
+| Global Professor\*     | Arizona College of Technology      | Hebei University of Technology  | Feb. 2024-June 2025   |
+| Global Professor\*     | Department of Physics              | The University of Arizona       | Nov. 2023-June 2025   |
 | Adjunct Faculty      | Physics & Astronomy Department     | Pima Community College          | June 2020-Dec. 2023 |
 
 \* Joint international faculty appointment.
@@ -40,7 +40,7 @@ Updated June, 2025.
 
 ### Publications
 
-Citations = 125; h-index = 7 (Google Scholar, June 2025)
+Citations = 125; h-index = 7 ([Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ), June 2025). See also [INSPIRE-HEP](https://inspirehep.net/authors/1796313) and [arXiv](https://arxiv.org/a/steinmetz_a_1.html).
 
 #### Peer-Reviewed Journal Articles
 
@@ -141,17 +141,11 @@ In addition, I have closely collaborated on preparing research and academic talk
 
 ### Other Links and Websites
 
-Science:
-- [UA Faculty Page](https://w3.physics.arizona.edu/person/andrew-steinmetz)
-- [INSPIRE-HEP](https://inspirehep.net/authors/1796313)
-- [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ)
-- [arXiv](https://arxiv.org/a/steinmetz_a_1.html)
-- [GitHub](https://github.com/ajsteinmetz)
 
-Socials:
-- [BlueSky](https://bsky.app/profile/ajsteinmetz.com)
-- [AstroBin](https://www.astrobin.com/users/djinn/)
-- [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect)
-- [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/)
+| Professional   | Socials        |
+|----------------|----------------|
+| [UA Faculty Page](https://w3.physics.arizona.edu/person/andrew-steinmetz) | [BlueSky](https://bsky.app/profile/ajsteinmetz.com) |
+| [GitHub](https://github.com/ajsteinmetz) | [AstroBin](https://www.astrobin.com/users/djinn/) |
+| [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/) | [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect) |
 
 My Erdős number is 5. [(Source)](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017)
