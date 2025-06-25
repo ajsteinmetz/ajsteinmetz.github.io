@@ -120,6 +120,7 @@ In addition, I have closely collaborated on preparing research and academic talk
 4. Senior Design/Capstone (ENGR 498A), ACT/HEBUT. Co-developed a one-semester senior design and career preparation curriculum, and coordinated instruction for 40+ undergraduate students (2024).
 
 ### Academic Service & Associations
+- Designated Campus Colleague (DCC), The University of Arizona, (expected, 2025).
 - Organizer, Undergraduate Journal Club, Arizona College of Technology, Hebei University of Technology, (2025).
 - Member, Cross College Faculty Forum (CCFF), Arizona College of Technology, Hebei University of Technology (2024-2025)
 - Member, Department of Physics, University of Arizona, Faculty Search Committee(s), (2025, 2024).
