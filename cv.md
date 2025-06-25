@@ -68,11 +68,6 @@ Citations = 125; h-index = 7 (Google Scholar, June 2025)
 3. **Steinmetz, A.**, Yang, C. T., Rafelski, J. "Electromagnetic field forcing of dynamic CP-violation in lepton sector." (in preparation, 2025).
 4. Evans, S., **Steinmetz, A.** "Anomalous magnetic moment in the QCD vacuum." (in preparation, 2025).
 
-#### Public Outreach
-1. Steinmetz, A. (2024, November 7). Proving that SU(2) is compact (and other group theory bits). [Link](https://ajsteinmetz.github.io/mathematics/2024/11/07/su2-compactness.html)
-2. Steinmetz, A. (2024, October 17). Einstein's mass-energy and kinetic energy. [Link](https://ajsteinmetz.github.io/physics/2024/10/17/kinetic-energy-coefficient.html)
-3. Steinmetz, A. (2024, October 16). Can we ever detect the graviton? [Link](https://ajsteinmetz.github.io/physics/2024/10/16/graviton-detector.html)
-
 ### Conference Presentations & Talks
 
 #### Talks Presented by Steinmetz, A.
@@ -128,6 +123,11 @@ In addition, I have closely collaborated on preparing research and academic talk
 - Member, Cross College Faculty Forum (CCFF), Arizona College of Technology, Hebei University of Technology (2024-2025)
 - Member, Department of Physics, University of Arizona, Faculty Search Committee(s), (2025, 2024).
 - Reviewer for _Physical Review D_, _Physical Review Research_, _European Physical Journal Plus_, _Modern Physics Letters A_, _International Journal of Modern Physics A_, and _ICPMS 2025_.
+
+### Public Outreach
+1. Steinmetz, A. (2024, November 7). Proving that SU(2) is compact (and other group theory bits). [Link](https://ajsteinmetz.github.io/mathematics/2024/11/07/su2-compactness.html)
+2. Steinmetz, A. (2024, October 17). Einstein's mass-energy and kinetic energy. [Link](https://ajsteinmetz.github.io/physics/2024/10/17/kinetic-energy-coefficient.html)
+3. Steinmetz, A. (2024, October 16). Can we ever detect the graviton? [Link](https://ajsteinmetz.github.io/physics/2024/10/16/graviton-detector.html)
 
 ### External & Institutional Press
 
