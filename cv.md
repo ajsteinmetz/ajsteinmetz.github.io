@@ -10,13 +10,13 @@ Updated June, 2025.
 
 ### Employment
 
-| Position             | Department                         | Institution                     | Dates                 |
+| Position Title        | Department                         | Institution                     | Dates                 |
 |----------------------|------------------------------------|---------------------------------|-----------------------|
 | Global Professor\*     | Department of Physics              | The University of Arizona       | Nov. 2023-Present   |
 | Global Professor\*     | Arizona College of Technology      | Hebei University of Technology  | Feb. 2024-Present   |
 | Adjunct Faculty      | Physics & Astronomy Department     | Pima Community College          | June 2020-Dec. 2023 |
 
-\* Joint position.
+\* Joint appointment.
 
 ### Education
 
