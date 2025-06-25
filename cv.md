@@ -22,9 +22,9 @@ Updated June, 2025.
 
 | Degree | Field                | Institution               | Dates |
 |--------|----------------------|---------------------------|-------|
-| Ph.D.  | Physics              | The University of Arizona | 2023  |
-| B.S.   | Physics              | The University of Arizona | 2014  |
-| B.S.   | Chemical Engineering | The University of Arizona | 2014  |
+| Ph.D.  | Physics              | The University of Arizona | Dec. 2023  |
+| B.S.   | Physics              | The University of Arizona | May 2014  |
+| B.S.   | Chemical Engineering | The University of Arizona | May 2014  |
 
 ### Research Interests
 
