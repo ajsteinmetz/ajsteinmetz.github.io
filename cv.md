@@ -16,7 +16,7 @@ Updated June, 2025.
 | Global Professor\*     | Arizona College of Technology      | Hebei University of Technology  | Feb. 2024-Present   |
 | Adjunct Faculty      | Physics & Astronomy Department     | Pima Community College          | June 2020-Dec. 2023 |
 
-\* Joint Faculty Appointment in International Partnership Program.
+\* Joint international faculty appointment.
 
 ### Education
 
@@ -119,7 +119,7 @@ In addition, I have closely collaborated on preparing research and academic talk
 3. Advanced Physics Laboratory (PHYS 381/382), ACT/HEBUT. Developed full-year experimental physics lab curriculum, advising and guidance for the purchasing of +$14,000 USD (+¥100,000 RMB) in new equipment, and coordinated instruction for 100+ undergraduate students (2024-2025).
 4. Senior Design/Capstone (ENGR 498A), ACT/HEBUT. Co-developed a one-semester senior design and career preparation curriculum, and coordinated instruction for 40+ undergraduate students (2024).
 
-### Academic Service
+### Academic Service & Associations
 - Organizer, Undergraduate Journal Club, Arizona College of Technology, Hebei University of Technology, (2025).
 - Member, Cross College Faculty Forum (CCFF), Arizona College of Technology, Hebei University of Technology (2024-2025)
 - Member, Department of Physics, University of Arizona, Faculty Search Committee(s), (2025, 2024).
@@ -132,7 +132,7 @@ In addition, I have closely collaborated on preparing research and academic talk
 
 ### External & Institutional Press
 
-1. World Scientific Publishing. (2025, January 9). “The International Journal of Modern Physics A (IJMPA) celebrates 40 Years…,” *LinkedIn*. [Link](https://www.linkedin.com/posts/world-scientific-publishing_the-international-journal-of-modern-physics-activity-7282999555967610880-SJ78).
+1. World Scientific Publishing. (2025, January 9). “The International Journal of Modern Physics A (IJMPA) Celebrates 40 Years of Excellence,” *LinkedIn*. [Link](https://www.linkedin.com/posts/world-scientific-publishing_the-international-journal-of-modern-physics-activity-7282999555967610880-SJ78).
 2. Hebei University of Technology. (2024, November 20). “亚利桑那工业学院中美跨学院教师论坛（CCFF）顺利举行” [Cross-College Faculty Forum between Arizona Tech and Hebei University of Technology successfully held]. *Hebei University of Technology News*. [Link](https://hatech.hebut.edu.cn/xw/62ff3dcc665b453898ec92841d45e0ce.htm).
 3. Kong, X. (2024, March 20). “亚利桑那大学Andrew Steinmetz教授到物理演示与探索实验师参观调研” [Professor Andrew Steinmetz of the University of Arizona Visited the Physics Demonstration and Exploration Laboratory], *Physics Experiments at HEBUT, Hebei University of Technology*. [Link](https://mp.weixin.qq.com/s?__biz=Mzg4Njg3NjQyMw==&mid=2247484302&idx=1&sn=273f88bc0332d9a34a9fdbee01b196b3&chksm=cf93b3e6f8e43af0b75b832801bbe9e684d258f00c3671e7e625bfccde7c74a387ef9e5a9926&mpshare=1&scene=24&srcid=0320Wt3iZMGOxbLpRBZg9nYA)
 4. The University of Arizona, Department of Physics. (2024, January 26). “Announcing Department of Physics new Faculty Member Prof. Andrew Steinmetz,” *UA Science Physics*. [Link](https://w3.physics.arizona.edu/news/announcing-department-physics-new-faculty-member-prof-andrew-steinmetz).
