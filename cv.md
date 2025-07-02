@@ -79,7 +79,7 @@ Citations = 125; h-index = 7 ([Google Scholar](https://scholar.google.com/citati
 
 #### Talks Co-Prepared by Steinmetz, A. (Presented by Others)
 
-1. Rafelski, J. (presenter), Yang, C. T., <b>Steinmetz, A.</b>. "Thermal Non-equilibrium and Quark-gluon Plasma." <i>Joint European Thermodynamics Conference (JETC 2025).</i> Belgrade, Serbia, May 28, 2025. 
+1. Rafelski, J. (presenter), Yang, C. T., <b>Steinmetz, A.</b>. "Thermal Non-equilibrium and Quark-gluon Plasma." <i>Joint European Thermodynamics Conference (JETC 2025).</i> Belgrade, Serbia, May 28, 2025. [10.13140/RG.2.2.25443.05922](http://dx.doi.org/10.13140/RG.2.2.25443.05922)
 2. Rafelski, J. (presenter), Birrell, J., Grayson, C., <b>Steinmetz, A.</b>, Yang, C. T., Foster, S. "Quarks to Cosmos: Particles and Plasma in Cosmological Evolution." <i>16th Conference on Quark Confinement and the Hadron Spectrum (QCHSC 2024).</i> The University of Adelaide, Cairns, Australia. August 9, 2024. [10.13140/RG.2.2.19642.30407](http://dx.doi.org/10.13140/RG.2.2.19642.30407)
 3. Rafelski, J. (presenter), Yang, C. T., Birrell, J., Grayson, C., Foster, S., <b>Steinmetz, A.</b>, "Particles & Plasmas in the First Hour of the Universe." <i>Particles & Plasmas Symposium (PP2024).</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 11, 2024. [10.13140/RG.2.2.22997.74727](http://dx.doi.org/10.13140/RG.2.2.22997.74727) 
 4. Rafelski, J. (presenter), <b>Steinmetz, A.</b> "Space-time, Acceleration and Matter." The Extreme Light Infrastructure ERIC, Prague, Czech Republic. December, 2022. [10.13140/RG.2.2.25933.76001](http://dx.doi.org/10.13140/RG.2.2.25933.76001)
@@ -120,7 +120,7 @@ In addition, I have closely collaborated on preparing research and academic talk
 4. Senior Design/Capstone (ENGR 498A), ACT/HEBUT. Co-developed a one-semester senior design and career preparation curriculum, and coordinated instruction for 40+ undergraduate students (2024).
 
 ### Academic Service & Associations
-- Designated Campus Colleague (DCC), The University of Arizona, (expected, 2025).
+- Associate Designated Campus Colleague (DCC), Department of Physics, The University of Arizona, (2025-present).
 - Organizer, Undergraduate Journal Club, Arizona College of Technology, Hebei University of Technology, (2025).
 - Member, Cross College Faculty Forum (CCFF), Arizona College of Technology, Hebei University of Technology (2024-2025)
 - Member, Department of Physics, University of Arizona, Faculty Search Committee(s), (2025, 2024).
