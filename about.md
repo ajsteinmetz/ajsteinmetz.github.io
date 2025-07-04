@@ -1,6 +1,6 @@
 ## About 🔭
 
-Hi, I'm **Dr. Andrew James Steinmetz!** Welcome to my personal website where I share my projects, blogs, and research in physics. I'm a **Global Professor** in the Department of Physics at The University of Arizona, with a role at the Arizona College of Technology at the Hebei University of Technology in Tianjin, China. My work focuses on ⚛ quantum mechanics, 🌌 cosmology, and 🧲 electromagnetism.
+Hi, I’m **Dr. Andrew James Steinmetz!** Welcome to my personal website where I share my projects, blogs, and research in physics. I’m a physicist at The University of Arizona, and former Global Professor at the Arizona College of Technology, Hebei University of Technology in Tianjin, China. My work focuses on ⚛ quantum mechanics, 🌌 cosmology, and 🧲 electromagnetism.
 
 ### More Links 🔗
 
