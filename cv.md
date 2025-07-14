@@ -2,7 +2,7 @@
 
 ### Andrew James Steinmetz, Ph.D.
 
-Updated June, 2025.
+Updated July, 2025.
 
 - **Email:** ajsteinmetz@arizona.edu
 - **Website:** [https://ajsteinmetz.github.io/](https://ajsteinmetz.github.io/)
@@ -40,7 +40,7 @@ Updated June, 2025.
 
 ### Publications
 
-Citations = 125; h-index = 7 ([Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ), June 2025). See also [INSPIRE-HEP](https://inspirehep.net/authors/1796313) and [arXiv](https://arxiv.org/a/steinmetz_a_1.html).
+Citations = 128; h-index = 7 ([Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ), July 2025). See also [INSPIRE-HEP](https://inspirehep.net/authors/1796313) and [arXiv](https://arxiv.org/a/steinmetz_a_1.html).
 
 #### Peer-Reviewed Journal Articles
 
