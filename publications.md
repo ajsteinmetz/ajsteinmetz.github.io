@@ -33,8 +33,8 @@
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
+<p>🔗 All public work is freely available on <a href="https://arxiv.org/a/steinmetz_a_1.html">arXiv</a>.</p>
 <p>🔗 Links to official publications and GitHub projects are provided.</p>
-<p>🔗 All listed work is freely available on <a href="https://arxiv.org/a/steinmetz_a_1.html">arXiv</a>.</p>
 
 <h4>Peer-Reviewed Journal Articles</h4>
 <table border="1">
@@ -252,6 +252,27 @@
         <div class="badge-box">
           <div class="altmetric-embed donut-badge" data-altmetric-id="148440866"></div>
         </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h4>Institutional & Technical Reports</h4>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Full Citation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Steinmetz, A.</strong> "Status and Outlook of PHYS 381/382 -- Methods in Experimental Physics I/II at ACT/HEBUT." Internal report, Department of Physics, University of Arizona (2025).
+      </td>
+    </tr>
+    <tr>
+      <td>
+        ATLAS Collaboration (coauthor: <strong>Steinmetz A.</strong>). "Large Eta Task Force Report." ATL-UPGRADE-INT-2015-001, CERN, Geneva (2015). <a href="https://cds.cern.ch/record/2020591">https://cds.cern.ch/record/2020591</a>
       </td>
     </tr>
   </tbody>
