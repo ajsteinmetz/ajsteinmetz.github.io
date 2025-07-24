@@ -86,7 +86,7 @@ Citations = 128; h-index = 7 ([Google Scholar](https://scholar.google.com/citati
 
 #### Talks Presented by Steinmetz, A.
 
-1. <b>Steinmetz, A.</b> "Physics Lab, Journal Club, and AI Tools." Presentation, <i>Cross College Faculty Forum (CCFF).</i> Arizona College of Technology, Hebei University of Technology, Tianjin, China. April 11, 2025.
+1. <b>Steinmetz, A.</b> "Physics Lab, Journal Club, and AI Tools." <i>Cross College Faculty Forum (CCFF).</i> Arizona College of Technology, Hebei University of Technology, Tianjin, China. April 11, 2025.
 2. <b>Steinmetz, A.</b>, Yang, C. T., Rafelski, J. "Primordial Cosmic Magnetism." <i>SMT 30th Anniversary Steward Observatory Symposium.</i> The University of Arizona, Tucson, Arizona. September 22, 2023. [10.13140/RG.2.2.19213.24806](http://dx.doi.org/10.13140/RG.2.2.19213.24806)
 3. <b>Steinmetz, A.</b>, Yang, C. T., Rafelski, J. "Magnetism in the Cosmic Plasma Epoch." <i>ELI-Beamlines Strong Fields Frontiers.</i> The Extreme Light Infrastructure ERIC, Prague, Czech Republic. June 13, 2023. [10.13140/RG.2.2.32635.02087](http://dx.doi.org/10.13140/RG.2.2.32635.02087)
 4. <b>Steinmetz, A.</b>, Yang, C. T., Rafelski, J. "Magnetism in the Cosmic Plasma Epoch." <i>Margaret Island Symposium on Particles & Plasmas (PP2023).</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 8, 2023. [10.13140/RG.2.2.29279.57762](http://dx.doi.org/10.13140/RG.2.2.29279.57762)
