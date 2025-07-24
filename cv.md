@@ -12,9 +12,10 @@ Updated July, 2025.
 
 | Position Title               | Department                     | Institution                        | Dates             |
 |------------------------------|--------------------------------|--------------------------------|-----------------------|
-| Global Professor<sup>a</sup> | Arizona College of Technology  | Hebei University of Technology | Feb. 2024-July 2025   |
-| Global Professor<sup>a</sup> | Department of Physics          | The University of Arizona      | Nov. 2023-July 2025   |
-| Adjunct Faculty              | Physics & Astronomy Department | Pima Community College         | June 2020-Dec. 2023   |
+| Academic Professional | School of Physics | Georgia Tech | Jan 2026 (expected) |
+| Global Professor<sup>a</sup> | Arizona College of Technology  | Hebei University of Technology | Feb 2024-Jul 2025   |
+| Global Professor<sup>a</sup> | Department of Physics          | The University of Arizona      | Nov 2023-Jul 2025   |
+| Adjunct Faculty              | Physics & Astronomy Department | Pima Community College         | Jun 2020-Dec 2023   |
 
 <ol type="a" start="1">
   <li>Joint international faculty appointment.</li>
@@ -24,7 +25,7 @@ Updated July, 2025.
 
 | Degree | Field                | Institution                             | Dates      |
 |--------|----------------------|-----------------------------------------|------------|
-| Ph.D.  | Physics              | The University of Arizona<sup>b,c</sup> | Dec. 2023  |
+| Ph.D.  | Physics              | The University of Arizona<sup>b,c</sup> | Dec 2023  |
 | B.S.   | Physics              | The University of Arizona<sup>d</sup>   | May 2014   |
 | B.S.   | Chemical Engineering | The University of Arizona               | May 2014   |
 
