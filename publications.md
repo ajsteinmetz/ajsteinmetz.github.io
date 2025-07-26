@@ -290,7 +290,7 @@
   <tbody>
     <tr>
       <td>
-        <strong><a href="https://github.com/ajsteinmetz/thesis-ajsteinmetz">Steinmetz, A.</a></strong> "Modern topics in relativistic spin dynamics and magnetism." PhD dissertation. University of Arizona, 2023. <a href="http://hdl.handle.net/10150/670301">HDL:10150/670301</a> <a href="https://doi.org/10.48550/arXiv.2310.07193">10.48550/arXiv.2310.07193</a>
+        <strong><a href="https://github.com/ajsteinmetz/thesis-ajsteinmetz">Steinmetz, A.</a></strong> "Modern topics in relativistic spin dynamics and magnetism." PhD dissertation. University of Arizona, Tucson, AZ, 2023. <a href="http://hdl.handle.net/10150/670301">HDL:10150/670301</a> <a href="https://doi.org/10.48550/arXiv.2310.07193">10.48550/arXiv.2310.07193</a>
       </td>
       <td>
         <div class="badge-box">
