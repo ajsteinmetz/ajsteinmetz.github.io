@@ -1,6 +1,6 @@
 ## Teaching ✏️
 
-**Key:** UA (The University of Arizona), ACT (Arizona College of Technology, Hebei University of Technology), PCC (Pima Community College)
+**Key:** UA (University of Arizona), ACT (Arizona College of Technology, Hebei University of Technology), PCC (Pima Community College)
 
 ### Teaching Record (as Instructor-of-Record)\*
 
