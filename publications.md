@@ -267,12 +267,12 @@
   <tbody>
     <tr>
       <td>
-        <strong>Steinmetz, A.</strong> "Status and Outlook of PHYS 381/382 -- Methods in Experimental Physics I/II at ACT/HEBUT." Internal report (curricular and equipment proposal; $36,000). University of Arizona, Tucson, AZ, 2025.
+        <strong>Steinmetz, A.</strong> "Status and Outlook of PHYS 381/382 -- Methods in Experimental Physics I/II at ACT/HEBUT." Internal report (curricular and equipment proposal; $36,000), University of Arizona, Tucson, AZ, 2025.
       </td>
     </tr>
     <tr>
       <td>
-        ATLAS Collaboration (coauthor: <strong>Steinmetz A.</strong>). "Large Eta Task Force Report." ATL-UPGRADE-INT-2015-001, CERN, Geneva, Switzerland, 2015. <a href="https://cds.cern.ch/record/2020591">https://cds.cern.ch/record/2020591</a>
+        ATLAS Collaboration [coauthor: <strong>Steinmetz A.</strong>]. "Large Eta Task Force Report." ATL-UPGRADE-INT-2015-001, CERN, Geneva, Switzerland, 2015. <a href="https://cds.cern.ch/record/2020591">https://cds.cern.ch/record/2020591</a>
       </td>
     </tr>
   </tbody>
@@ -290,7 +290,7 @@
   <tbody>
     <tr>
       <td>
-        <strong><a href="https://github.com/ajsteinmetz/thesis-ajsteinmetz">Steinmetz, A.</a></strong> "Modern topics in relativistic spin dynamics and magnetism." PhD dissertation. University of Arizona, Tucson, AZ, 2023. <a href="http://hdl.handle.net/10150/670301">HDL:10150/670301</a> <a href="https://doi.org/10.48550/arXiv.2310.07193">10.48550/arXiv.2310.07193</a>
+        <strong><a href="https://github.com/ajsteinmetz/thesis-ajsteinmetz">Steinmetz, A.</a></strong> "Modern topics in relativistic spin dynamics and magnetism." PhD dissertation, University of Arizona, Tucson, AZ, 2023. <a href="http://hdl.handle.net/10150/670301">HDL:10150/670301</a> <a href="https://doi.org/10.48550/arXiv.2310.07193">10.48550/arXiv.2310.07193</a>
       </td>
       <td>
         <div class="badge-box">
