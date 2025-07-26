@@ -267,12 +267,12 @@
   <tbody>
     <tr>
       <td>
-        <strong>Steinmetz, A.</strong> "Status and Outlook of PHYS 381/382 -- Methods in Experimental Physics I/II at ACT/HEBUT." Internal report, Department of Physics, University of Arizona (2025).
+        <strong>Steinmetz, A.</strong> "Status and Outlook of PHYS 381/382 -- Methods in Experimental Physics I/II at ACT/HEBUT." Internal report (curricular and equipment proposal; $36,000). University of Arizona, Tucson, AZ, 2025.
       </td>
     </tr>
     <tr>
       <td>
-        ATLAS Collaboration (coauthor: <strong>Steinmetz A.</strong>). "Large Eta Task Force Report." ATL-UPGRADE-INT-2015-001, CERN, Geneva (2015). <a href="https://cds.cern.ch/record/2020591">https://cds.cern.ch/record/2020591</a>
+        ATLAS Collaboration (coauthor: <strong>Steinmetz A.</strong>). "Large Eta Task Force Report." ATL-UPGRADE-INT-2015-001, CERN, Geneva, Switzerland, 2015. <a href="https://cds.cern.ch/record/2020591">https://cds.cern.ch/record/2020591</a>
       </td>
     </tr>
   </tbody>
