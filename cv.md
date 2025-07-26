@@ -14,7 +14,7 @@ Updated July, 2025.
 |------------------------------|--------------------------------|--------------------------------|-----------------------|
 | Academic Professional | School of Physics | Georgia Tech | Jan 2026 (expected) |
 | Global Professor<sup>a</sup> | Arizona College of Technology  | Hebei University of Technology | Feb 2024-Jul 2025   |
-| Global Professor<sup>a</sup> | Department of Physics          | The University of Arizona      | Nov 2023-Jul 2025   |
+| Global Professor<sup>a</sup> | Department of Physics          | University of Arizona      | Nov 2023-Jul 2025   |
 | Adjunct Faculty              | Physics & Astronomy Department | Pima Community College         | Jun 2020-Dec 2023   |
 
 <ol type="a" start="1">
@@ -25,14 +25,14 @@ Updated July, 2025.
 
 | Degree | Field                | Institution                             | Dates      |
 |--------|----------------------|-----------------------------------------|------------|
-| Ph.D.  | Physics              | The University of Arizona<sup>b,c</sup> | Dec 2023  |
-| B.S.   | Physics              | The University of Arizona<sup>d</sup>   | May 2014   |
-| B.S.   | Chemical Engineering | The University of Arizona               | May 2014   |
+| Ph.D.  | Physics              | University of Arizona<sup>b,c</sup> | Dec 2023  |
+| B.S.   | Physics              | University of Arizona<sup>d</sup>   | May 2014   |
+| B.S.   | Chemical Engineering | University of Arizona               | May 2014   |
 
 <ol type="a" start="2">
-  <li>Graduate Teaching Assistant, Dept. of Physics, Dept. of Chem. & Biochem., The University of Arizona (2017-2023)</li>
-  <li>Graduate Research Assistant, Dept. of Physics, The University of Arizona (2015-2017)</li>
-  <li>Research Technician (postbaccalaureate), Dept. of Physics, The University of Arizona (2014)</li>
+  <li>Graduate Teaching Assistant, Dept. of Physics, Dept. of Chem. & Biochem., University of Arizona (2017-2023)</li>
+  <li>Graduate Research Assistant, Dept. of Physics, University of Arizona (2015-2017)</li>
+  <li>Research Technician (postbaccalaureate), Dept. of Physics, University of Arizona (2014)</li>
 </ol>
 
 ### Research Interests
@@ -87,30 +87,30 @@ Citations = 128; h-index = 7 ([Google Scholar](https://scholar.google.com/citati
 #### Talks Presented by Steinmetz, A.
 
 1. <b>Steinmetz, A.</b> "Physics Lab, Journal Club, and AI Tools." <i>Cross College Faculty Forum (CCFF).</i> Arizona College of Technology, Hebei University of Technology, Tianjin, China. April 11, 2025.
-2. <b>Steinmetz, A.</b>, Yang, C. T., Rafelski, J. "Primordial Cosmic Magnetism." <i>SMT 30th Anniversary Steward Observatory Symposium.</i> The University of Arizona, Tucson, Arizona. September 22, 2023. [10.13140/RG.2.2.19213.24806](http://dx.doi.org/10.13140/RG.2.2.19213.24806)
+2. <b>Steinmetz, A.</b>, Yang, C. T., Rafelski, J. "Primordial Cosmic Magnetism." <i>SMT 30th Anniversary Steward Observatory Symposium.</i> University of Arizona, Tucson, Arizona. September 22, 2023. [10.13140/RG.2.2.19213.24806](http://dx.doi.org/10.13140/RG.2.2.19213.24806)
 3. <b>Steinmetz, A.</b>, Yang, C. T., Rafelski, J. "Magnetism in the Cosmic Plasma Epoch." <i>ELI-Beamlines Strong Fields Frontiers.</i> The Extreme Light Infrastructure ERIC, Prague, Czech Republic. June 13, 2023. [10.13140/RG.2.2.32635.02087](http://dx.doi.org/10.13140/RG.2.2.32635.02087)
 4. <b>Steinmetz, A.</b>, Yang, C. T., Rafelski, J. "Magnetism in the Cosmic Plasma Epoch." <i>Margaret Island Symposium on Particles & Plasmas (PP2023).</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 8, 2023. [10.13140/RG.2.2.29279.57762](http://dx.doi.org/10.13140/RG.2.2.29279.57762)
-5. <b>Steinmetz, A.</b> Relativistic "Two-Body Quantum Mechanics." The University of Arizona, Tucson, Arizona. March, 2017.
+5. <b>Steinmetz, A.</b> Relativistic "Two-Body Quantum Mechanics." University of Arizona, Tucson, Arizona. March, 2017.
 
 #### Talks Co-Prepared by Steinmetz, A. (Presented by Others)
 
 1. Rafelski, J. (presenter), Yang, C. T., <b>Steinmetz, A.</b> "Non-Stationary Quark-gluon Plasma in the Universe." <i>Hungarian-German WE-Heraeus Seminar.</i> Goerlitz & HZDR Dresden, Germany, June 24, 2025. [10.13140/RG.2.2.21726.75844](http://dx.doi.org/10.13140/RG.2.2.21726.75844)
 1. Rafelski, J. (presenter), Yang, C. T., <b>Steinmetz, A.</b>. "Thermal Non-equilibrium and Quark-gluon Plasma." <i>Joint European Thermodynamics Conference (JETC 2025).</i> Belgrade, Serbia, May 28, 2025. [10.13140/RG.2.2.25443.05922](http://dx.doi.org/10.13140/RG.2.2.25443.05922)
-2. Rafelski, J. (presenter), Birrell, J., Grayson, C., <b>Steinmetz, A.</b>, Yang, C. T., Foster, S. "Quarks to Cosmos: Particles and Plasma in Cosmological Evolution." <i>16th Conference on Quark Confinement and the Hadron Spectrum (QCHSC 2024).</i> The University of Adelaide, Cairns, Australia. August 9, 2024. [10.13140/RG.2.2.19642.30407](http://dx.doi.org/10.13140/RG.2.2.19642.30407)
+2. Rafelski, J. (presenter), Birrell, J., Grayson, C., <b>Steinmetz, A.</b>, Yang, C. T., Foster, S. "Quarks to Cosmos: Particles and Plasma in Cosmological Evolution." <i>16th Conference on Quark Confinement and the Hadron Spectrum (QCHSC 2024).</i> University of Adelaide, Cairns, Australia. August 9, 2024. [10.13140/RG.2.2.19642.30407](http://dx.doi.org/10.13140/RG.2.2.19642.30407)
 3. Rafelski, J. (presenter), Yang, C. T., Birrell, J., Grayson, C., Foster, S., <b>Steinmetz, A.</b>, "Particles & Plasmas in the First Hour of the Universe." <i>Particles & Plasmas Symposium (PP2024).</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 11, 2024. [10.13140/RG.2.2.22997.74727](http://dx.doi.org/10.13140/RG.2.2.22997.74727) 
 4. Rafelski, J. (presenter), <b>Steinmetz, A.</b> "Space-time, Acceleration and Matter." The Extreme Light Infrastructure ERIC, Prague, Czech Republic. December, 2022. [10.13140/RG.2.2.25933.76001](http://dx.doi.org/10.13140/RG.2.2.25933.76001)
 5. Rafelski, J. (presenter), Yang, C. T., Birrell, J., Grayson, C., <b>Steinmetz, A.</b>, "Particles and Plasmas in the Universe." <i>22nd Zimanyi School Winter Workshop on Heavy Ion Physics.</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. December, 2022. [10.13140/RG.2.2.27611.48160](http://dx.doi.org/10.13140/RG.2.2.27611.48160)
 6. Rafelski, J. (presenter), <b>Steinmetz, A.</b>, "Strong Field Physics: Report on Frankfurt School and Current Arizona Effort." <i>Margaret Island Symposium on Particles & Plasmas (PP2022).</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. May 17, 2022. [10.13140/RG.2.2.13363.13600](http://dx.doi.org/10.13140/RG.2.2.13363.13600)
 
-In addition, I have closely collaborated on preparing research and academic talks delivered at the following conferences/institutes: Deutsche Elektronen-Synchrotron/DESY (2024), Margaret Island Symposium on Particles & Plasmas (PP2023), Polish Academy of Science at Warsaw University (2023), XI International Conference on New Frontiers in Physics (ICNFP 2022), The University of Arizona (2022), Hungarian Academy of Sciences (2022), Institute of Theoretical Physics Uniwersytet Wroclawski (2022), 21st Zimanyi School Winter Workshop on Heavy Ion Physics (2021), 4th LeCosPA Symposium (2021).
+In addition, I have closely collaborated on preparing research and academic talks delivered at the following conferences/institutes: Deutsche Elektronen-Synchrotron/DESY (2024), Margaret Island Symposium on Particles & Plasmas (PP2023), Polish Academy of Science at Warsaw University (2023), XI International Conference on New Frontiers in Physics (ICNFP 2022), University of Arizona (2022), Hungarian Academy of Sciences (2022), Institute of Theoretical Physics Uniwersytet Wroclawski (2022), 21st Zimanyi School Winter Workshop on Heavy Ion Physics (2021), 4th LeCosPA Symposium (2021).
 
 ### Grants & Awards
 1. 2023 Young Researcher Meeting Grant, European Physical Journal (EPJ), Springer-Verlag (PP2023)
-2. 2023 Fanfare Graduate Travel Award, The University of Arizona (PP2023, ELI-Beamlines)
+2. 2023 Fanfare Graduate Travel Award, University of Arizona (PP2023, ELI-Beamlines)
 
 ### Teaching Experience (as Instructor-of-Record)<sup>e</sup>
 
-**Key:** UA (The University of Arizona), ACT (Arizona College of Technology, Hebei University of Technology), PCC (Pima Community College)
+**Key:** UA (University of Arizona), ACT (Arizona College of Technology, Hebei University of Technology), PCC (Pima Community College)
 
 | Course #   | Course Title                           | Delivery Method | # of Sections | # of Students | Institution | Semester       |
 |------------|----------------------------------------|-----------------|---------------|---------------|-------------|----------------|
@@ -132,7 +132,7 @@ In addition, I have closely collaborated on preparing research and academic talk
 - **TA Courses at UA (Dept. of Physics, Dept. of Chemistry & Biochemistry):** Intro. to Scientific Computing (2017), Intro. Electricity & Magnetism (2017), Methods in Exp. Physics I/II (2018-2019), Intro. Mechanics I/II Lab (2020), Intro. Physics I/II Lab (2020), General Chemistry I(Honors)/II Lab (2019, 2021-2023)
 
 ### Academic Service & Associations
-- Associate Designated Campus Colleague (DCC), Department of Physics, The University of Arizona, (2025-present).
+- Associate Designated Campus Colleague (DCC), Department of Physics, University of Arizona, (2025-present).
 - Organizer, Undergraduate Journal Club, Arizona College of Technology, Hebei University of Technology, (2025).
 - Member, Cross College Faculty Forum (CCFF), Arizona College of Technology, Hebei University of Technology (2024-2025)
 - Member, Department of Physics, University of Arizona, Faculty Search Committee(s), (2025, 2024).
@@ -149,8 +149,8 @@ In addition, I have closely collaborated on preparing research and academic talk
 1. World Scientific Publishing. (2025, January 9). "The International Journal of Modern Physics A (IJMPA) Celebrates 40 Years of Excellence," *LinkedIn*. [Link](https://www.linkedin.com/posts/world-scientific-publishing_the-international-journal-of-modern-physics-activity-7282999555967610880-SJ78).
 2. Hebei University of Technology. (2024, November 20). "亚利桑那工业学院中美跨学院教师论坛（CCFF）顺利举行" [Cross-College Faculty Forum between Arizona Tech and Hebei University of Technology successfully held]. *Hebei University of Technology News*. [Link](https://hatech.hebut.edu.cn/xw/62ff3dcc665b453898ec92841d45e0ce.htm).
 3. Kong, X. (2024, March 20). "亚利桑那大学Andrew Steinmetz教授到物理演示与探索实验师参观调研" [Professor Andrew Steinmetz of the University of Arizona Visited the Physics Demonstration and Exploration Laboratory], *Physics Experiments at HEBUT, Hebei University of Technology*. [Link](https://mp.weixin.qq.com/s?__biz=Mzg4Njg3NjQyMw==&mid=2247484302&idx=1&sn=273f88bc0332d9a34a9fdbee01b196b3&chksm=cf93b3e6f8e43af0b75b832801bbe9e684d258f00c3671e7e625bfccde7c74a387ef9e5a9926&mpshare=1&scene=24&srcid=0320Wt3iZMGOxbLpRBZg9nYA)
-4. The University of Arizona, Department of Physics. (2024, January 26). "Announcing Department of Physics new Faculty Member Prof. Andrew Steinmetz," *UA Science Physics*. [Link](https://w3.physics.arizona.edu/news/announcing-department-physics-new-faculty-member-prof-andrew-steinmetz).
-5. The University of Arizona, Department of Physics. (2023, July 25). "International Symposium on 'Particles and Plasmas' and 'Strong Fields'," *UA Science Physics*. [Link](https://w3.physics.arizona.edu/news/international-symposium-particles-and-plasmas-and-strong-fields).
+4. University of Arizona, Department of Physics. (2024, January 26). "Announcing Department of Physics new Faculty Member Prof. Andrew Steinmetz," *UA Science Physics*. [Link](https://w3.physics.arizona.edu/news/announcing-department-physics-new-faculty-member-prof-andrew-steinmetz).
+5. University of Arizona, Department of Physics. (2023, July 25). "International Symposium on 'Particles and Plasmas' and 'Strong Fields'," *UA Science Physics*. [Link](https://w3.physics.arizona.edu/news/international-symposium-particles-and-plasmas-and-strong-fields).
 6. Springer. (2018, January 29). "Relativity matters: Two opposing views of the magnetic force reconciled," *Phys.org*. [Phys.org](https://phys.org/news/2018-01-relativity-opposing-views-magnetic.html), [EPJ C Highlight](https://www.epj.org/epjc-news/1422-epjc-highlight-relativity-matters-two-opposing-views-of-the-magnetic-force-reconciled), [Springer Press](https://www.springer.com/gp/about-springer/media/research-news/all-english-research-news/relativity-matters--two-opposing-views-of-the-magnetic-force-reconciled/15417658), [ScienceDaily](https://www.sciencedaily.com/releases/2018/01/180129131327.htm); also featured in EuroPhysicsNews, EurekAlert!, Science Newsline, Sky Nightly, Space Daily.
 
 ### Other Links and Websites
