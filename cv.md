@@ -10,11 +10,11 @@ Updated July, 2025.
 
 ### Employment
 
-| Position Title               | Department                     | Institution                        | Dates             |
-|------------------------------|--------------------------------|--------------------------------|-----------------------|
-| Academic Professional | School of Physics | Georgia Tech | Jan 2026 (expected) |
+| Position Title               | Department                     | Institution                    | Dates               |
+|------------------------------|--------------------------------|--------------------------------|---------------------|
+| Academic Professional        | School of Physics              | Georgia Tech                   | Jan 2026 (expected) |
 | Global Professor<sup>a</sup> | Arizona College of Technology  | Hebei University of Technology | Feb 2024-Jul 2025   |
-| Global Professor<sup>a</sup> | Department of Physics          | University of Arizona      | Nov 2023-Jul 2025   |
+| Global Professor<sup>a</sup> | Department of Physics          | University of Arizona          | Nov 2023-Jul 2025   |
 | Adjunct Faculty              | Physics & Astronomy Department | Pima Community College         | Jun 2020-Dec 2023   |
 
 <ol type="a" start="1">
@@ -73,7 +73,7 @@ Citations = 128; h-index = 7 ([Google Scholar](https://scholar.google.com/citati
 #### Institutional & Technical Reports
 
 1. <b>Steinmetz, A.</b> "Status and Outlook of PHYS 381/382 — Methods in Experimental Physics I/II at ACT/HEBUT." Internal report (curricular and equipment proposal; $36,000). University of Arizona, Tucson, AZ, 2025.
-2. ATLAS Collaboration [coauthor: <b>Steinmetz A.</b>] "Large Eta Task Force Report," CERN, Geneva, Switzerland, 2015. [https://cds.cern.ch/record/2020591](https://cds.cern.ch/record/2020591).
+2. ATLAS Collaboration [coauthor: <b>Steinmetz A.</b>] "Large Eta Task Force Report," ATL-UPGRADE-INT-2015-001, CERN, Geneva, Switzerland, 2015. [https://cds.cern.ch/record/2020591](https://cds.cern.ch/record/2020591).
 
 #### Works in Progress
 
