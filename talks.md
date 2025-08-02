@@ -1,6 +1,6 @@
 ## Talks 🦜
 
-#### Talks Presented by Steinmetz, A.
+### Talks Presented by Steinmetz, A.
 
 1. **Steinmetz, A.** Physics Lab, Journal Club, and AI Tools.  *Cross College Faculty Forum (CCFF).* Arizona College of Technology, Hebei University of Technology, Tianjin, China. April 11, 2025.
 2. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Primordial Cosmic Magnetism.  *SMT 30th Anniversary Steward Observatory Symposium.* University of Arizona, Tucson, Arizona. September 22, 2023. [10.13140/RG.2.2.19213.24806](http://dx.doi.org/10.13140/RG.2.2.19213.24806)
@@ -8,7 +8,7 @@
 4. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Magnetism in the Cosmic Plasma Epoch.  *Margaret Island Symposium on Particles & Plasmas (PP2023).* HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 8, 2023. [10.13140/RG.2.2.29279.57762](http://dx.doi.org/10.13140/RG.2.2.29279.57762)
 5. **Steinmetz, A.** Relativistic Two-Body Quantum Mechanics. University of Arizona, Tucson, Arizona. March, 2017.
 
-#### Talks Co-Prepared by Steinmetz, A. (Presented by Others)
+### Talks Co-Prepared by Steinmetz, A. (Presented by Others)
 
 1. Rafelski, J. (presenter), Yang, C. T., **Steinmetz, A.** Non-Stationary Quark-gluon Plasma in the Universe.  *Hungarian-German WE-Heraeus Seminar.* Goerlitz & HZDR Dresden, Germany, June 24, 2025. [10.13140/RG.2.2.21726.75844](http://dx.doi.org/10.13140/RG.2.2.21726.75844)
 1. Rafelski, J. (presenter), Yang, C. T., **Steinmetz, A.**. Thermal Non-equilibrium and Quark-gluon Plasma.  *Joint European Thermodynamics Conference (JETC 2025).* Belgrade, Serbia, May 28, 2025. [10.13140/RG.2.2.25443.05922](http://dx.doi.org/10.13140/RG.2.2.25443.05922)
