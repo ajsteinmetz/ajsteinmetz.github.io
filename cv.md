@@ -6,7 +6,7 @@ Updated July, 2025.
 
 - **Email:** ajsteinmetz@arizona.edu
 - **Website:** [https://ajsteinmetz.github.io/](https://ajsteinmetz.github.io/)
-- **ORCID:** <a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0000-0001-5474-2649" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/>0000-0001-5474-2649</a>
+- **ORCID:** [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-5474-2649)&nbsp;[0000-0001-5474-2649](https://orcid.org/0000-0001-5474-2649)
 
 ### Employment
 
@@ -53,54 +53,54 @@ Citations = 128; h-index = 7 ([Google Scholar](https://scholar.google.com/citati
 
 #### Peer-Reviewed Journal Articles
 
-1. **[Steinmetz, A.](https://github.com/ajsteinmetz/short-note-qgp)**, Rafelski, J. "Short note on spin magnetization in QGP." <i>Eur. Phys. J. Spec. Top.</i> (2025). [10.1140/epjs/s11734-025-01625-9](https://doi.org/10.1140/epjs/s11734-025-01625-9)
-2. Birrell, J., Formanek, M., **[Steinmetz, A.](https://github.com/ajsteinmetz/fermi-distribution)**, Yang, C. T., Rafelski, J. "Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion." <i>Int. J. Theor. Phys.</i> 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
-3. Rafelski, J., **[Steinmetz, A.](https://github.com/ajsteinmetz/neutrino-transition-moments)**, Yang, C. T. "Dynamic fermion flavor mixing through transition dipole moments." *IJMPA* 38.31 (2023): 2350163. [10.1142/S0217751X23501634](https://doi.org/10.1142/S0217751X23501634)
-4. **[Steinmetz, A.](https://github.com/ajsteinmetz/plasma-partition)**, Yang, C. T., Rafelski, J. "Matter-antimatter origin of cosmic magnetism." *Phys. Rev. D* 108 (2023): 123522. [10.1103/PhysRevD.108.123522](https://doi.org/10.1103/PhysRevD.108.123522)
-5. Formanek, M., **Steinmetz, A.**, Rafelski, J. "Motion of classical charged particles with magnetic moment in external plane-wave electromagnetic fields." *Phys. Rev. A* 103.5 (2021): 052218. [10.1103/PhysRevA.103.052218](https://doi.org/10.1103/PhysRevA.103.052218)
-6. Formanek, M., **Steinmetz, A.**, Rafelski, J. "Radiation reaction friction: Resistive material medium." *Phys. Rev. D* 102.5 (2020): 056015. [10.1103/PhysRevD.102.056015](https://doi.org/10.1103/PhysRevD.102.056015)
-7. Formanek, M., **Steinmetz, A.**, Rafelski, J. "Classical neutral point particle in linearly polarized EM plane wave field." *Plasma Phys. Control. Fusion* 61.8 (2019): 084006. [10.1088/1361-6587/ab242e](https://doi.org/10.1088/1361-6587/ab242e)
-8. **[Steinmetz, A.](https://github.com/ajsteinmetz/magnetic-dipole-moment)**, Formanek, M., Rafelski, J. "Magnetic dipole moment in relativistic quantum mechanics." *Eur. Phys. J. A* 55, 40 (2019). [10.1140/epja/i2019-12715-5](https://doi.org/10.1140/epja/i2019-12715-5)
-9. Formanek, M., Evans, S., Rafelski, J., **Steinmetz, A.**, Yang, C. T. "Strong fields and neutral particle magnetic moment dynamics." *Plasma Phys. Control. Fusion* 60.7 (2018). [10.1088/1361-6587/aac06a](https://doi.org/10.1088/1361-6587/aac06a)
-10. Rafelski, J., Formanek, M., **Steinmetz, A.** "Relativistic dynamics of point magnetic moment." *Eur. Phys. J. C* 78 (2018): 1-12. [10.1140/epjc/s10052-017-5493-2](https://doi.org/10.1140/epjc/s10052-017-5493-2)
+1. **[Steinmetz, A.](https://github.com/ajsteinmetz/short-note-qgp)**, Rafelski, J. Short note on spin magnetization in QGP.  _Eur. Phys. J. Spec. Top._ (2025). [10.1140/epjs/s11734-025-01625-9](https://doi.org/10.1140/epjs/s11734-025-01625-9)
+2. Birrell, J., Formanek, M., **[Steinmetz, A.](https://github.com/ajsteinmetz/fermi-distribution)**, Yang, C. T., Rafelski, J. Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion.  _Int. J. Theor. Phys._ 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
+3. Rafelski, J., **[Steinmetz, A.](https://github.com/ajsteinmetz/neutrino-transition-moments)**, Yang, C. T. Dynamic fermion flavor mixing through transition dipole moments. *IJMPA* 38.31 (2023): 2350163. [10.1142/S0217751X23501634](https://doi.org/10.1142/S0217751X23501634)
+4. **[Steinmetz, A.](https://github.com/ajsteinmetz/plasma-partition)**, Yang, C. T., Rafelski, J. Matter-antimatter origin of cosmic magnetism. *Phys. Rev. D* 108 (2023): 123522. [10.1103/PhysRevD.108.123522](https://doi.org/10.1103/PhysRevD.108.123522)
+5. Formanek, M., **Steinmetz, A.**, Rafelski, J. Motion of classical charged particles with magnetic moment in external plane-wave electromagnetic fields. *Phys. Rev. A* 103.5 (2021): 052218. [10.1103/PhysRevA.103.052218](https://doi.org/10.1103/PhysRevA.103.052218)
+6. Formanek, M., **Steinmetz, A.**, Rafelski, J. Radiation reaction friction: Resistive material medium. *Phys. Rev. D* 102.5 (2020): 056015. [10.1103/PhysRevD.102.056015](https://doi.org/10.1103/PhysRevD.102.056015)
+7. Formanek, M., **Steinmetz, A.**, Rafelski, J. Classical neutral point particle in linearly polarized EM plane wave field. *Plasma Phys. Control. Fusion* 61.8 (2019): 084006. [10.1088/1361-6587/ab242e](https://doi.org/10.1088/1361-6587/ab242e)
+8. **[Steinmetz, A.](https://github.com/ajsteinmetz/magnetic-dipole-moment)**, Formanek, M., Rafelski, J. Magnetic dipole moment in relativistic quantum mechanics. *Eur. Phys. J. A* 55, 40 (2019). [10.1140/epja/i2019-12715-5](https://doi.org/10.1140/epja/i2019-12715-5)
+9. Formanek, M., Evans, S., Rafelski, J., **Steinmetz, A.**, Yang, C. T. Strong fields and neutral particle magnetic moment dynamics. *Plasma Phys. Control. Fusion* 60.7 (2018). [10.1088/1361-6587/aac06a](https://doi.org/10.1088/1361-6587/aac06a)
+10. Rafelski, J., Formanek, M., **Steinmetz, A.** Relativistic dynamics of point magnetic moment. *Eur. Phys. J. C* 78 (2018): 1-12. [10.1140/epjc/s10052-017-5493-2](https://doi.org/10.1140/epjc/s10052-017-5493-2)
 
 #### Book Chapters & Review Articles
 
-1. Rafelski, J., Birrell, J., Grayson, C., **[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-collab-project)**, Yang, C. T. "Quarks to cosmos: particles and plasma in cosmological evolution." <i>Eur. Phys. J. Spec. Top.</i> (2025). [10.1140/epjs/s11734-025-01470-w](https://doi.org/10.1140/epjs/s11734-025-01470-w)
-2. Rafelski, J., **Steinmetz, A.**, Yang, C. T. "Dynamic Flavor Mixing Through Transition Moments." *Harald Fritzsch Memorial Volume*, pp. 269-284 (2024). [10.1142/9789811292279_0015](https://doi.org/10.1142/9789811292279_0015)
-3. Rafelski, J., Birrell, J., **[Steinmetz, A.](https://github.com/ajsteinmetz/a-short-survey)**, Yang, C.T. "A Short Survey of Matter-Antimatter Evolution in the Primordial Universe." *Universe* 9.7 (2023): 309. [10.3390/universe9070309](https://doi.org/10.3390/universe9070309)
+1. Rafelski, J., Birrell, J., Grayson, C., **[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-collab-project)**, Yang, C. T. Quarks to cosmos: particles and plasma in cosmological evolution.  _Eur. Phys. J. Spec. Top._ (2025). [10.1140/epjs/s11734-025-01470-w](https://doi.org/10.1140/epjs/s11734-025-01470-w)
+2. Rafelski, J., **Steinmetz, A.**, Yang, C. T. Dynamic Flavor Mixing Through Transition Moments. *Harald Fritzsch Memorial Volume*, pp. 269-284 (2024). [10.1142/9789811292279_0015](https://doi.org/10.1142/9789811292279_0015)
+3. Rafelski, J., Birrell, J., **[Steinmetz, A.](https://github.com/ajsteinmetz/a-short-survey)**, Yang, C.T. A Short Survey of Matter-Antimatter Evolution in the Primordial Universe. *Universe* 9.7 (2023): 309. [10.3390/universe9070309](https://doi.org/10.3390/universe9070309)
 
 #### Institutional & Technical Reports
 
-1. <b>Steinmetz, A.</b> "Status and Outlook of PHYS 381/382 — Methods in Experimental Physics I/II at ACT/HEBUT." Internal report (curricular and equipment proposal; $36,000), University of Arizona, Tucson, AZ, 2025.
-2. ATLAS Collaboration [coauthor: <b>Steinmetz A.</b>] "Large Eta Task Force Report." ATL-UPGRADE-INT-2015-001, CERN, Geneva, Switzerland, 2015. [https://cds.cern.ch/record/2020591](https://cds.cern.ch/record/2020591).
+1. **Steinmetz, A.** Status and Outlook of PHYS 381/382 — Methods in Experimental Physics I/II at ACT/HEBUT. Internal report (curricular and equipment proposal; $36,000), University of Arizona, Tucson, AZ, 2025.
+2. ATLAS Collaboration [coauthor: **Steinmetz A.**] Large Eta Task Force Report. ATL-UPGRADE-INT-2015-001, CERN, Geneva, Switzerland, 2015. [https://cds.cern.ch/record/2020591](https://cds.cern.ch/record/2020591).
 
 #### Works in Progress
 
-1. **Steinmetz, A.**, Evans, S., Formanek, M., Grayson, C., Labun, L., Price, W., Rafelski, J. "Strong fields in classical and quantum physics." (in preparation, 2025).
-2. **Steinmetz, A.**, Rafelski, J. "Magnetized primordial heavy-quark plasma." (in preparation, 2025).
-3. **Steinmetz, A.**, Yang, C. T., Rafelski, J. "Electromagnetic field forcing of dynamic CP-violation in lepton sector." (in preparation, 2025).
-4. Evans, S., **Steinmetz, A.** "Anomalous magnetic moment in the QCD vacuum." (in preparation, 2025).
+1. **Steinmetz, A.**, Evans, S., Formanek, M., Grayson, C., Labun, L., Price, W., Rafelski, J. Strong fields in classical and quantum physics. (in preparation, 2025).
+2. **Steinmetz, A.**, Rafelski, J. Magnetized primordial heavy-quark plasma. (in preparation, 2025).
+3. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Electromagnetic field forcing of dynamic CP-violation in lepton sector. (in preparation, 2025).
+4. Evans, S., **Steinmetz, A.** Anomalous magnetic moment in the QCD vacuum. (in preparation, 2025).
 
 ### Conference Presentations & Talks
 
 #### Talks Presented by Steinmetz, A.
 
-1. <b>Steinmetz, A.</b> "Physics Lab, Journal Club, and AI Tools." <i>Cross College Faculty Forum (CCFF).</i> Arizona College of Technology, Hebei University of Technology, Tianjin, China. April 11, 2025.
-2. <b>Steinmetz, A.</b>, Yang, C. T., Rafelski, J. "Primordial Cosmic Magnetism." <i>SMT 30th Anniversary Steward Observatory Symposium.</i> University of Arizona, Tucson, Arizona. September 22, 2023. [10.13140/RG.2.2.19213.24806](http://dx.doi.org/10.13140/RG.2.2.19213.24806)
-3. <b>Steinmetz, A.</b>, Yang, C. T., Rafelski, J. "Magnetism in the Cosmic Plasma Epoch." <i>ELI-Beamlines Strong Fields Frontiers.</i> The Extreme Light Infrastructure ERIC, Prague, Czech Republic. June 13, 2023. [10.13140/RG.2.2.32635.02087](http://dx.doi.org/10.13140/RG.2.2.32635.02087)
-4. <b>Steinmetz, A.</b>, Yang, C. T., Rafelski, J. "Magnetism in the Cosmic Plasma Epoch." <i>Margaret Island Symposium on Particles & Plasmas (PP2023).</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 8, 2023. [10.13140/RG.2.2.29279.57762](http://dx.doi.org/10.13140/RG.2.2.29279.57762)
-5. <b>Steinmetz, A.</b> Relativistic "Two-Body Quantum Mechanics." University of Arizona, Tucson, Arizona. March, 2017.
+1. **Steinmetz, A.** Physics Lab, Journal Club, and AI Tools.  _Cross College Faculty Forum (CCFF)._ Arizona College of Technology, Hebei University of Technology, Tianjin, China. April 11, 2025.
+2. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Primordial Cosmic Magnetism.  _SMT 30th Anniversary Steward Observatory Symposium._ University of Arizona, Tucson, Arizona. September 22, 2023. [10.13140/RG.2.2.19213.24806](http://dx.doi.org/10.13140/RG.2.2.19213.24806)
+3. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Magnetism in the Cosmic Plasma Epoch.  _ELI-Beamlines Strong Fields Frontiers._ The Extreme Light Infrastructure ERIC, Prague, Czech Republic. June 13, 2023. [10.13140/RG.2.2.32635.02087](http://dx.doi.org/10.13140/RG.2.2.32635.02087)
+4. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Magnetism in the Cosmic Plasma Epoch.  _Margaret Island Symposium on Particles & Plasmas (PP2023)._ HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 8, 2023. [10.13140/RG.2.2.29279.57762](http://dx.doi.org/10.13140/RG.2.2.29279.57762)
+5. **Steinmetz, A.** Relativistic Two-Body Quantum Mechanics. University of Arizona, Tucson, Arizona. March, 2017.
 
 #### Talks Co-Prepared by Steinmetz, A. (Presented by Others)
 
-1. Rafelski, J. (presenter), Yang, C. T., <b>Steinmetz, A.</b> "Non-Stationary Quark-gluon Plasma in the Universe." <i>Hungarian-German WE-Heraeus Seminar.</i> Goerlitz & HZDR Dresden, Germany, June 24, 2025. [10.13140/RG.2.2.21726.75844](http://dx.doi.org/10.13140/RG.2.2.21726.75844)
-1. Rafelski, J. (presenter), Yang, C. T., <b>Steinmetz, A.</b>. "Thermal Non-equilibrium and Quark-gluon Plasma." <i>Joint European Thermodynamics Conference (JETC 2025).</i> Belgrade, Serbia, May 28, 2025. [10.13140/RG.2.2.25443.05922](http://dx.doi.org/10.13140/RG.2.2.25443.05922)
-2. Rafelski, J. (presenter), Birrell, J., Grayson, C., <b>Steinmetz, A.</b>, Yang, C. T., Foster, S. "Quarks to Cosmos: Particles and Plasma in Cosmological Evolution." <i>16th Conference on Quark Confinement and the Hadron Spectrum (QCHSC 2024).</i> University of Adelaide, Cairns, Australia. August 9, 2024. [10.13140/RG.2.2.19642.30407](http://dx.doi.org/10.13140/RG.2.2.19642.30407)
-3. Rafelski, J. (presenter), Yang, C. T., Birrell, J., Grayson, C., Foster, S., <b>Steinmetz, A.</b>, "Particles & Plasmas in the First Hour of the Universe." <i>Particles & Plasmas Symposium (PP2024).</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 11, 2024. [10.13140/RG.2.2.22997.74727](http://dx.doi.org/10.13140/RG.2.2.22997.74727) 
-4. Rafelski, J. (presenter), <b>Steinmetz, A.</b> "Space-time, Acceleration and Matter." The Extreme Light Infrastructure ERIC, Prague, Czech Republic. December, 2022. [10.13140/RG.2.2.25933.76001](http://dx.doi.org/10.13140/RG.2.2.25933.76001)
-5. Rafelski, J. (presenter), Yang, C. T., Birrell, J., Grayson, C., <b>Steinmetz, A.</b>, "Particles and Plasmas in the Universe." <i>22nd Zimanyi School Winter Workshop on Heavy Ion Physics.</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. December, 2022. [10.13140/RG.2.2.27611.48160](http://dx.doi.org/10.13140/RG.2.2.27611.48160)
-6. Rafelski, J. (presenter), <b>Steinmetz, A.</b>, "Strong Field Physics: Report on Frankfurt School and Current Arizona Effort." <i>Margaret Island Symposium on Particles & Plasmas (PP2022).</i> HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. May 17, 2022. [10.13140/RG.2.2.13363.13600](http://dx.doi.org/10.13140/RG.2.2.13363.13600)
+1. Rafelski, J. (presenter), Yang, C. T., **Steinmetz, A.** Non-Stationary Quark-gluon Plasma in the Universe.  _Hungarian-German WE-Heraeus Seminar._ Goerlitz & HZDR Dresden, Germany, June 24, 2025. [10.13140/RG.2.2.21726.75844](http://dx.doi.org/10.13140/RG.2.2.21726.75844)
+1. Rafelski, J. (presenter), Yang, C. T., **Steinmetz, A.**. Thermal Non-equilibrium and Quark-gluon Plasma.  _Joint European Thermodynamics Conference (JETC 2025)._ Belgrade, Serbia, May 28, 2025. [10.13140/RG.2.2.25443.05922](http://dx.doi.org/10.13140/RG.2.2.25443.05922)
+2. Rafelski, J. (presenter), Birrell, J., Grayson, C., **Steinmetz, A.**, Yang, C. T., Foster, S. Quarks to Cosmos: Particles and Plasma in Cosmological Evolution.  _16th Conference on Quark Confinement and the Hadron Spectrum (QCHSC 2024)._ University of Adelaide, Cairns, Australia. August 9, 2024. [10.13140/RG.2.2.19642.30407](http://dx.doi.org/10.13140/RG.2.2.19642.30407)
+3. Rafelski, J. (presenter), Yang, C. T., Birrell, J., Grayson, C., Foster, S., **Steinmetz, A.**, Particles & Plasmas in the First Hour of the Universe.  _Particles & Plasmas Symposium (PP2024)._ HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 11, 2024. [10.13140/RG.2.2.22997.74727](http://dx.doi.org/10.13140/RG.2.2.22997.74727) 
+4. Rafelski, J. (presenter), **Steinmetz, A.** Space-time, Acceleration and Matter. The Extreme Light Infrastructure ERIC, Prague, Czech Republic. December, 2022. [10.13140/RG.2.2.25933.76001](http://dx.doi.org/10.13140/RG.2.2.25933.76001)
+5. Rafelski, J. (presenter), Yang, C. T., Birrell, J., Grayson, C., **Steinmetz, A.**, Particles and Plasmas in the Universe.  _22nd Zimanyi School Winter Workshop on Heavy Ion Physics._ HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. December, 2022. [10.13140/RG.2.2.27611.48160](http://dx.doi.org/10.13140/RG.2.2.27611.48160)
+6. Rafelski, J. (presenter), **Steinmetz, A.**, Strong Field Physics: Report on Frankfurt School and Current Arizona Effort.  _Margaret Island Symposium on Particles & Plasmas (PP2022)._ HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. May 17, 2022. [10.13140/RG.2.2.13363.13600](http://dx.doi.org/10.13140/RG.2.2.13363.13600)
 
 In addition, I have closely collaborated on preparing research and academic talks delivered at the following conferences/institutes: Deutsche Elektronen-Synchrotron/DESY (2024), Margaret Island Symposium on Particles & Plasmas (PP2023), Polish Academy of Science at Warsaw University (2023), XI International Conference on New Frontiers in Physics (ICNFP 2022), University of Arizona (2022), Hungarian Academy of Sciences (2022), Institute of Theoretical Physics Uniwersytet Wroclawski (2022), 21st Zimanyi School Winter Workshop on Heavy Ion Physics (2021), 4th LeCosPA Symposium (2021).
 
@@ -146,12 +146,12 @@ In addition, I have closely collaborated on preparing research and academic talk
 
 ### External & Institutional Press
 
-1. World Scientific Publishing. (2025, January 9). "The International Journal of Modern Physics A (IJMPA) Celebrates 40 Years of Excellence," *LinkedIn*. [Link](https://www.linkedin.com/posts/world-scientific-publishing_the-international-journal-of-modern-physics-activity-7282999555967610880-SJ78).
-2. Hebei University of Technology. (2024, November 20). "亚利桑那工业学院中美跨学院教师论坛（CCFF）顺利举行" [Cross-College Faculty Forum between Arizona Tech and Hebei University of Technology successfully held]. *Hebei University of Technology News*. [Link](https://hatech.hebut.edu.cn/xw/62ff3dcc665b453898ec92841d45e0ce.htm).
-3. Kong, X. (2024, March 20). "亚利桑那大学Andrew Steinmetz教授到物理演示与探索实验师参观调研" [Professor Andrew Steinmetz of the University of Arizona Visited the Physics Demonstration and Exploration Laboratory], *Physics Experiments at HEBUT, Hebei University of Technology*. [Link](https://mp.weixin.qq.com/s?__biz=Mzg4Njg3NjQyMw==&mid=2247484302&idx=1&sn=273f88bc0332d9a34a9fdbee01b196b3&chksm=cf93b3e6f8e43af0b75b832801bbe9e684d258f00c3671e7e625bfccde7c74a387ef9e5a9926&mpshare=1&scene=24&srcid=0320Wt3iZMGOxbLpRBZg9nYA)
-4. University of Arizona, Department of Physics. (2024, January 26). "Announcing Department of Physics new Faculty Member Prof. Andrew Steinmetz," *UA Science Physics*. [Link](https://w3.physics.arizona.edu/news/announcing-department-physics-new-faculty-member-prof-andrew-steinmetz).
-5. University of Arizona, Department of Physics. (2023, July 25). "International Symposium on 'Particles and Plasmas' and 'Strong Fields'," *UA Science Physics*. [Link](https://w3.physics.arizona.edu/news/international-symposium-particles-and-plasmas-and-strong-fields).
-6. Springer. (2018, January 29). "Relativity matters: Two opposing views of the magnetic force reconciled," *Phys.org*. [Phys.org](https://phys.org/news/2018-01-relativity-opposing-views-magnetic.html), [EPJ C Highlight](https://www.epj.org/epjc-news/1422-epjc-highlight-relativity-matters-two-opposing-views-of-the-magnetic-force-reconciled), [Springer Press](https://www.springer.com/gp/about-springer/media/research-news/all-english-research-news/relativity-matters--two-opposing-views-of-the-magnetic-force-reconciled/15417658), [ScienceDaily](https://www.sciencedaily.com/releases/2018/01/180129131327.htm); also featured in EuroPhysicsNews, EurekAlert!, Science Newsline, Sky Nightly, Space Daily.
+1. World Scientific Publishing. (2025, January 9). The International Journal of Modern Physics A (IJMPA) Celebrates 40 Years of Excellence, *LinkedIn*. [Link](https://www.linkedin.com/posts/world-scientific-publishing_the-international-journal-of-modern-physics-activity-7282999555967610880-SJ78).
+2. Hebei University of Technology. (2024, November 20). 亚利桑那工业学院中美跨学院教师论坛（CCFF）顺利举行 [Cross-College Faculty Forum between Arizona Tech and Hebei University of Technology successfully held]. *Hebei University of Technology News*. [Link](https://hatech.hebut.edu.cn/xw/62ff3dcc665b453898ec92841d45e0ce.htm).
+3. Kong, X. (2024, March 20). 亚利桑那大学Andrew Steinmetz教授到物理演示与探索实验师参观调研 [Professor Andrew Steinmetz of the University of Arizona Visited the Physics Demonstration and Exploration Laboratory], *Physics Experiments at HEBUT, Hebei University of Technology*. [Link](https://mp.weixin.qq.com/s?__biz=Mzg4Njg3NjQyMw==&mid=2247484302&idx=1&sn=273f88bc0332d9a34a9fdbee01b196b3&chksm=cf93b3e6f8e43af0b75b832801bbe9e684d258f00c3671e7e625bfccde7c74a387ef9e5a9926&mpshare=1&scene=24&srcid=0320Wt3iZMGOxbLpRBZg9nYA)
+4. University of Arizona, Department of Physics. (2024, January 26). Announcing Department of Physics new Faculty Member Prof. Andrew Steinmetz, *UA Science Physics*. [Link](https://w3.physics.arizona.edu/news/announcing-department-physics-new-faculty-member-prof-andrew-steinmetz).
+5. University of Arizona, Department of Physics. (2023, July 25). International Symposium on 'Particles and Plasmas' and 'Strong Fields', *UA Science Physics*. [Link](https://w3.physics.arizona.edu/news/international-symposium-particles-and-plasmas-and-strong-fields).
+6. Springer. (2018, January 29). Relativity matters: Two opposing views of the magnetic force reconciled, *Phys.org*. [Phys.org](https://phys.org/news/2018-01-relativity-opposing-views-magnetic.html), [EPJ C Highlight](https://www.epj.org/epjc-news/1422-epjc-highlight-relativity-matters-two-opposing-views-of-the-magnetic-force-reconciled), [Springer Press](https://www.springer.com/gp/about-springer/media/research-news/all-english-research-news/relativity-matters--two-opposing-views-of-the-magnetic-force-reconciled/15417658), [ScienceDaily](https://www.sciencedaily.com/releases/2018/01/180129131327.htm); also featured in EuroPhysicsNews, EurekAlert!, Science Newsline, Sky Nightly, Space Daily.
 
 ### Other Links and Websites
 
