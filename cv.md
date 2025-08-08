@@ -4,7 +4,7 @@
 
 Updated July, 2025.
 
-- **Email:** ajsteinmetz@arizona.edu
+- **Email:** <a href="mailto:ajsteinmetz@arizona.edu">ajsteinmetz@arizona.edu</a>
 - **Website:** [https://ajsteinmetz.github.io/](https://ajsteinmetz.github.io/)
 - **ORCID:** [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-5474-2649)&nbsp;[0000-0001-5474-2649](https://orcid.org/0000-0001-5474-2649)
 
