@@ -33,8 +33,9 @@
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-<p>🔗 All public work is freely available on <a href="https://arxiv.org/a/steinmetz_a_1.html">arXiv</a>.</p>
 <p>🔗 Links to official publications and GitHub projects are provided.</p>
+
+<p>🔗 All public work is freely available on <a href="https://arxiv.org/a/steinmetz_a_1.html">arXiv</a>. See also <a href="https://scholar.google.com/citations?user=fJBK1GIAAAAJ">Google Scholar</a> and <a href="https://inspirehep.net/authors/1796313">INSPIRE-HEP</a></p>
 
 <h4>Peer-Reviewed Journal Articles</h4>
 <table border="1">
