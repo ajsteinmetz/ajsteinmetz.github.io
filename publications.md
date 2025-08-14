@@ -268,7 +268,7 @@
   <tbody>
     <tr>
       <td>
-        <strong>Steinmetz, A.</strong> Status and Outlook of PHYS 381/382 -- Methods in Experimental Physics I/II at ACT/HEBUT." Internal report (curricular and equipment proposal; $36,000), University of Arizona, Tucson, AZ, 2025.
+        <strong>Steinmetz, A.</strong> Status and Outlook of PHYS 381/382 -- Methods in Experimental Physics I/II at ACT/HEBUT. Internal report (curricular and equipment proposal; $36,000), University of Arizona, Tucson, AZ, 2025.
       </td>
     </tr>
     <tr>
