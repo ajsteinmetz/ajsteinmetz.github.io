@@ -137,7 +137,7 @@ In addition, I have closely collaborated on preparing research and academic talk
 - Member, Cross College Faculty Forum (CCFF), Arizona College of Technology, Hebei University of Technology (2024-2025)
 - Member, Department of Physics, University of Arizona, Faculty Search Committee(s) (2025, 2024).
 - Member, American Physical Society (APS).
-- Reviewer for *Physical Review D*, *Physical Review Research*, *European Physical Journal Plus*, *Modern Physics Letters A*, *International Journal of Modern Physics A*, and *ICPMS 2025*.
+- Reviewer for *Physical Review Letters*, *Physical Review D*, *Physical Review Research*, *European Physical Journal Plus*, *Modern Physics Letters A*, *International Journal of Modern Physics A*, and *ICPMS 2025*.
 
 ### Public Outreach
 1. Steinmetz, A. (2024, November 7). Proving that SU(2) is compact (and other group theory bits). [Link](https://ajsteinmetz.github.io/mathematics/2024/11/07/su2-compactness.html)
