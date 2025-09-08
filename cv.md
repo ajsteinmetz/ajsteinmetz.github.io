@@ -132,6 +132,7 @@ In addition, I have closely collaborated on preparing research and academic talk
 - **TA Courses at UA (Dept. of Physics, Dept. of Chemistry & Biochemistry):** Intro. to Scientific Computing (2017), Intro. Electricity & Magnetism (2017), Methods in Exp. Physics I/II (2018-2019), Intro. Mechanics I/II Lab (2020), Intro. Physics I/II Lab (2020), General Chemistry I(Honors)/II Lab (2019, 2021-2023)
 
 ### Academic Service & Associations
+- Fellow, APS Career Mentoring Fellows Program, American Physical Society (2025-2026)
 - Associate, Designated Campus Colleague (DCC), Department of Physics, University of Arizona (2025-present).
 - Organizer, Undergraduate Journal Club, Arizona College of Technology, Hebei University of Technology (2025).
 - Member, Cross College Faculty Forum (CCFF), Arizona College of Technology, Hebei University of Technology (2024-2025)
