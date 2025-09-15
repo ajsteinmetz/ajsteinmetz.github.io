@@ -2,7 +2,7 @@
 
 ### Andrew James Steinmetz, Ph.D.
 
-Updated September, 2025. [Download CV (PDF)](https://github.com/ajsteinmetz/cv-ajsteinmetz/raw/main/cv_ajsteinmetz.pdf)
+Updated September, 2025 - [Download CV (PDF)](https://github.com/ajsteinmetz/cv-ajsteinmetz/raw/main/cv_ajsteinmetz.pdf)
 
 - **Email:** <a href="mailto:ajsteinmetz@arizona.edu">ajsteinmetz@arizona.edu</a>
 - **Website:** [https://ajsteinmetz.github.io/](https://ajsteinmetz.github.io/)
