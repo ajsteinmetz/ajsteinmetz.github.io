@@ -49,7 +49,7 @@
   <tbody>
     <tr>
       <td>
-        <strong><a href="https://github.com/ajsteinmetz/short-note-qgp">Steinmetz, A.</a></strong>, Rafelski, J. Short Note on Spin Magnetization in QGP. <em>Eur. Phys. J. Spec. Top.</em> (2025). <a href="https://doi.org/10.1140/epjs/s11734-025-01625-9">10.1140/epjs/s11734-025-01625-9</a>
+        <strong><a href="https://github.com/ajsteinmetz/short-note-qgp">Steinmetz, A.</a></strong>, Rafelski, J. Short Note on Spin Magnetization in QGP. <em>Eur. Phys. J. Spec. Top.</em> 234, 2919–2929 (2025). <a href="https://doi.org/10.1140/epjs/s11734-025-01625-9">10.1140/epjs/s11734-025-01625-9</a>
       </td>
       <td>
         <div class="badge-box">
@@ -212,7 +212,7 @@
   <tbody>
     <tr>
       <td>
-        Rafelski, J., Birrell, J., Grayson, C., <strong><a href="https://github.com/ajsteinmetz/thesis-collab-project">Steinmetz, A.</a></strong>, Yang, C. T. Quarks to Cosmos: Particles and Plasma in Cosmological evolution. <em>Eur. Phys. J. Spec. Top.</em> (2025). <a href="https://doi.org/10.1140/epjs/s11734-025-01470-w">10.1140/epjs/s11734-025-01470-w</a>
+        Rafelski, J., Birrell, J., Grayson, C., <strong><a href="https://github.com/ajsteinmetz/thesis-collab-project">Steinmetz, A.</a></strong>, Yang, C. T. Quarks to Cosmos: Particles and Plasma in Cosmological evolution. <em>Eur. Phys. J. Spec. Top.</em> 234, 1125–1329 (2025). <a href="https://doi.org/10.1140/epjs/s11734-025-01470-w">10.1140/epjs/s11734-025-01470-w</a>
       </td>
       <td>
         <div class="badge-box">
