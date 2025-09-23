@@ -4,7 +4,7 @@
 
 Updated September, 2025 - [Download CV (PDF)](https://github.com/ajsteinmetz/cv-ajsteinmetz/raw/main/cv_ajsteinmetz.pdf)
 
-- **Email:** <a href="mailto:ajsteinmetz@arizona.edu">ajsteinmetz@arizona.edu</a>
+- **Email:** <a href="mailto:ajsteinmetz511@gmail.com">ajsteinmetz511@gmail.com</a>
 - **Website:** [https://ajsteinmetz.github.io/](https://ajsteinmetz.github.io/)
 - **ORCID:** [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-5474-2649)&nbsp;[0000-0001-5474-2649](https://orcid.org/0000-0001-5474-2649)
 
