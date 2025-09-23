@@ -49,7 +49,7 @@ Updated September, 2025 - [Download CV (PDF)](https://github.com/ajsteinmetz/cv-
 
 ### Publications
 
-Citations = 128; h-index = 7 ([Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ), July 2025). See also [INSPIRE-HEP](https://inspirehep.net/authors/1796313) and [arXiv](https://arxiv.org/a/steinmetz_a_1.html).
+Citations = 130; h-index = 7 ([Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ), September 2025). See also [INSPIRE-HEP](https://inspirehep.net/authors/1796313) and [arXiv](https://arxiv.org/a/steinmetz_a_1.html).
 
 #### Peer-Reviewed Journal Articles
 
