@@ -86,11 +86,12 @@ Citations = 130; h-index = 7 ([Google Scholar](https://scholar.google.com/citati
 
 #### Talks Presented by Steinmetz, A.
 
-1. **Steinmetz, A.** Physics Lab, Journal Club, and AI Tools.  *Cross College Faculty Forum (CCFF).* Arizona College of Technology, Hebei University of Technology, Tianjin, China. April 11, 2025.
-2. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Primordial Cosmic Magnetism.  *SMT 30th Anniversary Steward Observatory Symposium.* University of Arizona, Tucson, Arizona. September 22, 2023. [10.13140/RG.2.2.19213.24806](http://dx.doi.org/10.13140/RG.2.2.19213.24806)
-3. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Magnetism in the Cosmic Plasma Epoch.  *ELI-Beamlines Strong Fields Frontiers.* The Extreme Light Infrastructure ERIC, Prague, Czech Republic. June 13, 2023. [10.13140/RG.2.2.32635.02087](http://dx.doi.org/10.13140/RG.2.2.32635.02087)
-4. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Magnetism in the Cosmic Plasma Epoch.  *Margaret Island Symposium on Particles & Plasmas (PP2023).* HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 8, 2023. [10.13140/RG.2.2.29279.57762](http://dx.doi.org/10.13140/RG.2.2.29279.57762)
-5. **Steinmetz, A.** Relativistic Two-Body Quantum Mechanics. University of Arizona, Tucson, Arizona. March, 2017.
+1. **Steinmetz, A.** Impact of AI on Education and Professional Careers, *GRIT*, Tampa, Florida. October 16, 2025. Invited talk (honorarium).
+2. **Steinmetz, A.** Physics Lab, Journal Club, and AI Tools.  *Cross College Faculty Forum (CCFF).* Arizona College of Technology, Hebei University of Technology, Tianjin, China. April 11, 2025.
+3. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Primordial Cosmic Magnetism.  *SMT 30th Anniversary Steward Observatory Symposium.* University of Arizona, Tucson, Arizona. September 22, 2023. [10.13140/RG.2.2.19213.24806](http://dx.doi.org/10.13140/RG.2.2.19213.24806)
+4. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Magnetism in the Cosmic Plasma Epoch.  *ELI-Beamlines Strong Fields Frontiers.* The Extreme Light Infrastructure ERIC, Prague, Czech Republic. June 13, 2023. [10.13140/RG.2.2.32635.02087](http://dx.doi.org/10.13140/RG.2.2.32635.02087)
+5. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Magnetism in the Cosmic Plasma Epoch.  *Margaret Island Symposium on Particles & Plasmas (PP2023).* HUN-REN Wigner Research Centre for Physics, Budapest, Hungary. June 8, 2023. [10.13140/RG.2.2.29279.57762](http://dx.doi.org/10.13140/RG.2.2.29279.57762)
+6. **Steinmetz, A.** Relativistic Two-Body Quantum Mechanics. University of Arizona, Tucson, Arizona. March, 2017.
 
 #### Talks Co-Prepared by Steinmetz, A. (Presented by Others)
 
@@ -132,15 +133,22 @@ In addition, I have closely collaborated on preparing research and academic talk
 - **TA Courses at UA (Dept. of Physics, Dept. of Chemistry & Biochemistry):** Intro. to Scientific Computing (2017), Intro. Electricity & Magnetism (2017), Methods in Exp. Physics I/II (2018-2019), Intro. Mechanics I/II Lab (2020), Intro. Physics I/II Lab (2020), General Chemistry I(Honors)/II Lab (2019, 2021-2023)
 
 ### Academic Service & Associations
-- Fellow, APS Career Mentoring Fellows Program, American Physical Society (2025-2026)
-- Associate, Designated Campus Colleague (DCC), Department of Physics, University of Arizona (2025-present).
-- Organizer, Undergraduate Journal Club, Arizona College of Technology, Hebei University of Technology (2025).
-- Member, Cross College Faculty Forum (CCFF), Arizona College of Technology, Hebei University of Technology (2024-2025)
-- Member, Department of Physics, University of Arizona, Faculty Search Committee(s) (2025, 2024).
-- Member, American Physical Society (APS).
+
+#### Institutional Committees & Appointments
+- Member, Academic Program Committee, School of Physics, GT (eff. 2026)
+- Member, Undergraduate Advising and Assessment Committee, School of Physics, GT (eff. 2026)
+- Associate, Designated Campus Colleague (DCC), Department of Physics, UA (2025-present)
+- Member, Faculty Search Committee(s), Department of Physics, UA (2024, 2025)
+
+#### Professional Service & Membership
+- Mentor, Wildcat Mentor Society, UA (2025-present)
+- Fellow, Career Mentoring Fellows Program, APS (2025-present)
+- Member, Cross College Faculty Forum (CCFF), ACT, HEBUT (2024-2025)
+- Organizer, Undergraduate Journal Club, ACT, HEBUT (2025)
+- Member, American Physical Society (APS) (2025-present)
 - Reviewer for *Physical Review Letters*, *Physical Review D*, *Physical Review Research*, *European Physical Journal Plus*, *Modern Physics Letters A*, *International Journal of Modern Physics A*, and *ICPMS 2025*.
 
-### Public Outreach
+#### Public Outreach
 1. Steinmetz, A. (2024, November 7). Proving that SU(2) is compact (and other group theory bits). [Link](https://ajsteinmetz.github.io/mathematics/2024/11/07/su2-compactness.html)
 2. Steinmetz, A. (2024, October 17). Einstein's mass-energy and kinetic energy. [Link](https://ajsteinmetz.github.io/physics/2024/10/17/kinetic-energy-coefficient.html)
 3. Steinmetz, A. (2024, October 16). Can we ever detect the graviton? [Link](https://ajsteinmetz.github.io/physics/2024/10/16/graviton-detector.html)
@@ -148,8 +156,8 @@ In addition, I have closely collaborated on preparing research and academic talk
 ### External & Institutional Press
 
 1. World Scientific Publishing. (2025, January 9). The International Journal of Modern Physics A (IJMPA) Celebrates 40 Years of Excellence, *LinkedIn*. [Link](https://www.linkedin.com/posts/world-scientific-publishing_the-international-journal-of-modern-physics-activity-7282999555967610880-SJ78).
-2. Hebei University of Technology. (2024, November 20). 亚利桑那工业学院中美跨学院教师论坛（CCFF）顺利举行 [Cross-College Faculty Forum between Arizona Tech and Hebei University of Technology successfully held]. *Hebei University of Technology News*. [Link](https://hatech.hebut.edu.cn/xw/62ff3dcc665b453898ec92841d45e0ce.htm).
-3. Kong, X. (2024, March 20). 亚利桑那大学Andrew Steinmetz教授到物理演示与探索实验师参观调研 [Professor Andrew Steinmetz of the University of Arizona Visited the Physics Demonstration and Exploration Laboratory], *Physics Experiments at HEBUT, Hebei University of Technology*. [Link](https://mp.weixin.qq.com/s?__biz=Mzg4Njg3NjQyMw==&mid=2247484302&idx=1&sn=273f88bc0332d9a34a9fdbee01b196b3&chksm=cf93b3e6f8e43af0b75b832801bbe9e684d258f00c3671e7e625bfccde7c74a387ef9e5a9926&mpshare=1&scene=24&srcid=0320Wt3iZMGOxbLpRBZg9nYA)
+2. Hebei University of Technology. (2024, November 20). Cross-College Faculty Forum between Arizona Tech and Hebei University of Technology successfully held [translated], *Hebei University of Technology News*. [Link](https://hatech.hebut.edu.cn/xw/62ff3dcc665b453898ec92841d45e0ce.htm).
+3. Kong, X. (2024, March 20). Professor Andrew Steinmetz of the University of Arizona Visited the Physics Demonstration and Exploration Laboratory [translated], *Physics Experiments at HEBUT, Hebei University of Technology*. [Link](https://mp.weixin.qq.com/s?__biz=Mzg4Njg3NjQyMw==&mid=2247484302&idx=1&sn=273f88bc0332d9a34a9fdbee01b196b3&chksm=cf93b3e6f8e43af0b75b832801bbe9e684d258f00c3671e7e625bfccde7c74a387ef9e5a9926&mpshare=1&scene=24&srcid=0320Wt3iZMGOxbLpRBZg9nYA)
 4. University of Arizona, Department of Physics. (2024, January 26). Announcing Department of Physics new Faculty Member Prof. Andrew Steinmetz, *UA Science Physics*. [Link](https://w3.physics.arizona.edu/news/announcing-department-physics-new-faculty-member-prof-andrew-steinmetz).
 5. University of Arizona, Department of Physics. (2023, July 25). International Symposium on 'Particles and Plasmas' and 'Strong Fields', *UA Science Physics*. [Link](https://w3.physics.arizona.edu/news/international-symposium-particles-and-plasmas-and-strong-fields).
 6. Springer. (2018, January 29). Relativity matters: Two opposing views of the magnetic force reconciled, *Phys.org*. [Phys.org](https://phys.org/news/2018-01-relativity-opposing-views-magnetic.html), [EPJ C Highlight](https://www.epj.org/epjc-news/1422-epjc-highlight-relativity-matters-two-opposing-views-of-the-magnetic-force-reconciled), [Springer Press](https://www.springer.com/gp/about-springer/media/research-news/all-english-research-news/relativity-matters--two-opposing-views-of-the-magnetic-force-reconciled/15417658), [ScienceDaily](https://www.sciencedaily.com/releases/2018/01/180129131327.htm); also featured in EuroPhysicsNews, EurekAlert!, Science Newsline, Sky Nightly, Space Daily.
