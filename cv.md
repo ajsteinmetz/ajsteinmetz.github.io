@@ -86,7 +86,7 @@ Citations = 130; h-index = 7 ([Google Scholar](https://scholar.google.com/citati
 
 #### Talks Presented by Steinmetz, A.
 
-1. **Steinmetz, A.** Impact of AI on Education and Professional Careers, *GRIT*, Tampa, Florida. October 16, 2025. Invited talk (honorarium).
+1. **Steinmetz, A.** Impact of AI on Education and Professional Careers, *GRIT*, Tampa, Florida. October 16, 2025. Invited talk (honorarium). [10.13140/RG.2.2.28318.60486](https://doi.org/10.13140/RG.2.2.28318.60486)
 2. **Steinmetz, A.** Physics Lab, Journal Club, and AI Tools.  *Cross College Faculty Forum (CCFF).* Arizona College of Technology, Hebei University of Technology, Tianjin, China. April 11, 2025.
 3. **Steinmetz, A.** UA-HEBUT Pedagogical Adventures.  *Cross College Faculty Forum (CCFF).* Arizona College of Technology, Hebei University of Technology, Tianjin, China. November 15, 2024.
 4. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Primordial Cosmic Magnetism.  *SMT 30th Anniversary Steward Observatory Symposium.* University of Arizona, Tucson, Arizona. September 22, 2023. [10.13140/RG.2.2.19213.24806](http://dx.doi.org/10.13140/RG.2.2.19213.24806)
