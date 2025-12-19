@@ -10,12 +10,12 @@ Updated September, 2025 - [Download CV (PDF)](https://github.com/ajsteinmetz/cv-
 
 ### Employment
 
-| Position Title               | Department                     | Institution                    | Dates               |
-|------------------------------|--------------------------------|--------------------------------|---------------------|
-| Academic Professional        | School of Physics              | Georgia Tech                   | Jan 2026 (eff.) |
-| Global Professor<sup>a</sup> | Arizona College of Technology  | Hebei University of Technology | Feb 2024-Jul 2025   |
-| Global Professor<sup>a</sup> | Department of Physics          | University of Arizona          | Nov 2023-Jul 2025   |
-| Adjunct Faculty              | Physics & Astronomy Department | Pima Community College         | Jun 2020-Dec 2023   |
+| Position Title               | Department                     | Institution                    | Dates                 |
+|------------------------------|--------------------------------|--------------------------------|-----------------------|
+| Academic Professional        | School of Physics              | Georgia Tech                   | Jan 2026 - Present    |
+| Global Professor<sup>a</sup> | Arizona College of Technology  | Hebei University of Technology | Feb 2024 - Jul 2025   |
+| Global Professor<sup>a</sup> | Department of Physics          | University of Arizona          | Nov 2023 - Jul 2025   |
+| Adjunct Faculty              | Physics & Astronomy Department | Pima Community College         | Jun 2020 - Dec 2023   |
 
 <ol type="a" start="1">
   <li>Joint international faculty appointment.</li>
@@ -49,7 +49,7 @@ Updated September, 2025 - [Download CV (PDF)](https://github.com/ajsteinmetz/cv-
 
 ### Publications
 
-Citations = 130; h-index = 7 ([Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ), September 2025). See also [INSPIRE-HEP](https://inspirehep.net/authors/1796313) and [arXiv](https://arxiv.org/a/steinmetz_a_1.html).
+Citations = 139; h-index = 7 ([Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ), December 2025). See also [INSPIRE-HEP](https://inspirehep.net/authors/1796313) and [arXiv](https://arxiv.org/a/steinmetz_a_1.html).
 
 #### Peer-Reviewed Journal Articles
 
@@ -116,6 +116,7 @@ In addition, I have closely collaborated on preparing research and academic talk
 
 | Course #   | Course Title                           | Delivery Method | # of Sections | # of Students | Institution | Semester       |
 |------------|----------------------------------------|-----------------|---------------|---------------|-------------|----------------|
+| PHYS 2212  | Principles of Physics II               | In-person       | 1             | TBD           | GT          | Spring 2026    |
 | PHYS 371   | Quantum Theory                         | In-person       | 1             | 75            | UA/ACT      | Spring 2025    |
 | PHYS 381   | Methods in Exp. Physics I              | In-person       | 2             | 67            | UA/ACT      | Spring 2025    |
 | PHYS 321   | Theoretical Mechanics                  | In-person       | 2             | 139           | UA/ACT      | Fall 2024      |
@@ -136,8 +137,8 @@ In addition, I have closely collaborated on preparing research and academic talk
 ### Academic Service & Associations
 
 #### Institutional Committees & Appointments
-- Member, Academic Program Committee, School of Physics, GT (eff. 2026)
-- Member, Undergraduate Advising and Assessment Committee, School of Physics, GT (eff. 2026)
+- Member, Academic Program Committee, School of Physics, GT (2026-present)
+- Member, Undergraduate Advising and Assessment Committee, School of Physics, GT (2026-present)
 - Associate, Designated Campus Colleague (DCC), Department of Physics, UA (2025-present)
 - Member, Faculty Search Committee(s), Department of Physics, UA (2024, 2025)
 
