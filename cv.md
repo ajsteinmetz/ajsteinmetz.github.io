@@ -13,8 +13,8 @@ Updated September, 2025 - [Download CV (PDF)](https://github.com/ajsteinmetz/cv-
 | Position Title               | Department                     | Institution                    | Dates                 |
 |------------------------------|--------------------------------|--------------------------------|-----------------------|
 | Academic Professional        | School of Physics              | Georgia Tech                   | Jan 2026 - present    |
-| Global Professor<sup>a</sup> | Arizona College of Technology  | Hebei University of Technology | Feb 2024 - Jul 2025   |
-| Global Professor<sup>a</sup> | Department of Physics          | University of Arizona          | Nov 2023 - Jul 2025   |
+| Global Professor<sup>a</sup> | Arizona College of Technology  | Hebei University of Technology | Feb 2024 - Jun 2025   |
+| Global Professor<sup>a</sup> | Department of Physics          | University of Arizona          | Nov 2023 - Jun 2025   |
 | Adjunct Faculty              | Physics & Astronomy Department | Pima Community College         | Jun 2020 - Dec 2023   |
 
 <ol type="a" start="1">
