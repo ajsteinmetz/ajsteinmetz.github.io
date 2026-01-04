@@ -2,7 +2,7 @@
 
 ### Andrew James Steinmetz, Ph.D.
 
-Updated January, 2026 - [Download CV (PDF)](https://github.com/ajsteinmetz/cv-ajsteinmetz/raw/main/cv_ajsteinmetz.pdf)
+Updated Jan 2026 - [Download CV (PDF)](https://github.com/ajsteinmetz/cv-ajsteinmetz/raw/main/cv_ajsteinmetz.pdf)
 
 - **Email:** <a href="mailto:ajsteinmetz511@gmail.com">ajsteinmetz511@gmail.com</a>
 - **Website:** [https://ajsteinmetz.github.io/](https://ajsteinmetz.github.io/)
@@ -49,7 +49,7 @@ Updated January, 2026 - [Download CV (PDF)](https://github.com/ajsteinmetz/cv-aj
 
 ### Publications
 
-Citations = 139; h-index = 7 ([Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ), December 2025). See also [INSPIRE-HEP](https://inspirehep.net/authors/1796313) and [arXiv](https://arxiv.org/a/steinmetz_a_1.html).
+Citations = 139; h-index = 7 ([Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ), Jan 2025). See also [INSPIRE-HEP](https://inspirehep.net/authors/1796313) and [arXiv](https://arxiv.org/a/steinmetz_a_1.html).
 
 #### Peer-Reviewed Journal Articles
 
