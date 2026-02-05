@@ -116,7 +116,7 @@ In addition, I have closely collaborated on preparing research and academic talk
 
 | Course #   | Course Title                           | Delivery Method | # of Sections | # of Students | Institution | Semester       |
 |------------|----------------------------------------|-----------------|---------------|---------------|-------------|----------------|
-| PHYS 2212  | Principles of Physics II               | In-person       | 1             | TBD           | GT          | Spring 2026    |
+| PHYS 2212  | Principles of Physics II               | In-person       | 1             | 163           | GT          | Spring 2026    |
 | PHYS 371   | Quantum Theory                         | In-person       | 1             | 75            | UA/ACT      | Spring 2025    |
 | PHYS 381   | Methods in Exp. Physics I              | In-person       | 2             | 67            | UA/ACT      | Spring 2025    |
 | PHYS 321   | Theoretical Mechanics                  | In-person       | 2             | 139           | UA/ACT      | Fall 2024      |
