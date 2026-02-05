@@ -10,7 +10,7 @@
 
 | Course #   | Course Title                      | Delivery Method | # of Sections | # of Students | Semester       |
 |------------|-----------------------------------|-----------------|---------------|---------------|----------------|
-| PHYS 2212  | Principles of Physics II          | In-person       | 1             | TBD           | Spring 2026    |
+| PHYS 2212  | Principles of Physics II          | In-person       | 1             | 163           | Spring 2026    |
 
 ### Teaching Record (as Instructor-of-Record)\* - UA/ACT
 
