@@ -346,4 +346,4 @@ and <b>t</b> would become spirants <b>ch</b> and<b> th</b> following the
 preposition <b>o</b>. (In a poem published in <i>Tyali&euml;
 Tyelelli&eacute;va</i> #11, David Salo translated "from Celos" as <b>o
 Chelos</b>.) <p>
-<a href="ardalambion.net/index.htm">Ardalambion Index</a>
+<a href="https://ardalambion.net/index.htm">Ardalambion Index</a>
