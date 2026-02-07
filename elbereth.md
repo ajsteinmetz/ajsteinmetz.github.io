@@ -1,6 +1,3 @@
-<html>
-<body>
-
 <div style="background-color: #fffaf0; border: 1px solid #c5a059; padding: 20px; margin: 20px auto; max-width: 800px; font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; line-height: 1.6; color: #2e2e2e; border-radius: 4px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
     <h3 style="margin-top: 0; color: #8b4513; border-bottom: 1px solid #c5a059; padding-bottom: 5px;">Archival Preservation Notice</h3>
     <p style="margin-bottom: 12px;">
@@ -9,9 +6,16 @@
         <a href="https://ardalambion.net" target="_blank" style="color: #8b4513; text-decoration: underline;">ardalambion.net</a>, 
         this version is preserved here to ensure accessibility.
     </p>
-    <p style="font-size: 0.85em; color: #666; margin-bottom: 0; border-top: 1px dashed #d1d1d1; padding-top: 10px;">
-        <strong>Original Source:</strong> <code>https://folk.uib.no/hnohf/elbereth.htm</code>
-    </p>
+    <div style="font-size: 0.85em; color: #666; border-top: 1px dashed #d1d1d1; padding-top: 10px;">
+        <p style="margin: 5px 0;">
+            <strong>Primary Citation (Legacy):</strong> 
+            <code>https://folk.uib.no/hnohf/elbereth.htm</code>
+        </p>
+        <p style="margin: 5px 0;">
+            <strong>Current Official Mirror:</strong> 
+            <code>https://ardalambion.net/elbereth.htm</code>
+        </p>
+    </div>
 </div>
 <hr style="border: 0; border-top: 1px double #d1d1d1; margin: 30px 0;">
 
@@ -342,6 +346,4 @@ and <b>t</b> would become spirants <b>ch</b> and<b> th</b> following the
 preposition <b>o</b>. (In a poem published in <i>Tyali&euml;
 Tyelelli&eacute;va</i> #11, David Salo translated "from Celos" as <b>o
 Chelos</b>.) <p>
-<a href="https://web.archive.org/web/20210126041728/https://folk.uib.no/hnohf/index.htm">Ardalambion Index</a>
-</body>
-</html>
+<a href="ardalambion.net/index.htm">Ardalambion Index</a>
