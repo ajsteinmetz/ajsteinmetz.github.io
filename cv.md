@@ -148,7 +148,12 @@ In addition, I have closely collaborated on preparing research and academic talk
 - Organizer, Undergraduate Journal Club, ACT, HEBUT (2025)
 - Member, American Physical Society (APS) (2025-present)
 - Member, Cross College Faculty Forum (CCFF), ACT, HEBUT (2024-2025)
-- Reviewer for *Physical Review Letters*, *Physical Review D*, *Physical Review Research*, *European Physical Journal Plus*, *Modern Physics Letters A*, *International Journal of Modern Physics A*, and *ICPMS 2025*.
+- Reviewer for *Physical Review Letters*, *Physical Review D*, *Physical Review Research*, *European Physical Journal Plus*, *Modern Physics Letters A*, *International Journal of Modern Physics A*, *Frontiers in Physics*, and *ICPMS 2025*.
+
+#### Laboratory Safety Certifications
+- Cryogenic Materials Safety, UA (2022)
+- General Laboratory Chemical Safety, UA (2019)
+- Sealed Source Protection, UA (2018)
 
 #### Public Outreach
 1. Steinmetz, A. (2024, November 7). Proving that SU(2) is compact (and other group theory bits). [Link](https://ajsteinmetz.github.io/mathematics/2024/11/07/su2-compactness.html)
