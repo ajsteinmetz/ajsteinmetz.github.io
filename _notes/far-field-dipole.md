@@ -5,25 +5,28 @@ title: "Far-Field Electric Dipole"
 
 # Far-Field Electric Dipole
 
-Let us derive the far-field electric field of a dipole starting directly from the superposition of two Coulomb fields in Cartesian form. The goal is to connect the exact field of two separated charges to the familiar ideal dipole result,
+The ideal electric dipole field is one of the first places in electromagnetism where a “simple-looking” formula hides a lot of structure. It encodes both a directional pattern and a different distance-scaling than the Coulomb field of a single charge. Rather than starting from the final answer, let us derive it directly from the superposition of two point-charge fields in Cartesian form.
+
+Our goal is to connect the exact two-charge field to the familiar far-field dipole expression,
 
 $$
 \mathbf E(\mathbf r)\approx \frac{1}{4\pi\varepsilon_0}\frac{1}{r^3}\left[3(\mathbf p\cdot\hat{\mathbf r})\hat{\mathbf r}-\mathbf p\right],\qquad r\gg s.
 $$
 
-Rather than jumping immediately to the general formula, we first examine two especially important directions:
+We will first examine two especially useful directions:
 
 - **On-axis** (parallel to the dipole moment)
 - **Equatorial line** (perpendicular to the dipole moment)
 
-These two cases make the $$1/r^3$$ scaling and directional structure very clear.
+These two limits already reveal the characteristic $$1/r^3$$ behavior and make the angular dependence much easier to interpret.
 
-## 1. Setup: physical dipole and superposition
+## Setup: a physical dipole and Coulomb superposition
 
-Consider a **physical dipole** made from two point charges $$+q$$ and $$-q$$, separated by a distance $$s$$, centered at the origin, and aligned with the $$z$$-axis. The charge locations are
+Consider a **physical dipole** made from two point charges $$+q$$ and $$-q$$ separated by a distance $$s$$, centered at the origin, and aligned with the $$z$$-axis. Their positions are
 
 $$
-\mathbf r_{+}=\frac{s}{2}\hat{\mathbf z},\qquad\mathbf r_{-}=-\frac{s}{2}\hat{\mathbf z}.
+\mathbf r_{+}=\frac{s}{2}\hat{\mathbf z},\qquad
+\mathbf r_{-}=-\frac{s}{2}\hat{\mathbf z}.
 $$
 
 Let the observation point be
@@ -32,9 +35,15 @@ $$
 \mathbf r=(x,y,z),\qquad r=\sqrt{x^2+y^2+z^2}.
 $$
 
-We are interested in the **far-field regime**, meaning $$r\gg s$$. That assumption means the observer is much farther away than the separation of the charges, so the two-charge system begins to look like an idealized point dipole.
+We are interested in the **far-field regime**,
 
-### Coulomb field of a point charge
+$$
+r\gg s,
+$$
+
+meaning the observation distance is much larger than the charge separation. In that limit, the pair of charges begins to look like a single “effective object” (an ideal dipole) rather than two individually resolved charges.
+
+### Coulomb field of one point charge
 
 For a point charge $$q$$ located at $$\mathbf r_0$$, the electric field at $$\mathbf r$$ is
 
@@ -42,17 +51,17 @@ $$
 \mathbf E(\mathbf r)=\frac{1}{4\pi\varepsilon_0}q\frac{\mathbf r-\mathbf r_0}{|{\mathbf r-\mathbf r_0}|^3}.
 $$
 
-### Dipole field by superposition
+### Exact dipole field from superposition
 
-The dipole field is the field of $$+q$$ plus the field of $$-q$$. Writing it as “positive charge contribution minus negative charge contribution” gives
+The field of the dipole is just the vector sum of the fields from the two charges. Writing the contribution from $$-q$$ explicitly as a subtraction gives
 
 $$
-\mathbf E(\mathbf r)=\frac{1}{4\pi\varepsilon_0}q\left(\frac{\mathbf r-\mathbf r_{+}}{|{\mathbf r-\mathbf r_{+}}|^3} - \frac{\mathbf r-\mathbf r_{-}}{|{\mathbf r-\mathbf r_{-}}|^3}\right).
+\mathbf E(\mathbf r)=\frac{1}{4\pi\varepsilon_0}q\left(\frac{\mathbf r-\mathbf r_{+}}{|{\mathbf r-\mathbf r_{+}}|^3}-\frac{\mathbf r-\mathbf r_{-}}{|{\mathbf r-\mathbf r_{-}}|^3}\right).
 $$
 
-This expression is exact. The rest of the derivation is about simplifying it in special directions and then taking the far-field limit.
+This expression is exact. Everything that follows is just careful simplification in special directions, followed by a far-field expansion.
 
-## 2. Field parallel to the dipole axis (on-axis)
+## Field on the dipole axis (parallel case)
 
 To study the field **along the dipole axis**, place the observation point on the $$z$$-axis:
 
@@ -60,20 +69,21 @@ $$
 \mathbf r=z\hat{\mathbf z},\qquad z\gg s.
 $$
 
-Because the geometry is symmetric about the $$z$$-axis, the field at this point must point purely in the $$\hat{\mathbf z}$$ direction. The exact axial field is
+By symmetry, the field must point purely along $$\hat{\mathbf z}$$. The exact axial field is
 
 $$
 E_{\parallel}(z)=\frac{1}{4\pi\varepsilon_0}q\left[\frac{1}{(z-\tfrac{s}{2})^2}-\frac{1}{(z+\tfrac{s}{2})^2}\right].
 $$
 
-This is already a nice result: it shows how the closer charge contributes a slightly stronger field than the farther charge, which is why the dipole field survives at long distances.
+This already contains the essential physics: the nearer charge contributes slightly more strongly than the farther charge, and that mismatch is what survives at large distance.
 
-### Combine the terms
+### Combine the two terms
 
-To expose the far-field scaling, combine the two fractions:
+To expose the scaling more clearly, combine the fractions:
 
 $$
-\frac{1}{(z-\tfrac{s}{2})^2}-\frac{1}{(z+\tfrac{s}{2})^2}=\frac{2zs}{\left(z^2-\tfrac{s^2}{4}\right)^2}.
+\frac{1}{(z-\tfrac{s}{2})^2}-\frac{1}{(z+\tfrac{s}{2})^2}
+=\frac{2zs}{\left(z^2-\tfrac{s^2}{4}\right)^2}.
 $$
 
 So the exact on-axis field becomes
@@ -82,37 +92,44 @@ $$
 E_{\parallel}(z)=\frac{1}{4\pi\varepsilon_0}q\frac{2zs}{\left(z^2-\tfrac{s^2}{4}\right)^2}.
 $$
 
-## 3. On-axis far-field expansion: inverse-cube leading term
+## On-axis far-field expansion
 
-Now apply the far-field assumption $$z\gg s$$. Rewrite the denominator in a form suitable for expansion:
+Now use the assumption $$z\gg s$$. Rewrite the denominator in a form suitable for expansion:
 
 $$
 \left(z^2-\tfrac{s^2}{4}\right)^{-2}=z^{-4}\left(1-\frac{s^2}{4z^2}\right)^{-2}.
 $$
 
-For $$\frac{s^2}{z^2}\ll 1$$, the leading term is
+Since $$s^2/z^2\ll 1$$, the leading term is
 
 $$
 \left(z^2-\tfrac{s^2}{4}\right)^{-2}\approx z^{-4}+\mathcal O(z^{-6}).
 $$
 
-Substitute this into the field
+Substituting back into the field gives
 
 $$
-\mathbf E_{\parallel}(z)\approx\frac{1}{4\pi\varepsilon_0}q(2zs)z^{-4}\hat{\mathbf z}=\frac{1}{4\pi\varepsilon_0}\frac{2qs}{z^3}\hat{\mathbf z}.
+\mathbf E_{\parallel}(z)\approx\frac{1}{4\pi\varepsilon_0}q(2zs)z^{-4}\hat{\mathbf z}
+=\frac{1}{4\pi\varepsilon_0}\frac{2qs}{z^3}\hat{\mathbf z}.
 $$
 
-We define the dipole moment magnitude as $$p\equiv qs$$. Then the leading far-field on-axis result is
+Define the dipole moment magnitude by
+
+$$
+p\equiv qs.
+$$
+
+Then the leading on-axis far-field result is
 
 $$
 \boxed{\mathbf E_{\parallel}\approx\frac{1}{4\pi\varepsilon_0}\frac{2p}{r^3}\hat{\mathbf z}\qquad (r\gg s,\ \text{on-axis})}.
 $$
 
-This is the first clear sign that a dipole field falls off as $$1/r^3$$, not $$1/r^2$$ like a single point charge. The $$1/r^2$$ behavior cancels because the net charge is zero.
+This is the first clean appearance of the dipole scaling law: the field falls as $$1/r^3$$ rather than $$1/r^2$$. The reason is that the net charge is zero, so the monopole (Coulomb) contribution cancels.
 
-## 4. Field perpendicular to the dipole axis (equatorial line)
+## Field on the equatorial line (perpendicular case)
 
-Next, place the observation point on the $$x$$-axis, which is perpendicular to the dipole axis:
+Next, place the observation point on the $$x$$-axis, perpendicular to the dipole axis:
 
 $$
 \mathbf r=x\hat{\mathbf x},\qquad x\gg s.
@@ -124,51 +141,51 @@ $$
 \mathbf r-\mathbf r_{\pm}=x\hat{\mathbf x}\mp \frac{s}{2}\hat{\mathbf z},
 $$
 
-and both have the same squared magnitude:
+and both have the same squared magnitude,
 
 $$
 |{\mathbf r-\mathbf r_{\pm}}|^2=x^2+\frac{s^2}{4}.
 $$
 
-Define
+It is convenient to define
 
 $$
-R^2=x^2+\frac{s^2}{4}.
+R^2=x^2+\frac{s^2}{4},
 $$
 
-This simplifies the algebra because the denominators are identical for the two contributions.
+so that both denominators are the same.
 
-### Superpose the two fields
+### Superpose the fields
 
-Substituting into the exact dipole field gives
+Substituting into the exact dipole field,
 
 $$
 \mathbf E(x)=\frac{1}{4\pi\varepsilon_0}q\left(\frac{x\hat{\mathbf x}-\tfrac{s}{2}\hat{\mathbf z}}{R^3}-\frac{x\hat{\mathbf x}+\tfrac{s}{2}\hat{\mathbf z}}{R^3}\right).
 $$
 
-Now the $$x$$-components cancel exactly (by symmetry), leaving only a $$z$$-component:
+The $$x$$-components cancel exactly (as they must by symmetry), leaving only a $$z$$-component:
 
 $$
 \mathbf E(x)=-\frac{1}{4\pi\varepsilon_0}\frac{qs}{R^3}\hat{\mathbf z}.
 $$
 
-This direction makes physical sense: on the equatorial line, the field points opposite the dipole moment direction.
+The minus sign is physically meaningful: on the equatorial line, the field points opposite to the dipole moment direction.
 
-## 5. Equatorial far-field expansion: inverse-cube leading term
+## Equatorial far-field expansion
 
-Write the exact equatorial field explicitly as
+Write the exact result explicitly as
 
 $$
 \mathbf E(x)=-\frac{1}{4\pi\varepsilon_0}\frac{qs}{\left(x^2+\tfrac{s^2}{4}\right)^{3/2}}\hat{\mathbf z}.
 $$
 
-To extract the far-field behavior for $$x\gg s$$, factor out $$x^2$$ from the denominator:
+Now factor out $$x^2$$ from the denominator:
 
 $$
 \left(x^2+\frac{s^2}{4}\right)^{-3/2}=x^{-3}\left(1+\frac{s^2}{4x^2}\right)^{-3/2}.
 $$
 
-Keeping the leading term gives
+For $$x\gg s$$, the leading term is
 
 $$
 \left(x^2+\frac{s^2}{4}\right)^{-3/2}\approx x^{-3}+\mathcal O(x^{-5}).
@@ -177,87 +194,86 @@ $$
 So the far-field equatorial result is
 
 $$
-\boxed{\mathbf E_{\perp}\approx-\frac{1}{4\pi\varepsilon_0}\frac{qs}{x^3}\hat{\mathbf z}=-\frac{1}{4\pi\varepsilon_0}\frac{p}{r^3}\hat{\mathbf z}\qquad (r\gg s,\ \text{equatorial})}.
+\boxed{\mathbf E_{\perp}\approx-\frac{1}{4\pi\varepsilon_0}\frac{qs}{x^3}\hat{\mathbf z}
+=-\frac{1}{4\pi\varepsilon_0}\frac{p}{r^3}\hat{\mathbf z}\qquad (r\gg s,\ \text{equatorial})}.
 $$
 
-### Interpretation
+### What changed relative to the on-axis case?
 
-Again we get the $$1/r^3$$ scaling, but the coefficient differs from the on-axis case:
+Both directions have the same distance scaling $$1/r^3$$, but the coefficient differs:
 
 - On-axis magnitude: $$\displaystyle \frac{2p}{4\pi\varepsilon_0 r^3}$$
 - Equatorial magnitude: $$\displaystyle \frac{p}{4\pi\varepsilon_0 r^3}$$
 
-So the on-axis field is twice as large (in magnitude) as the equatorial field at the same distance.
+So at the same distance, the on-axis field is twice the equatorial field in magnitude.
 
-## 6. General far-field dipole result
+## The general far-field dipole field
 
-We now package these results into the standard vector expression.
-
-Define the dipole moment vector (pointing from $$-q$$ to $$+q$$):
+We can now summarize the result in its standard vector form. Define the dipole moment vector (pointing from $$-q$$ to $$+q$$) as
 
 $$
 \mathbf p = qs\hat{\mathbf z}.
 $$
 
-For a general observation direction $$\hat{\mathbf r}=\mathbf r/r$$, the leading far-field term is
+Then for a general observation direction $$\hat{\mathbf r}=\mathbf r/r$$, the leading far-field term is
 
 $$
 \boxed{\mathbf E(\mathbf r)\approx\frac{1}{4\pi\varepsilon_0}\frac{1}{r^3}\left[3(\mathbf p\cdot\hat{\mathbf r})\hat{\mathbf r}-\mathbf p\right],\qquad r\gg s.}
 $$
 
-This compact formula encodes both magnitude and direction for any observation point in the far field.
+This compact expression reproduces both special cases and makes the angular structure of the dipole field manifest.
 
-## 7. Consistency checks with the special cases
+## Quick consistency checks
 
-It is always good practice to verify that the general formula reproduces the two cases we already derived.
+It is worth checking that the general expression reduces to the results derived above.
 
-### On-axis ($$\hat{\mathbf r}\parallel \mathbf p$$)
+### On-axis: $$\hat{\mathbf r}\parallel \mathbf p$$
 
-If $$\hat{\mathbf r}$$ is parallel to $$\mathbf p$$, then $$\mathbf p\cdot\hat{\mathbf r}=p$$, so
+If $$\hat{\mathbf r}$$ is parallel to $$\mathbf p$$, then $$\mathbf p\cdot\hat{\mathbf r}=p$$, and
 
 $$
-\mathbf E = \frac{1}{4\pi\varepsilon_0}\frac{1}{r^3}\left(3p\hat{\mathbf z}-p\hat{\mathbf z}\right) = \frac{1}{4\pi\varepsilon_0}\frac{2p}{r^3}\hat{\mathbf z},
+\mathbf E=\frac{1}{4\pi\varepsilon_0}\frac{1}{r^3}\left(3p\hat{\mathbf z}-p\hat{\mathbf z}\right)
+=\frac{1}{4\pi\varepsilon_0}\frac{2p}{r^3}\hat{\mathbf z},
 $$
 
 which matches the on-axis result.
 
-### Equatorial ($$\mathbf p\cdot\hat{\mathbf r}=0$$)
+### Equatorial: $$\mathbf p\cdot\hat{\mathbf r}=0$$
 
 If the observation direction is perpendicular to $$\mathbf p$$, then $$\mathbf p\cdot\hat{\mathbf r}=0$$, so
 
 $$
-\mathbf E = -\frac{1}{4\pi\varepsilon_0}\frac{\mathbf p}{r^3}.
+\mathbf E=-\frac{1}{4\pi\varepsilon_0}\frac{\mathbf p}{r^3}.
 $$
 
 For $$\mathbf p=p\hat{\mathbf z}$$, this becomes
 
 $$
-\mathbf E = -\frac{1}{4\pi\varepsilon_0}\frac{p}{r^3}\hat{\mathbf z},
+\mathbf E=-\frac{1}{4\pi\varepsilon_0}\frac{p}{r^3}\hat{\mathbf z},
 $$
 
 which matches the equatorial result.
 
-## 8. Key takeaways
+## Takeaways
 
-- A physical dipole is a **two-charge system with zero net charge**, so the leading $$1/r^2$$ monopole term cancels.
-- The leading surviving term in the far field is the **dipole term**, which scales as
+A few points are worth keeping in mind:
+
+- A physical dipole has **zero net charge**, so the leading $$1/r^2$$ monopole field cancels.
+- The first nonzero far-field term is the **dipole field**, with characteristic scaling
   $$
-  \boxed{E \sim \frac{1}{r^3}}.
+  \boxed{E\sim \frac{1}{r^3}}.
   $$
-- The field depends on direction:
-  - strongest on-axis,
-  - weaker on the equatorial line,
-  - and in general given by the vector formula involving $$\mathbf p$$ and $$\hat{\mathbf r}$$.
+- The field is strongly directional: it is largest on-axis, smaller on the equatorial line, and in general determined by the projection $$\mathbf p\cdot\hat{\mathbf r}$$.
 
-## Optional note for students
+## A note for students: this is your first multipole expansion
 
-If you continue in electrostatics, this dipole result is the first example of a **multipole expansion**:
+This derivation is also a preview of a much broader idea in electromagnetism and mathematical physics: **multipole expansions**. At large distance, fields are organized into a hierarchy of terms,
 
 - monopole ($$1/r^2$$ field),
 - dipole ($$1/r^3$$ field),
 - quadrupole ($$1/r^4$$ field),
-- etc.
+- and so on.
 
-That hierarchy is extremely useful in physics because it tells us which terms dominate at large distance.
+That hierarchy is powerful because it tells us, almost immediately, which physical features of a source dominate at long range.
 
 ---
