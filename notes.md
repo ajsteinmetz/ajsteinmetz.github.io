@@ -37,6 +37,8 @@
 - 🎉 **Social & Fun:** [BlueSky](https://bsky.app/profile/ajsteinmetz.com) 🔗 [AstroBin](https://www.astrobin.com/users/djinn/) 🔗 [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect) 🔗 [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/)
 - **My Erdős number is 5.** [(Source)](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017)
 
+### About
+
 The name of this blog _"... a stubbornly persistent illusion."_ comes from Albert Einstein, who upon hearing of his dear friend Michele Besso's passing, wrote a letter to Besso's family which ended on the hopeful note: 
 
 > _"Now he has departed from this strange world a little ahead of me. That means nothing. People like us, who believe in physics, know that the distinction between past, present, and future is only a stubbornly persistent illusion."_
