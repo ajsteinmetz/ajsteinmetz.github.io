@@ -1,9 +1,3 @@
----
-layout: page
-title: Notes
-permalink: /notes/
----
-
 ## About 🔭
 
 ### Notes on Introductory Electricity and Magnetism
