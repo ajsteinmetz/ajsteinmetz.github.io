@@ -62,10 +62,10 @@ titles_from_headings:
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
 
-#collections:
-#  notes:
-#    output: true
-#    permalink: /notes/:path/
+collections:
+  notes:
+    output: true
+    permalink: /notes/:path/
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
