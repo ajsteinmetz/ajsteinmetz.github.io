@@ -37,7 +37,7 @@ plugins:
 # in order as they should show up.
 header_pages:
   - index.md
-  - about.md
+  - notes.md
   - publications.md
   - talks.md
   - teaching.md
