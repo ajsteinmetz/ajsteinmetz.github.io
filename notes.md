@@ -1,4 +1,4 @@
-## About 🔭
+## Physics Stuff 🔭
 
 ### Notes on Introductory Electricity and Magnetism
 <ul>
