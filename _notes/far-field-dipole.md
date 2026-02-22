@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Far-Field Electric Dipole"
+---
+
 # Far-Field Electric Dipole
 
 Let us derive the far-field electric field of a dipole starting directly from the superposition of two Coulomb fields in Cartesian form. The goal is to connect the exact field of two separated charges to the familiar ideal dipole result,
