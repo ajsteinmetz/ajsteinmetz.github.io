@@ -85,10 +85,10 @@ $$
 \frac{1}{(z-\tfrac{s}{2})^2}-\frac{1}{(z+\tfrac{s}{2})^2}=\frac{(z+\tfrac{s}{2})^2-(z-\tfrac{s}{2})^2}{\left(z^2-\tfrac{s^2}{4}\right)^2}.
 $$
 
-Now we simplify the numerator $$(z+\tfrac{s}{2})^2-(z-\tfrac{s}{2})^2=2zs$$ resulting in
+Now we simplify the numerator resulting in
 
 $$
-E_{\parallel}(z)=\frac{1}{4\pi\varepsilon_0}\,q\,\frac{2zs}{\left(z^2-\tfrac{s^2}{4}\right)^2}.
+(z+\tfrac{s}{2})^2-(z-\tfrac{s}{2})^2=2zs \quad\to\quad E_{\parallel}(z)=\frac{1}{4\pi\varepsilon_0}\,q\,\frac{2zs}{\left(z^2-\tfrac{s^2}{4}\right)^2}.
 $$
 
 ---
