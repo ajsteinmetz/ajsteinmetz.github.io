@@ -3,7 +3,7 @@ layout: page
 title: "Electric Dipole Field at (a,b): Cartesian Components"
 ---
 
-# Electric Dipole Field at $(a,b)$
+# Electric Dipole Field at $$(a,b)$$
 
 In the previous notes we considered the far-field expression for the electric field of an ideal dipole
 
@@ -21,7 +21,7 @@ for a dipole whose moment points along the $$x$$ direction.
 
 ---
 
-## Setup: dipole aligned with $\hat{\mathbf x}$
+## Setup: dipole aligned with $$\hat{\mathbf x}$$
 
 Consider an ideal dipole at the origin with dipole moment
 
@@ -63,7 +63,7 @@ To compute the field we therefore need
 
 ---
 
-## Computing the dot product $\mathbf p\cdot\mathbf r$
+## Computing the dot product $$\mathbf p\cdot\mathbf r$$
 
 With
 
@@ -103,7 +103,7 @@ We now extract the Cartesian components.
 
 ---
 
-## The $y$ component
+## The $$y$$ component
 
 The $$\hat{\mathbf y}$$ contribution comes only from the first term:
 
@@ -119,7 +119,7 @@ $$
 
 ---
 
-## The $x$ component
+## The $$x$$ component
 
 The $$\hat{\mathbf x}$$ component receives contributions from both terms:
 
@@ -153,7 +153,7 @@ $$
 
 ---
 
-## Final electric field at $(a,b)$
+## Final electric field at $$(a,b)$$
 
 Combining the two components,
 
@@ -169,15 +169,15 @@ If the system is embedded in three dimensions with $$z=0$$, then $$E_z=0$$.
 
 Two useful limits confirm that the result behaves as expected.
 
-### On the dipole axis ($b=0$)
+### On the dipole axis ($$b=0$$)
 
 $$
 \mathbf E=\frac{p}{4\pi\varepsilon_0}\frac{2}{a^3}\hat{\mathbf x}.
 $$
 
-This matches the familiar **on-axis dipole field**.
+This matches the familiar on-axis dipole field.
 
-### On the equatorial axis ($a=0$)
+### On the equatorial axis ($$a=0$$)
 
 $$
 \mathbf E=-\frac{p}{4\pi\varepsilon_0}\frac{1}{b^3}\hat{\mathbf x}.
@@ -242,16 +242,3 @@ This is the familiar dipole field in a plane containing the dipole axis. It make
 - the radial component is proportional to $$2\cos\theta$$,
 - the angular component is proportional to $$\sin\theta$$,
 - and the overall magnitude still falls as $$1/r^3$$.
-
----
-
-## Takeaways
-
-Evaluating the dipole field in Cartesian coordinates makes several features clear:
-
-- The dipole field varies as $$1/r^3$$.
-- The field components depend on both coordinates, not just distance.
-- The angular dependence of the dipole field is encoded in the factors $$2a^2-b^2$$ and $$3ab$$.
-- Rewriting the result in polar form shows direct agreement with the standard dipole-field expression in terms of $$\hat{\mathbf r}$$ and $$\hat{\boldsymbol\theta}$$.
-
-These Cartesian expressions are often useful when computing fields along coordinate axes or when comparing analytic results to numerical field plots.
