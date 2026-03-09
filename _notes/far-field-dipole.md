@@ -236,16 +236,3 @@ A few points are worth keeping in mind:
 This is the essential physical content of the far-field dipole approximation.
 
 ---
-
-## A note for students: this is your first multipole expansion
-
-This derivation is also a preview of a much broader idea in electromagnetism and mathematical physics. At large distance, fields are organized into a hierarchy of terms:
-
-- monopole,
-- dipole,
-- quadrupole,
-- and so on.
-
-Each successive term falls off more rapidly with distance. That hierarchy is powerful because it tells us, almost immediately, which features of a source dominate at long range. For a dipole, the monopole moment vanishes, so the dipole term becomes the leading contribution.
-
----
