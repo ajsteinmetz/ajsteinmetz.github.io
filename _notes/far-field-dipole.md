@@ -53,7 +53,7 @@ $$
 
 ### Exact field of the dipole
 
-By superposition, and letting $$\mathbf r_{\rm src}=\mathbf r_{\pm}$$, the total field is the vector sum of the fields of the two charges
+By superposition, and letting $$\mathbf r_{\rm src}=\mathbf r_{\pm}$$ and $\mathbf r_{\rm obs} \to \mathbf r$, the total field is the vector sum of the fields of the two charges
 
 $$
 \mathbf E(\mathbf r)=\frac{1}{4\pi\varepsilon_0}q\left(\frac{\mathbf r-\mathbf r_{+}}{|\mathbf r-\mathbf r_{+}|^3}-\frac{\mathbf r-\mathbf r_{-}}{|\mathbf r-\mathbf r_{-}|^3}\right).
