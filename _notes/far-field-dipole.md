@@ -112,7 +112,7 @@ $$
 
 Since $$s^2/z^2\ll 1$$, the leading term is simply[^4]
 
-[^4]: More explicitly, if $$u=s^2/(4z^2)$$, then $$(1-u)^{-2}=1+2u+3u^2+\cdots$$ for $$\abs u <1$$. Keeping only the leading term gives the far-field approximation used here.
+[^4]: More explicitly, if $$u=s^2/(4z^2)$$, then $$(1-u)^{-2}=1+2u+3u^2+\cdots$$ for $${\rm Abs}(u)<1$$. Keeping only the leading term gives the far-field approximation used here.
 
 $$
 \left(z^2-\tfrac{s^2}{4}\right)^{-2}\approx z^{-4}.
