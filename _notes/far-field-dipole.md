@@ -40,15 +40,14 @@ $$
 \mathbf r_{\rm obs}=(x,y,z), \qquad r_{\rm obs}=\sqrt{x^2+y^2+z^2}.
 $$
 
-We are interested in the far-field regime $$r\gg s$$, meaning that the observation distance is much larger than the charge separation. In that regime, the two charges are no longer resolved individually; instead, they act like a single effective object, namely an ideal dipole.
+We are interested in the far-field regime $$r_{\rm obs}\gg s$$, meaning that the observation distance is much larger than the charge separation. In that regime, the two charges are no longer resolved individually; instead, they act like a single effective object, namely an ideal dipole.
 
 ### Coulomb field of one point charge
 
 For a point charge $$q$$ located at position $$\mathbf r_{\rm src}$$, the electric field at the observation point $$\mathbf r_{\rm obs}$$ is
 
 $$
-\mathbf E(\mathbf r_{\rm obs})=\frac{1}{4\pi\varepsilon_0}\,
-q\,\frac{\mathbf r_{\rm obs}-\mathbf r_{\rm src}}{|\mathbf r_{\rm obs}-\mathbf r_{\rm src}|^3}.
+\mathbf E(\mathbf r_{\rm obs})=\frac{1}{4\pi\varepsilon_0}\,q\,\frac{\mathbf r_{\rm obs}-\mathbf r_{\rm src}}{|\mathbf r_{\rm obs}-\mathbf r_{\rm src}|^3}.
 $$
 
 ### Exact field of the dipole
@@ -59,7 +58,7 @@ $$
 \mathbf E(\mathbf r)=\frac{1}{4\pi\varepsilon_0}q\left(\frac{\mathbf r-\mathbf r_{+}}{|\mathbf r-\mathbf r_{+}|^3}-\frac{\mathbf r-\mathbf r_{-}}{|\mathbf r-\mathbf r_{-}|^3}\right).
 $$
 
-This expression is exact. The rest of the derivation is simply the careful extraction of its leading behavior when $$r\gg s$$.
+We note that this expression is exact. The rest of the derivation is simply the careful extraction of its leading behavior when $$r\gg s$$.
 
 ---
 
@@ -82,9 +81,7 @@ This already shows the basic mechanism: the contributions from the two charges a
 We put the two fractions over a common denominator, yielding
 
 $$
-\frac{1}{(z-\tfrac{s}{2})^2}-\frac{1}{(z+\tfrac{s}{2})^2}
-=
-\frac{(z+\tfrac{s}{2})^2-(z-\tfrac{s}{2})^2}{\left(z^2-\tfrac{s^2}{4}\right)^2}.
+\frac{1}{(z-\tfrac{s}{2})^2}-\frac{1}{(z+\tfrac{s}{2})^2}=\frac{(z+\tfrac{s}{2})^2-(z-\tfrac{s}{2})^2}{\left(z^2-\tfrac{s^2}{4}\right)^2}.
 $$
 
 Now we simplify the numerator, resulting in
@@ -118,9 +115,7 @@ $$
 Substituting this back into the field yields
 
 $$
-\mathbf E_{\parallel}(z)\approx\frac{1}{4\pi\varepsilon_0}\,q(2zs)z^{-4}\,\hat{\mathbf z}
-=
-\frac{1}{4\pi\varepsilon_0}\,\frac{2qs}{z^3}\,\hat{\mathbf z}.
+\mathbf E_{\parallel}(z)\approx\frac{1}{4\pi\varepsilon_0}\,q(2zs)z^{-4}\,\hat{\mathbf z}=\frac{1}{4\pi\varepsilon_0}\,\frac{2qs}{z^3}\,\hat{\mathbf z}.
 $$
 
 We now define the dipole moment magnitude as $$p\equiv qs$$. Then the far-field result on the axis becomes
@@ -144,13 +139,7 @@ $$
 For the two charges, the displacement vectors are
 
 $$
-\mathbf r-\mathbf r_{\pm}=x\hat{\mathbf x}\mp \frac{s}{2}\hat{\mathbf z},
-$$
-
-and both have the same squared magnitude,
-
-$$
-|\mathbf r-\mathbf r_{\pm}|^2=x^2+\frac{s^2}{4}.
+\mathbf r-\mathbf r_{\pm}=x\hat{\mathbf x}\mp \frac{s}{2}\hat{\mathbf z},\qquad |\mathbf r-\mathbf r_{\pm}|^2=x^2+\frac{s^2}{4}
 $$
 
 It is convenient to define
@@ -198,51 +187,8 @@ $$
 So the far-field equatorial result is
 
 $$
-\boxed{\mathbf E_{\perp}\approx-\frac{1}{4\pi\varepsilon_0}\frac{qs}{x^3}\hat{\mathbf z}
-=-\frac{1}{4\pi\varepsilon_0}\frac{p}{r^3}\hat{\mathbf z}} \qquad (r\gg s,\ \text{equatorial}).
+\boxed{\mathbf E_{\perp}\approx-\frac{1}{4\pi\varepsilon_0}\frac{qs}{x^3}\hat{\mathbf z}=-\frac{1}{4\pi\varepsilon_0}\frac{p}{r^3}\hat{\mathbf z}} \qquad (r\gg s,\ \text{equatorial}).
 $$
-
----
-
-## Comparing the two special cases
-
-Both directions have the same distance scaling,
-
-$$
-E\sim \frac{1}{r^3},
-$$
-
-but the numerical coefficient differs. On the axis the magnitude is
-
-$$
-\frac{2p}{4\pi\varepsilon_0 r^3},
-$$
-
-whereas on the equatorial line the magnitude is
-
-$$
-\frac{p}{4\pi\varepsilon_0 r^3}.
-$$
-
-So at the same distance, the on-axis field is twice the equatorial field in magnitude. This already shows that the dipole field is not just weaker than a Coulomb field at long distance; it is also strongly anisotropic.
-
----
-
-## The general far-field dipole field
-
-We now summarize the result in its standard vector form. Define the dipole moment vector, pointing from $$-q$$ to $$+q$$, as
-
-$$
-\mathbf p = qs\hat{\mathbf z}.
-$$
-
-Then for a general observation direction $$\hat{\mathbf r}=\mathbf r/r$$, the leading far-field term is
-
-$$
-\boxed{\mathbf E(\mathbf r)\approx\frac{1}{4\pi\varepsilon_0}\frac{1}{r^3}\left[3(\mathbf p\cdot\hat{\mathbf r})\hat{\mathbf r}-\mathbf p\right]} \qquad (r\gg s).
-$$
-
-This compact form reproduces both special cases and makes the angular dependence explicit through the projection $$\mathbf p\cdot\hat{\mathbf r}$$.
 
 ---
 
@@ -255,9 +201,7 @@ It is worth verifying that the general formula reproduces the two special cases 
 If $$\hat{\mathbf r}$$ is parallel to $$\mathbf p$$, then $$\mathbf p\cdot\hat{\mathbf r}=p$$, and
 
 $$
-\mathbf E=\frac{1}{4\pi\varepsilon_0}\frac{1}{r^3}\left(3p\hat{\mathbf z}-p\hat{\mathbf z}\right)
-=
-\frac{1}{4\pi\varepsilon_0}\frac{2p}{r^3}\hat{\mathbf z},
+\mathbf E=\frac{1}{4\pi\varepsilon_0}\frac{1}{r^3}\left(3p\hat{\mathbf z}-p\hat{\mathbf z}\right)=\frac{1}{4\pi\varepsilon_0}\frac{2p}{r^3}\hat{\mathbf z},
 $$
 
 which matches the on-axis result.
@@ -286,9 +230,7 @@ A few points are worth keeping in mind:
 
 - A physical dipole has zero net charge, so the leading $$1/r^2$$ monopole field cancels.
 - The first nonzero far-field term is the dipole field, with characteristic scaling
-  $$
-  \boxed{E\sim \frac{1}{r^3}}.
-  $$
+  $$\boxed{E\sim \frac{1}{r^3}}.$$
 - The field is strongly directional: it is largest on-axis, smaller on the equatorial line, and in general determined by the projection $$\mathbf p\cdot\hat{\mathbf r}$$.
 
 This is the essential physical content of the far-field dipole approximation.
