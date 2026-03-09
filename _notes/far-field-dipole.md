@@ -11,13 +11,13 @@ $$
 \boxed{\mathbf E(\mathbf r)\approx \frac{1}{4\pi\varepsilon_0}\frac{1}{r^3}\left[3(\mathbf p\cdot\hat{\mathbf r})\hat{\mathbf r}-\mathbf p\right]} \qquad (r\gg s).
 $$
 
-This formula is compact, but it hides a great deal of structure[^1]. It tells us that
+This formula is compact, but it hides a great deal of structure.[^1] It tells us that
 
 - the field falls off as $$1/r^3$$ rather than $$1/r^2$$,
 - the field depends strongly on direction,
 - and the dipole moment $$\mathbf p$$ is the quantity that controls the leading far-field behavior.
 
-[^1]: This is also an example of multipole expansion. At large distance, the field of a localized charge distribution is organized into a hierarchy: monopole, dipole, quadrupole, and so on. The dipole term is the first nonzero term when the total charge vanishes.
+[^1]: This is also an example of a multipole expansion. At large distance, the field of a localized charge distribution is organized into a hierarchy: monopole, dipole, quadrupole, and so on. The dipole term is the first nonzero contribution when the total charge vanishes.
 
 In this derivation we will build two special cases of that result directly from the superposition of the Coulomb fields of two point charges. Specifically, we will examine:
 
@@ -70,13 +70,17 @@ $$
 \mathbf r=z\hat{\mathbf z}, \qquad z\gg s.
 $$
 
-By symmetry, the field must point purely in the $$\hat{\mathbf z}$$ direction. So it is enough to compute the scalar axial component. Using the exact superposition formula, we obtain
+By symmetry, the field must point purely in the $$\hat{\mathbf z}$$ direction.[^2] So it is enough to compute the scalar axial component. Using the exact superposition formula, we obtain
+
+[^2]: On the dipole axis there is no preferred transverse direction, so any $$x$$- or $$y$$-component would violate rotational symmetry about the $$z$$-axis. The field therefore must lie along $$\hat{\mathbf z}$$.
 
 $$
 E_{\parallel}(z)=\frac{1}{4\pi\varepsilon_0}q\left[\frac{1}{(z-\tfrac{s}{2})^2}-\frac{1}{(z+\tfrac{s}{2})^2}\right].
 $$
 
-This already shows the basic mechanism: the contributions from the two charges are nearly equal at large distance, but not exactly equal. That slight mismatch is what survives as the dipole field.
+This already shows the basic mechanism: the contributions from the two charges are nearly equal at large distance, but not exactly equal. That slight mismatch is what survives as the dipole field.[^3]
+
+[^3]: At large distance, each charge produces a field of order $$1/r^2$$. Because the charges are equal and opposite, those leading contributions cancel. The first nonvanishing remainder is smaller by one power of distance, giving the characteristic dipole scaling $$1/r^3$$.
 
 We put the two fractions over a common denominator, yielding
 
@@ -106,7 +110,9 @@ $$
 \left(z^2-\tfrac{s^2}{4}\right)^{-2}=z^{-4}\left(1-\frac{s^2}{4z^2}\right)^{-2}.
 $$
 
-Since $$s^2/z^2\ll 1$$, the leading term is simply
+Since $$s^2/z^2\ll 1$$, the leading term is simply[^4]
+
+[^4]: More explicitly, if $$u=s^2/(4z^2)$$, then $$(1-u)^{-2}=1+2u+3u^2+\cdots$$ for $$|u|<1$$. Keeping only the leading term gives the far-field approximation used here.
 
 $$
 \left(z^2-\tfrac{s^2}{4}\right)^{-2}\approx z^{-4}.
@@ -160,7 +166,9 @@ $$
 \mathbf E(x)=-\frac{1}{4\pi\varepsilon_0}\frac{qs}{R^3}\hat{\mathbf z}.
 $$
 
-The minus sign is physically meaningful: on the equatorial line, the field points opposite to the dipole moment direction.
+The minus sign is physically meaningful: on the equatorial line, the field points opposite to the dipole moment direction.[^5]
+
+[^5]: The dipole moment points from $$-q$$ to $$+q$$. On the equatorial line, the horizontal components of the two Coulomb fields cancel, while the vertical components add in the direction opposite to $$\mathbf p$$.
 
 ---
 
@@ -229,8 +237,7 @@ which matches the equatorial result.
 A few points are worth keeping in mind:
 
 - A physical dipole has zero net charge, so the leading $$1/r^2$$ monopole field cancels.
-- The first nonzero far-field term is the dipole field, with characteristic scaling
-  $$\boxed{E\sim \frac{1}{r^3}}.$$
+- The first nonzero far-field term is the dipole field, with characteristic scaling $$E\sim 1/r^3$$.
 - The field is strongly directional: it is largest on-axis, smaller on the equatorial line, and in general determined by the projection $$\mathbf p\cdot\hat{\mathbf r}$$.
 
 This is the essential physical content of the far-field dipole approximation.
