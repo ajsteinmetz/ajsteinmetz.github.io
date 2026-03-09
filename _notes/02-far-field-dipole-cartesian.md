@@ -89,9 +89,10 @@ $$
 r^3=(a^2+b^2)^{3/2}, \qquad r^5=(a^2+b^2)^{5/2}.
 $$
 
+
 ---
 
-## Substituting into the dipole field expression
+## The $$x$$ and $$y$$ components
 
 Insert $$\mathbf p\cdot\mathbf r = pa$$ and $$\mathbf r=a\hat{\mathbf x}+b\hat{\mathbf y}$$ into the general formula:
 
@@ -99,47 +100,31 @@ $$
 \mathbf E(a,b)=\frac{1}{4\pi\varepsilon_0}\left[\frac{3(pa)(a\hat{\mathbf x}+b\hat{\mathbf y})}{(a^2+b^2)^{5/2}}-\frac{p\hat{\mathbf x}}{(a^2+b^2)^{3/2}}\right].
 $$
 
-We now extract the Cartesian components.
-
----
-
-## The $$y$$ component
-
-The $$\hat{\mathbf y}$$ contribution comes only from the first term:
-
-$$
-E_y(a,b)=\frac{1}{4\pi\varepsilon_0}\frac{3pa\,b}{(a^2+b^2)^{5/2}}.
-$$
-
-Thus
+We now extract the Cartesian components. The $$\hat{\mathbf y}$$ contribution comes only from the first term
 
 $$
 \boxed{E_y(a,b)=\frac{p}{4\pi\varepsilon_0}\frac{3ab}{(a^2+b^2)^{5/2}}}.
 $$
 
----
-
-## The $$x$$ component
-
-The $$\hat{\mathbf x}$$ component receives contributions from both terms:
+The $$\hat{\mathbf x}$$ component receives contributions from both terms
 
 $$
 E_x(a,b)=\frac{1}{4\pi\varepsilon_0}\left[\frac{3pa\,a}{(a^2+b^2)^{5/2}}-\frac{p}{(a^2+b^2)^{3/2}}\right].
 $$
 
-Factor out $$p/(4\pi\varepsilon_0)$$:
+Factor out $$p/(4\pi\varepsilon_0)$$ yeilding
 
 $$
 E_x(a,b)=\frac{p}{4\pi\varepsilon_0}\left[\frac{3a^2}{(a^2+b^2)^{5/2}}-\frac{1}{(a^2+b^2)^{3/2}}\right].
 $$
 
-To combine the terms, rewrite the second denominator:
+To combine the terms, we rewrite the second denominator which gives
 
 $$
 \frac{1}{(a^2+b^2)^{3/2}}=\frac{a^2+b^2}{(a^2+b^2)^{5/2}}.
 $$
 
-Substitute this into the expression:
+Substitute this into the expression
 
 $$
 E_x(a,b)=\frac{p}{4\pi\varepsilon_0}\frac{3a^2-(a^2+b^2)}{(a^2+b^2)^{5/2}}.
@@ -150,18 +135,6 @@ Simplifying the numerator gives
 $$
 \boxed{E_x(a,b)=\frac{p}{4\pi\varepsilon_0}\frac{2a^2-b^2}{(a^2+b^2)^{5/2}}}.
 $$
-
----
-
-## Final electric field at $$(a,b)$$
-
-Combining the two components,
-
-$$
-\boxed{\mathbf E(a,b)=E_x\,\hat{\mathbf x}+E_y\,\hat{\mathbf y}=\frac{p}{4\pi\varepsilon_0}\frac{(2a^2-b^2)\hat{\mathbf x}+(3ab)\hat{\mathbf y}}{(a^2+b^2)^{5/2}}}.
-$$
-
-If the system is embedded in three dimensions with $$z=0$$, then $$E_z=0$$.
 
 ---
 
@@ -242,3 +215,5 @@ This is the familiar dipole field in a plane containing the dipole axis. It make
 - the radial component is proportional to $$2\cos\theta$$,
 - the angular component is proportional to $$\sin\theta$$,
 - and the overall magnitude still falls as $$1/r^3$$.
+
+---
