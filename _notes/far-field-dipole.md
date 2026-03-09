@@ -8,11 +8,7 @@ title: "Far-Field Electric Dipole"
 The electric field of a single point charge falls off as $$1/r^2$$. But many important charge distributions have zero net charge, so the leading Coulomb (monopole) term cancels. The simplest and most important example is the electric dipole. For an ideal dipole with dipole moment $$\mathbf p$$, the far-field electric field is
 
 $$
-\boxed{
-\mathbf E(\mathbf r)\approx \frac{1}{4\pi\varepsilon_0}\frac{1}{r^3}
-\left[3(\mathbf p\cdot\hat{\mathbf r})\hat{\mathbf r}-\mathbf p\right]
-}
-\qquad (r\gg s).
+\boxed{\mathbf E(\mathbf r)\approx \frac{1}{4\pi\varepsilon_0}\frac{1}{r^3}\left[3(\mathbf p\cdot\hat{\mathbf r})\hat{\mathbf r}-\mathbf p\right]} \qquad (r\gg s).
 $$
 
 This formula is compact, but it hides a great deal of structure[^1]. It tells us that
@@ -21,7 +17,7 @@ This formula is compact, but it hides a great deal of structure[^1]. It tells us
 - the field depends strongly on direction,
 - and the dipole moment $$\mathbf p$$ is the quantity that controls the leading far-field behavior.
 
-[^1]: This is also your first real example of a multipole expansion. At large distance, the field of a localized charge distribution is organized into a hierarchy: monopole, dipole, quadrupole, and so on. The dipole term is the first nonzero term when the total charge vanishes.
+[^1]: This is also an example of multipole expansion. At large distance, the field of a localized charge distribution is organized into a hierarchy: monopole, dipole, quadrupole, and so on. The dipole term is the first nonzero term when the total charge vanishes.
 
 In this derivation we will build two special cases of that result directly from the superposition of the Coulomb fields of two point charges. Specifically, we will examine:
 
@@ -35,9 +31,7 @@ In this derivation we will build two special cases of that result directly from 
 Consider a physical dipole made from two point charges $$+q$$ and $$-q$$ separated by a distance $$s$$, centered at the origin, and aligned along the $$z$$-axis. Their positions are
 
 $$
-\mathbf r_{+}=\frac{s}{2}\hat{\mathbf z},
-\qquad
-\mathbf r_{-}=-\frac{s}{2}\hat{\mathbf z}.
+\mathbf r_{+}=\frac{s}{2}\hat{\mathbf z}, \qquad \mathbf r_{-}=-\frac{s}{2}\hat{\mathbf z}.
 $$
 
 Let the observation point be
@@ -50,29 +44,22 @@ We are interested in the far-field regime $$r\gg s$$, meaning that the observati
 
 ### Coulomb field of one point charge
 
-For a point charge $$q$$ located at position $$\mathbf r_{\rm src}$$, the electric field at the observation point $$\mathbf r$$ is
+For a point charge $$q$$ located at position $$\mathbf r_{\rm src}$$, the electric field at the observation point $$\mathbf r_{\rm obs}$$ is
 
 $$
-\mathbf E(\mathbf r)=\frac{1}{4\pi\varepsilon_0}\,
-q\,\frac{\mathbf r-\mathbf r_{\rm src}}{|\mathbf r-\mathbf r_{\rm src}|^3}.
+\mathbf E(\mathbf r_{\rm obs})=\frac{1}{4\pi\varepsilon_0}\,
+q\,\frac{\mathbf r_{\rm obs}-\mathbf r_{\rm src}}{|\mathbf r_{\rm obs}-\mathbf r_{\rm src}|^3}.
 $$
 
 ### Exact field of the dipole
 
-By superposition, the total field is the vector sum of the fields of the two charges:
+By superposition, and letting $$\mathbf r_{\rm src}=\mathbf r_{\pm}$$, the total field is the vector sum of the fields of the two charges
 
 $$
-\mathbf E(\mathbf r)=
-\frac{1}{4\pi\varepsilon_0}q
-\left(
-\frac{\mathbf r-\mathbf r_{+}}{|\mathbf r-\mathbf r_{+}|^3}
--
-\frac{\mathbf r-\mathbf r_{-}}{|\mathbf r-\mathbf r_{-}|^3}
-\right).
+\mathbf E(\mathbf r)=\frac{1}{4\pi\varepsilon_0}q\left(\frac{\mathbf r-\mathbf r_{+}}{|\mathbf r-\mathbf r_{+}|^3}-\frac{\mathbf r-\mathbf r_{-}}{|\mathbf r-\mathbf r_{-}|^3}\right).
 $$
 
-This expression is exact. The rest of the derivation is simply the careful extraction
-of its leading behavior when $$r\gg s$$.
+This expression is exact. The rest of the derivation is simply the careful extraction of its leading behavior when $$r\gg s$$.
 
 ---
 
@@ -81,63 +68,37 @@ of its leading behavior when $$r\gg s$$.
 We first place the observation point on the dipole axis, so that
 
 $$
-\mathbf r=z\hat{\mathbf z},
-\qquad z\gg s.
+\mathbf r=z\hat{\mathbf z}, \qquad z\gg s.
 $$
 
-By symmetry, the field must point purely in the $$\hat{\mathbf z}$$ direction.
-So it is enough to compute the scalar axial component.
-
-Using the exact superposition formula, we obtain
+By symmetry, the field must point purely in the $$\hat{\mathbf z}$$ direction. So it is enough to compute the scalar axial component. Using the exact superposition formula, we obtain
 
 $$
-E_{\parallel}(z)=
-\frac{1}{4\pi\varepsilon_0}q
-\left[
-\frac{1}{(z-\tfrac{s}{2})^2}
--
-\frac{1}{(z+\tfrac{s}{2})^2}
-\right].
+E_{\parallel}(z)=\frac{1}{4\pi\varepsilon_0}q\left[\frac{1}{(z-\tfrac{s}{2})^2}-\frac{1}{(z+\tfrac{s}{2})^2}\right].
 $$
 
-This already shows the basic mechanism: the contributions from the two charges are nearly
-equal at large distance, but not exactly equal. That slight mismatch is what survives.
+This already shows the basic mechanism: the contributions from the two charges are nearly equal at large distance, but not exactly equal. That slight mismatch is what survives as the dipole field.
 
-### Combine the two terms
-
-Put the two fractions over a common denominator:
+We put the two fractions over a common denominator yeilding
 
 $$
-\frac{1}{(z-\tfrac{s}{2})^2}-\frac{1}{(z+\tfrac{s}{2})^2}
-=
-\frac{(z+\tfrac{s}{2})^2-(z-\tfrac{s}{2})^2}
-{\left(z^2-\tfrac{s^2}{4}\right)^2}.
+\frac{1}{(z-\tfrac{s}{2})^2}-\frac{1}{(z+\tfrac{s}{2})^2}=\frac{(z+\tfrac{s}{2})^2-(z-\tfrac{s}{2})^2}{\left(z^2-\tfrac{s^2}{4}\right)^2}.
 $$
 
-Now simplify the numerator:
+Now we simplify the numerator $$(z+\tfrac{s}{2})^2-(z-\tfrac{s}{2})^2=2zs$$ resulting in
 
 $$
-(z+\tfrac{s}{2})^2-(z-\tfrac{s}{2})^2=2zs.
-$$
-
-Therefore,
-
-$$
-E_{\parallel}(z)=
-\frac{1}{4\pi\varepsilon_0}\,
-q\,\frac{2zs}{\left(z^2-\tfrac{s^2}{4}\right)^2}.
+E_{\parallel}(z)=\frac{1}{4\pi\varepsilon_0}\,q\,\frac{2zs}{\left(z^2-\tfrac{s^2}{4}\right)^2}.
 $$
 
 ---
 
 ## Far-field expansion on the axis
 
-Now use the assumption $$z\gg s$$. Rewrite the denominator as
+Now use the assumption $$z\gg s$$. We can rewrite the denominator as
 
 $$
-\left(z^2-\tfrac{s^2}{4}\right)^{-2}
-=
-z^{-4}\left(1-\frac{s^2}{4z^2}\right)^{-2}.
+\left(z^2-\tfrac{s^2}{4}\right)^{-2}=z^{-4}\left(1-\frac{s^2}{4z^2}\right)^{-2}.
 $$
 
 Since $$s^2/z^2\ll 1$$, the leading term is simply
@@ -146,39 +107,19 @@ $$
 \left(z^2-\tfrac{s^2}{4}\right)^{-2}\approx z^{-4}.
 $$
 
-Substitute this back into the field:
+Substitute this back into the field yeilds
 
 $$
-\mathbf E_{\parallel}(z)
-\approx
-\frac{1}{4\pi\varepsilon_0}\,
-q(2zs)z^{-4}\,\hat{\mathbf z}
-=
-\frac{1}{4\pi\varepsilon_0}\,
-\frac{2qs}{z^3}\,\hat{\mathbf z}.
+\mathbf E_{\parallel}(z)\approx\frac{1}{4\pi\varepsilon_0}\,q(2zs)z^{-4}\,\hat{\mathbf z}=\frac{1}{4\pi\varepsilon_0}\,\frac{2qs}{z^3}\,\hat{\mathbf z}.
 $$
 
-Now define the dipole moment magnitude
+We now define the dipole moment magnitude as $$p\equiv qs$$. Then the far-field result on the axis becomes
 
 $$
-p\equiv qs.
+\boxed{\mathbf E_{\parallel}\approx\frac{1}{4\pi\varepsilon_0}\,\frac{2p}{r^3}\,\hat{\mathbf z}} \qquad (r\gg s,\ \text{on-axis}).
 $$
 
-Then the far-field result on the axis becomes
-
-$$
-\boxed{
-\mathbf E_{\parallel}
-\approx
-\frac{1}{4\pi\varepsilon_0}\,
-\frac{2p}{r^3}\,\hat{\mathbf z}
-}
-\qquad
-(r\gg s,\ \text{on-axis}).
-$$
-
-This is our first clear appearance of dipole behavior: the field scales as $$1/r^3$$.
-The reason is that the total charge is zero, so the monopole $$1/r^2$$ term cancels.
+This is our first clear appearance of dipole behavior: the field scales as $$1/r^3$$. The reason is that the total charge is zero, so the monopole $$1/r^2$$ term cancels.
 
 ---
 
