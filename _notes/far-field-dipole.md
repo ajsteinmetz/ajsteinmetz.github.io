@@ -5,14 +5,7 @@ title: "Far-Field Electric Dipole"
 
 # Far-Field Electric Dipole
 
-## What we are trying to explain
-
-The electric field of a single point charge falls off as $$1/r^2$$.  
-But many important charge distributions have **zero net charge**, so the leading Coulomb
-(monopole) term cancels. The simplest and most important example is the
-**electric dipole**.
-
-For an ideal dipole with dipole moment $$\mathbf p$$, the far-field electric field is
+The electric field of a single point charge falls off as $$1/r^2$$. But many important charge distributions have zero net charge, so the leading Coulomb (monopole) term cancels. The simplest and most important example is the electric dipole. For an ideal dipole with dipole moment $$\mathbf p$$, the far-field electric field is
 
 $$
 \boxed{
@@ -22,35 +15,24 @@ $$
 \qquad (r\gg s).
 $$
 
-This formula is compact, but it hides a great deal of structure. It tells us that
+This formula is compact, but it hides a great deal of structure[^1]. It tells us that
 
 - the field falls off as $$1/r^3$$ rather than $$1/r^2$$,
 - the field depends strongly on direction,
 - and the dipole moment $$\mathbf p$$ is the quantity that controls the leading far-field behavior.
 
-In this derivation we will build that result directly from the superposition of the
-Coulomb fields of two point charges. We will first examine two especially important
-directions:
+[^1]: This is also your first real example of a multipole expansion. At large distance, the field of a localized charge distribution is organized into a hierarchy: monopole, dipole, quadrupole, and so on. The dipole term is the first nonzero term when the total charge vanishes.
+
+In this derivation we will build two special cases of that result directly from the superposition of the Coulomb fields of two point charges. Specifically, we will examine:
 
 - **on-axis** (parallel to the dipole moment),
 - **equatorial** (perpendicular to the dipole moment),
-
-and then summarize the result in the standard vector form.
-
-> **Remark.**  
-> This is also your first real example of a **multipole expansion**.  
-> At large distance, the field of a localized charge distribution is organized into a hierarchy:
-> monopole, dipole, quadrupole, and so on. The dipole term is the first nonzero term
-> when the total charge vanishes.
 
 ---
 
 ## Setup: a physical dipole and Coulomb superposition
 
-Consider a **physical dipole** made from two point charges $$+q$$ and $$-q$$ separated by
-a distance $$s$$, centered at the origin, and aligned along the $$z$$-axis.
-
-Their positions are
+Consider a physical dipole made from two point charges $$+q$$ and $$-q$$ separated by a distance $$s$$, centered at the origin, and aligned along the $$z$$-axis. Their positions are
 
 $$
 \mathbf r_{+}=\frac{s}{2}\hat{\mathbf z},
@@ -61,29 +43,18 @@ $$
 Let the observation point be
 
 $$
-\mathbf r=(x,y,z),
-\qquad
-r=\sqrt{x^2+y^2+z^2}.
+\mathbf{r}_{\rm obs}=(x,y,z), \qquad r_{\rm obs}=\sqrt{x^2+y^2+z^2}.
 $$
 
-We are interested in the **far-field regime**
-
-$$
-r\gg s,
-$$
-
-meaning that the observation distance is much larger than the charge separation.
-In that regime, the two charges are no longer resolved individually; instead, they act
-like a single effective object, namely an ideal dipole.
+We are interested in the far-field regime $$r\gg s$$, meaning that the observation distance is much larger than the charge separation. In that regime, the two charges are no longer resolved individually; instead, they act like a single effective object, namely an ideal dipole.
 
 ### Coulomb field of one point charge
 
-For a point charge $$q$$ located at position $$\mathbf r_0$$, the electric field at the
-observation point $$\mathbf r$$ is
+For a point charge $$q$$ located at position $$\mathbf r_{\rm src}$$, the electric field at the observation point $$\mathbf r$$ is
 
 $$
 \mathbf E(\mathbf r)=\frac{1}{4\pi\varepsilon_0}\,
-q\,\frac{\mathbf r-\mathbf r_0}{|\mathbf r-\mathbf r_0|^3}.
+q\,\frac{\mathbf r-\mathbf r_{\rm src}}{|\mathbf r-\mathbf r_{\rm src}|^3}.
 $$
 
 ### Exact field of the dipole
