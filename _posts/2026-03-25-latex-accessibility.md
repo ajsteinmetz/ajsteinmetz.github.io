@@ -16,7 +16,7 @@ From reviewing the current landscape, I think of the available options as fallin
 1. **Make LaTeX-generated PDFs more accessible**, primarily through PDF tagging and related metadata.
 2. **Move away from PDF-first workflows** and instead render LaTeX source into more output-agnostic formats such as HTML, EPUB, web pages, or other digital-first formats.
 
-This page collects resources I have found useful while exploring both paths.
+This page collects resources I have found useful while exploring both paths and then I complain at the end -- which is only fitting.
 
 ---
 
