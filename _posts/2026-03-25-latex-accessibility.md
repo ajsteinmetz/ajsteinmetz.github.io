@@ -9,12 +9,12 @@ tags: latex accesibility education
 
 ## Accessibility for LaTeX-Based Teaching
 
-On April 26, 2026, we are required as educators to comply with the [new ADA Title II standards](https://digitalaccess.gatech.edu/title-ii/requirements) which adhere to [Web Content Accessibility Guidelines (WCAG) 2.1 Level AA](https://www.w3.org/TR/WCAG21/). I regularly prepare mathematical and physics-heavy teaching materials using GitHub, Overleaf, and LaTeX. Because these documents often contain substantial mathematical notation, accessibility requires some extra care.
+On April 24, 2026, we are required as educators to comply with the [new ADA Title II standards](https://digitalaccess.gatech.edu/title-ii/requirements) which adhere to [Web Content Accessibility Guidelines (WCAG) 2.1 Level AA](https://www.w3.org/TR/WCAG21/). I regularly prepare mathematical and physics-heavy teaching materials using GitHub, Overleaf, and LaTeX. Because these documents often contain substantial mathematical notation, accessibility requires some extra care.
 
 From reviewing the current landscape, I think of the available options as falling into two broad branches:
 
 1. Make LaTeX-generated PDFs more accessible, primarily through PDF tagging and related metadata.
-2. Move away from PDF-first workflows and instead render LaTeX source into more output-agnostic formats such as HTML, EPUB, markdown web pages.
+2. Move away from PDF-first workflows and instead render LaTeX source into more output-agnostic formats such as HTML, EPUB, markdown webpages.
 
 This page collects resources I have found useful while exploring both paths and then I complain at the end -- which is only fitting.
 
@@ -43,7 +43,7 @@ My present impression is that this is a promising and rapidly improving area, bu
 
 ### Notes on slides and presentations
 
-Traditional `beamer` for LaTeX generated slides is not and will never be supported for PDF Tagging and accessibility. A newer alternative is:
+Traditional `beamer` for LaTeX generated slides is not and [likely will never be supported](https://www.texdev.net/2025/02/28/the-tagging-project-and-beamer) for PDF Tagging and accessibility. A newer alternative is:
 
 - <a href="https://ctan.org/pkg/ltx-talk">`ltx-talk`</a> -- a newer LaTeX class aimed at presentation with accessibility/tagging in mind
 
@@ -98,14 +98,14 @@ At the moment, I think both branches are worth tracking:
 
 Because this area is changing quickly, I expect many of the tools and recommendations above to improve over time. At the moment, none of these are a **silver bullet** approach and requires significant heavy-lifting from faculty often with limited direct institutional support. I'm mostly seeing lots of workshops and faculty-led resources being generated.
 
-Just a quick glance at the discourse surrounding this does not paint a rosey picture:
+Just a quick glance at the discourse surrounding this does not paint a rosy picture:
 
 - [Accessibility Real Talk](https://www.reddit.com/r/Professors/comments/1qykci5/accessibility_real_talk/)
 - [New Federal Accessibility Requirements](https://www.reddit.com/r/Professors/comments/1qcqf6v/new_federal_accessibility_requirements/)
 - [Title II Accessibility Thoughts](https://www.reddit.com/r/Professors/comments/1px0jxw/title_ii_accessibility_thoughts/)
 - [New ADA Law Forces Professors to Take Down Their Notes](https://www.reddit.com/r/math/comments/1ryh7md/new_ada_law_forces_professors_to_take_down_their/)
 
-There's a big risk these requirements *degrade* our current instructional materials for students and push us further into just using big publisher materials rather than bespoke content which uses our unique expertise. To quote a commonn response:
+There's a big risk these requirements *degrade* our current instructional materials for students and push us further into just using big publisher materials rather than bespoke content which uses our unique expertise. To quote a common response:
 
 > Instructors at my school are responding to this largely by just not posting notes anymore. One writes all of his notes and mark down and then posts them, which seems like a lot of work.
 
