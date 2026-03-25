@@ -1,13 +1,13 @@
 ---
 
 layout: post
-title: "Accessibility Resources for LaTeX-Based Teaching Materials"
+title: "Accessibility for LaTeX-Based Teaching"
 categories: mathematics
 tags: latex accesibility education
 ---
 
 
-## Accessibility Resources for LaTeX-Based Teaching Materials
+## Accessibility for LaTeX-Based Teaching
 
 On April 26, 2026, we are required as educators to comply with the [new ADA Title II standards](https://digitalaccess.gatech.edu/title-ii/requirements) which adhere to [Web Content Accessibility Guidelines (WCAG) 2.1 Level AA](https://www.w3.org/TR/WCAG21/). I regularly prepare mathematical and physics-heavy teaching materials using GitHub, Overleaf, and LaTeX. Because these documents often contain substantial mathematical notation, accessibility requires some extra care.
 
@@ -45,7 +45,7 @@ My present impression is that this is a promising and rapidly improving area, bu
 
 Traditional `beamer` for LaTeX generated slides is not and will never be supported for PDF Tagging and accessibility. A newer alternative is:
 
-- <a href="https://ctan.org/pkg/ltx-talk">`ltx-talk`</a> -- a newer LaTeX class aimed at presentation workflows with accessibility/tagging in mind
+- <a href="https://ctan.org/pkg/ltx-talk">`ltx-talk`</a> -- a newer LaTeX class aimed at presentation with accessibility/tagging in mind
 
 If I revisit slide creation for accessibility in the future, this is likely where I would start rather than with beamer.
 
@@ -73,7 +73,7 @@ For me, this may eventually become the preferred long-term direction: writing no
 
 ### Why this direction is attractive
 
-A web-first or output-agnostic workflow can make it easier to support:
+A web-first or output-agnostic approach can make it easier to support:
 
 - screen readers
 - variable screen sizes
@@ -81,7 +81,7 @@ A web-first or output-agnostic workflow can make it easier to support:
 - web publication
 - alternate export formats such as HTML, EPUB, or notebooks
 
-A future version of my own workflow may involve converting course notes into a GitHub-hosted website rather than distributing PDF alone.
+I personally have been converting course notes into a GitHub-hosted website rather than distributing PDF alone.
 
 ### AI-assisted conversion
 
@@ -100,17 +100,17 @@ Because this area is changing quickly, I expect many of the tools and recommenda
 
 Just a quick glance at the discourse surrounding this does not paint a rosey picture:
 
-- https://www.reddit.com/r/Professors/comments/1qykci5/accessibility_real_talk/
-- https://www.reddit.com/r/Professors/comments/1qcqf6v/new_federal_accessibility_requirements/
-- https://www.reddit.com/r/Professors/comments/1px0jxw/title_ii_accessibility_thoughts/
-- https://www.reddit.com/r/math/comments/1ryh7md/new_ada_law_forces_professors_to_take_down_their/
+- [Accessibility Real Talk](https://www.reddit.com/r/Professors/comments/1qykci5/accessibility_real_talk/)
+- [New Federal Accessibility Requirements](https://www.reddit.com/r/Professors/comments/1qcqf6v/new_federal_accessibility_requirements/)
+- [Title II Accessibility Thoughts](https://www.reddit.com/r/Professors/comments/1px0jxw/title_ii_accessibility_thoughts/)
+- [New ADA Law Forces Professors to Take Down Their Notes](https://www.reddit.com/r/math/comments/1ryh7md/new_ada_law_forces_professors_to_take_down_their/)
 
 There's a big risk these requirements *degrade* our current instructional materials for students and push us further into just using big publisher materials rather than bespoke content which uses our unique expertise. To quote a commonn response:
 
 > Instructors at my school are responding to this largely by just not posting notes anymore. One writes all of his notes and mark down and then posts them, which seems like a lot of work.
 
-My hope is the tools get up to speed so that going forward, it is a smooth process to make new materials compliant and better for students. If you have built your own accessible LaTeX workflows, conversion pipelines, or public teaching materials, I would be glad to hear about them. This is a fast-moving area, and community-shared examples are often the most useful way to learn what is working in practice. 
+My hope is the tools get up to speed so that going forward, it is a smooth process to make new materials compliant and better for students. If you have built your own accessible LaTeX tools, conversion pipelines, or public teaching materials, I would be glad to hear about them. This is a rapidly changing topics, and community-shared examples are often the most useful way to learn what is working in practice. 
 
-Special thanks to Dr. Hunter Lehmann, Director of Undergraduate Advising for the School of Math at Georgia Tech. Several of the most useful resources collected here were prepared by him, whose guides and workshop materials have been especially helpful for understanding the current state of accessible LaTeX workflows.
+Special thanks to Dr. Hunter Lehmann, Director of Undergraduate Advising for the School of Math at Georgia Tech. Several of the most useful resources collected here were prepared by him, whose guides and workshop materials have been especially helpful for understanding the current state of accessible LaTeX.
 
 ---
