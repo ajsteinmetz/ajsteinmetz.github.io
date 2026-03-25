@@ -109,7 +109,13 @@ There's a big risk these requirements *degrade* our current instructional materi
 
 > Instructors at my school are responding to this largely by just not posting notes anymore. One writes all of his notes and mark down and then posts them, which seems like a lot of work.
 
-My hope is the tools get up to speed so that going forward, it is a smooth process to make new materials compliant and better for students. If you have built your own accessible LaTeX tools, conversion pipelines, or public teaching materials, I would be glad to hear about them. This is a rapidly changing topics, and community-shared examples are often the most useful way to learn what is working in practice. 
+> The only reasonable course of action for many of us is to remove materials. We do not have time or technical capability to do anything else on the timeframe required.
+
+> A lot of people in my department are just going to stop uploading things. 🤷🏻‍♂️
+
+I can't say I blame them.
+
+My lingering hope is that the tools get up to speed so that going forward, it is a smooth process to make new materials compliant and better for students. If you have built your own accessible LaTeX tools, conversion pipelines, or public teaching materials, I would be glad to hear about them. Community-shared examples are often the most useful way to learn what is working in practice. 
 
 Special thanks to Dr. Hunter Lehmann, Director of Undergraduate Advising for the School of Math at Georgia Tech. Several of the most useful resources collected here were prepared by him, whose guides and workshop materials have been especially helpful for understanding the current state of accessible LaTeX.
 
