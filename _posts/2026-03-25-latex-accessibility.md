@@ -11,10 +11,10 @@ tags: latex accesibility education
 
 On April 26, 2026, we are required as educators to comply with the [new ADA Title II standards](https://digitalaccess.gatech.edu/title-ii/requirements) which adhere to [Web Content Accessibility Guidelines (WCAG) 2.1 Level AA](https://www.w3.org/TR/WCAG21/). I regularly prepare mathematical and physics-heavy teaching materials using GitHub, Overleaf, and LaTeX. Because these documents often contain substantial mathematical notation, accessibility requires some extra care.
 
-From reviewing the current landscape, I think of the available options as falling into **two broad branches**:
+From reviewing the current landscape, I think of the available options as falling into two broad branches:
 
-1. **Make LaTeX-generated PDFs more accessible**, primarily through PDF tagging and related metadata.
-2. **Move away from PDF-first workflows** and instead render LaTeX source into more output-agnostic formats such as HTML, EPUB, web pages, or other digital-first formats.
+1. Make LaTeX-generated PDFs more accessible, primarily through PDF tagging and related metadata.
+2. Move away from PDF-first workflows and instead render LaTeX source into more output-agnostic formats such as HTML, EPUB, markdown web pages.
 
 This page collects resources I have found useful while exploring both paths and then I complain at the end -- which is only fitting.
 
@@ -93,8 +93,8 @@ I have also had some success using AI tools, including ChatGPT and Gemini, to he
 
 At the moment, I think both branches are worth tracking:
 
-- **Tagged PDF in LaTeX** is becoming increasingly practical and may fit best for documents that must remain close to traditional academic PDFs.
-- **Web-first / output-agnostic publishing** may ultimately be the more flexible and more accessible long-term strategy for teaching materials, especially for mathematics-heavy notes.
+- Tagged PDF in LaTeX is becoming increasingly practical and may fit best for documents that must remain close to traditional academic PDFs.
+- Web / output-agnostic publishing may ultimately be the more flexible and more accessible long-term strategy for teaching materials, especially for mathematics-heavy notes.
 
 Because this area is changing quickly, I expect many of the tools and recommendations above to improve over time. At the moment, none of these are a **silver bullet** approach and requires significant heavy-lifting from faculty often with limited direct institutional support. I'm mostly seeing lots of workshops and faculty-led resources being generated.
 
