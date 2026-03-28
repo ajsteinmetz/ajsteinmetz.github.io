@@ -2,7 +2,7 @@
 
 ### Andrew James Steinmetz, Ph.D.
 
-Updated Jan 2026 - [Download CV (PDF)](https://github.com/ajsteinmetz/cv-ajsteinmetz/raw/main/cv_ajsteinmetz.pdf)
+Updated Mar 2026 - [Download CV (PDF)](https://github.com/ajsteinmetz/cv-ajsteinmetz/raw/main/cv_ajsteinmetz.pdf)
 
 - **Email:** <a href="mailto:ajsteinmetz511@gmail.com">ajsteinmetz511@gmail.com</a>
 - **Website:** [https://ajsteinmetz.github.io/](https://ajsteinmetz.github.io/)
@@ -49,7 +49,7 @@ Updated Jan 2026 - [Download CV (PDF)](https://github.com/ajsteinmetz/cv-ajstein
 
 ### Publications
 
-Citations = 139; h-index = 7 ([Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ), Jan 2025). See also [INSPIRE-HEP](https://inspirehep.net/authors/1796313) and [arXiv](https://arxiv.org/a/steinmetz_a_1.html).
+Citations = 141; h-index = 7 ([Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ), Mar 2025). See also [INSPIRE-HEP](https://inspirehep.net/authors/1796313) and [arXiv](https://arxiv.org/a/steinmetz_a_1.html).
 
 #### Peer-Reviewed Journal Articles
 
@@ -72,8 +72,9 @@ Citations = 139; h-index = 7 ([Google Scholar](https://scholar.google.com/citati
 
 #### Institutional & Technical Reports
 
-1. **Steinmetz, A.** Status and Outlook of PHYS 381/382 — Methods in Experimental Physics I/II at ACT/HEBUT. Internal report (curricular and equipment proposal; $36,000), University of Arizona, Tucson, AZ, 2025.
-2. ATLAS Collaboration [coauthor: **Steinmetz A.**] Large Eta Task Force Report. ATL-UPGRADE-INT-2015-001, CERN, Geneva, Switzerland, 2015. [https://cds.cern.ch/record/2020591](https://cds.cern.ch/record/2020591).
+1. **Steinmetz, A.** Physics Degree Outcomes from OAE Survey Data, internal report (School of Physics), Georgia Institute of Technology, Atlanta, GA, 2026.
+2. **Steinmetz, A.** Status and Outlook of PHYS 381/382 — Methods in Experimental Physics I/II at ACT/HEBUT. Internal report (curricular and equipment proposal; $36,000), University of Arizona, Tucson, AZ, 2025.
+3. ATLAS Collaboration [coauthor: **Steinmetz A.**] Large Eta Task Force Report. ATL-UPGRADE-INT-2015-001, CERN, Geneva, Switzerland, 2015. [https://cds.cern.ch/record/2020591](https://cds.cern.ch/record/2020591).
 
 #### Works in Progress
 
@@ -114,16 +115,19 @@ In addition, I have closely collaborated on preparing research and academic talk
 
 **Key:** UA (University of Arizona), ACT (Arizona College of Technology, Hebei University of Technology), PCC (Pima Community College)
 
-| Course #   | Course Title                           | Delivery Method | # of Sections | # of Students | Institution | Semester       |
-|------------|----------------------------------------|-----------------|---------------|---------------|-------------|----------------|
-| PHYS 2212  | Principles of Physics II               | In-person       | 1             | 163           | GT          | Spring 2026    |
-| PHYS 371   | Quantum Theory                         | In-person       | 1             | 75            | UA/ACT      | Spring 2025    |
-| PHYS 381   | Methods in Exp. Physics I              | In-person       | 2             | 67            | UA/ACT      | Spring 2025    |
-| PHYS 321   | Theoretical Mechanics                  | In-person       | 2             | 139           | UA/ACT      | Fall 2024      |
-| PHYS 382   | Methods in Exp. Physics II<sup>f</sup> | In-person       | 2             | 46            | UA/ACT      | Fall 2024      |
-| ENGR 498A  | Senior Design/Capstone<sup>g</sup>     | In-person       | 1             | 43            | UA/ACT      | Fall 2024      |
-| PHYS 240   | Intro. Electricity & Magnetism         | In-person       | 3             | 203           | UA/ACT      | Spring 2024    |
-| PHYS 381   | Methods in Exp. Physics<sup>f</sup>    | In-person       | 2             | 50            | UA/ACT      | Spring 2024    | 
+| Course #    | Course Title                           | Delivery Method | # of Sections | # of Students | Institution | Semester       |
+|-------------|----------------------------------------|-----------------|---------------|---------------|-------------|----------------|
+| PHYS 4321/2 | Advanced Lab I/II                      | In-person       | 2             | TBD           | GT          | Fall 2026      |
+| PHYS 4604   | Professional Development               | In-person       | 1             | TBD           | GT          | Fall 2026      |
+| GT 1000     | First-Year Seminar                     | In-person       | 1             | TBD           | GT          | Fall 2026      |
+| PHYS 2212   | Principles of Physics II               | In-person       | 1             | 163           | GT          | Spring 2026    |
+| PHYS 371    | Quantum Theory                         | In-person       | 1             | 75            | UA/ACT      | Spring 2025    |
+| PHYS 381    | Methods in Exp. Physics I              | In-person       | 2             | 67            | UA/ACT      | Spring 2025    |
+| PHYS 321    | Theoretical Mechanics                  | In-person       | 2             | 139           | UA/ACT      | Fall 2024      |
+| PHYS 382    | Methods in Exp. Physics II<sup>f</sup> | In-person       | 2             | 46            | UA/ACT      | Fall 2024      |
+| ENGR 498A   | Senior Design/Capstone<sup>g</sup>     | In-person       | 1             | 43            | UA/ACT      | Fall 2024      |
+| PHYS 240    | Intro. Electricity & Magnetism         | In-person       | 3             | 203           | UA/ACT      | Spring 2024    |
+| PHYS 381    | Methods in Exp. Physics<sup>f</sup>    | In-person       | 2             | 50            | UA/ACT      | Spring 2024    | 
 
 <ol type="a" start="5">
   <li>Recent student course evaluations available upon request.</li>
@@ -137,6 +141,7 @@ In addition, I have closely collaborated on preparing research and academic talk
 ### Academic Service & Associations
 
 #### Institutional Committees & Appointments
+- Member, Academic Faculty Advisory Council, College of Science, GT (2026-present)
 - Member, Academic Program Committee, School of Physics, GT (2026-present)
 - Member, Undergraduate Advising and Assessment Committee, School of Physics, GT (2026-present)
 - Associate, Designated Campus Colleague (DCC), Department of Physics, UA (2025-present)
@@ -156,9 +161,10 @@ In addition, I have closely collaborated on preparing research and academic talk
 - Sealed Source Protection, UA (2018)
 
 #### Public Outreach
-1. Steinmetz, A. (2024, November 7). Proving that SU(2) is compact (and other group theory bits). [Link](https://ajsteinmetz.github.io/mathematics/2024/11/07/su2-compactness.html)
-2. Steinmetz, A. (2024, October 17). Einstein's mass-energy and kinetic energy. [Link](https://ajsteinmetz.github.io/physics/2024/10/17/kinetic-energy-coefficient.html)
-3. Steinmetz, A. (2024, October 16). Can we ever detect the graviton? [Link](https://ajsteinmetz.github.io/physics/2024/10/16/graviton-detector.html)
+1. Steinmetz, A. (2026, March 25). Accessibility for LaTeX-Based Teaching. [Link](https://ajsteinmetz.github.io/mathematics/2026/03/25/latex-accessibility.html)
+2. Steinmetz, A. (2024, November 7). Proving that SU(2) is compact (and other group theory bits). [Link](https://ajsteinmetz.github.io/mathematics/2024/11/07/su2-compactness.html)
+3. Steinmetz, A. (2024, October 17). Einstein's mass-energy and kinetic energy. [Link](https://ajsteinmetz.github.io/physics/2024/10/17/kinetic-energy-coefficient.html)
+4. Steinmetz, A. (2024, October 16). Can we ever detect the graviton? [Link](https://ajsteinmetz.github.io/physics/2024/10/16/graviton-detector.html)
 
 ### External & Institutional Press
 
