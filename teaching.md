@@ -10,6 +10,9 @@
 
 | Course #   | Course Title                      | Delivery Method | # of Sections | # of Students | Semester       |
 |------------|-----------------------------------|-----------------|---------------|---------------|----------------|
+| PHYS 4321/2 | Advanced Lab I/II                | In-person       | 2             | TBD           | Fall   2026    |
+| PHYS 4604   | Professional Development         | In-person       | 1             | TBD           | Fall   2026    |
+| GT 1000     | First-Year Seminar               | In-person       | 1             | TBD           | Fall   2026    |
 | PHYS 2212  | Principles of Physics II          | In-person       | 1             | 163           | Spring 2026    |
 
 ### Teaching Record (as Instructor-of-Record)\* - UA/ACT
