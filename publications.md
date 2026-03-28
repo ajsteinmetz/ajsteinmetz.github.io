@@ -1,4 +1,4 @@
-## Publications 📚
+## Pubs 📚
 
 <style>
   /* Reusable container for badges */
