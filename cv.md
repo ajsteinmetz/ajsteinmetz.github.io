@@ -78,10 +78,10 @@ Citations = 141; h-index = 7 ([Google Scholar](https://scholar.google.com/citati
 
 #### Works in Progress
 
-1. **Steinmetz, A.**, Evans, S., Formanek, M., Grayson, C., Labun, L., Price, W., Rafelski, J. Strong fields in classical and quantum physics. (in preparation, 2025).
-2. **Steinmetz, A.**, Rafelski, J. Magnetized primordial heavy-quark plasma. (in preparation, 2025).
-3. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Electromagnetic field forcing of dynamic CP-violation in lepton sector. (in preparation, 2025).
-4. Evans, S., **Steinmetz, A.** Anomalous magnetic moment in the QCD vacuum. (in preparation, 2025).
+1. **Steinmetz, A.**, Evans, S., Formanek, M., Grayson, C., Labun, L., Price, W., Rafelski, J. Strong fields in classical and quantum physics. (in preparation, 2026).
+2. **Steinmetz, A.**, Rafelski, J. Magnetized primordial heavy-quark plasma. (in preparation, 2026).
+3. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Electromagnetic field forcing of dynamic CP-violation in lepton sector. (in preparation, 2026).
+4. Evans, S., **Steinmetz, A.** Anomalous magnetic moment in the QCD vacuum. (in preparation, 2026).
 
 ### Conference Presentations & Talks
 
