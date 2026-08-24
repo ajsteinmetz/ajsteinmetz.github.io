@@ -14,7 +14,7 @@ Hi, I’m **Dr. Andrew James Steinmetz!** Welcome to my personal website where I
   <bsky-embed
     username="ajsteinmetz.com"
     search="#Science"
-    mode="dark"
+    mode="light"
     limit="3"
   >
 </bsky-embed>
