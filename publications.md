@@ -212,6 +212,21 @@
   <tbody>
     <tr>
       <td>
+        Rafelski, J., <strong><a href="https://github.com/ajsteinmetz/fusion-insights">Steinmetz, A.</a></strong> Science of Nuclear Fusion: Insights and Ideas. Submitted to <em>Particles</em> (2026). <a href="https://doi.org/10.48550/arXiv.2609.01366">10.48550/arXiv.2609.01366</a>
+      </td>
+      <td>
+        <div class="badge-box">
+          <span class="__dimensions_badge_embed__ small-dimensions-badge" data-doi="10.48550/arXiv.2609.01366"></span>
+        </div>
+      </td>
+      <td>
+        <div class="badge-box">
+          <div class="altmetric-embed donut-badge" data-doi="10.48550/arXiv.2609.01366"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
         Rafelski, J., Birrell, J., Grayson, C., <strong><a href="https://github.com/ajsteinmetz/thesis-collab-project">Steinmetz, A.</a></strong>, Yang, C. T. Quarks to Cosmos: Particles and Plasma in Cosmological evolution. <em>Eur. Phys. J. Spec. Top.</em> 234, 1125–1329 (2025). <a href="https://doi.org/10.1140/epjs/s11734-025-01470-w">10.1140/epjs/s11734-025-01470-w</a>
       </td>
       <td>
