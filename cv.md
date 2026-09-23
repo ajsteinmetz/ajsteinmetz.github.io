@@ -32,7 +32,7 @@ Updated Sep 2026 - [Download CV (PDF)](https://github.com/ajsteinmetz/cv-ajstein
 <ol type="a" start="2">
   <li>Graduate Teaching Assistant, Dept. of Physics, Dept. of Chem. & Biochem., University of Arizona (2017-2023)</li>
   <li>Graduate Research Assistant, Dept. of Physics, University of Arizona (2015-2017)</li>
-  <li>Research Technician (postbaccalaureate), Dept. of Physics, University of Arizona (2014)</li>
+  <li>Research Technician (postbaccalaureate), ATLAS Collaboration, Dept. of Physics, University of Arizona (2014)</li>
 </ol>
 
 ### Research Interests
