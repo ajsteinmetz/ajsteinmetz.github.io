@@ -4,9 +4,11 @@ Hi, I’m **Dr. Andrew James Steinmetz!** Welcome to my personal website where I
 
 ### Recent Publications
 
-* Rafelski, J., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/fusion-insights) Science of Nuclear Fusion: Insights and Ideas. Submitted to <i>Particles</i> (2026). [10.48550/arXiv.2609.01366](https://doi.org/10.48550/arXiv.2609.01366)
-* Rafelski, J., Birrell, J., Grayson, C., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-collab-project), Yang, C. T. Quarks to Cosmos: Particles and plasma in cosmological evolution. <i>Eur. Phys. J. Spec. Top.</i> 234, 1125&ndash;1329 (2025). [10.1140/epjs/s11734-025-01470-w](https://doi.org/10.1140/epjs/s11734-025-01470-w)
-* 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/short-note-qgp), Rafelski, J. Short note on spin magnetization in QGP. <i>Eur. Phys. J. Spec. Top.</i> 234, 2919&ndash;2929 (2025). [10.1140/epjs/s11734-025-01625-9](https://doi.org/10.1140/epjs/s11734-025-01625-9)
+<!-- BEGIN GENERATED: recent-publications -->
+* Rafelski, J., **Steinmetz, A.** Science of Nuclear Fusion: Insights and Ideas. Submitted to *Particles* (2026). [arXiv:2609.01366](https://arxiv.org/abs/2609.01366). [github:fusion-insights](https://github.com/ajsteinmetz/fusion-insights).
+* **Steinmetz, A.**, Rafelski, J. Short note on spin magnetization in QGP. *Eur. Phys. J. Spec. Top.* 234, 2919&ndash;2929 (2025). [10.1140/epjs/s11734-025-01625-9](https://doi.org/10.1140/epjs/s11734-025-01625-9). [arXiv:2502.05052](https://arxiv.org/abs/2502.05052). [github:short-note-qgp](https://github.com/ajsteinmetz/short-note-qgp).
+* Rafelski, J., Birrell, J., Grayson, C., **Steinmetz, A.**, Yang, C. T. Quarks to Cosmos: Particles and plasma in cosmological evolution. *Eur. Phys. J. Spec. Top.* 234, 1125&ndash;1329 (2025). [10.1140/epjs/s11734-025-01470-w](https://doi.org/10.1140/epjs/s11734-025-01470-w). [arXiv:2409.19031](https://arxiv.org/abs/2409.19031). [github:thesis-collab-project](https://github.com/ajsteinmetz/thesis-collab-project).
+<!-- END GENERATED: recent-publications -->
 
 ### Bluesky Feed
 
