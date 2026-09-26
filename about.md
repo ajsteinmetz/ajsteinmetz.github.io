@@ -21,5 +21,5 @@ If time is fully merged with spatial dimensions as Special Relativity suggests, 
     alt="ORCID iD icon"/>
   0000-0001-5474-2649
 </a> 🔗 [INSPIRE-HEP](https://inspirehep.net/authors/1796313) 🔗 [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ) 🔗 [arXiv](https://arxiv.org/a/steinmetz_a_1.html) 🔗 [GitHub](https://github.com/ajsteinmetz)
-- 🎉 **Social & Fun:** [BlueSky](https://bsky.app/profile/ajsteinmetz.com) 🔗 [AstroBin](https://www.astrobin.com/users/djinn/) 🔗 [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect) 🔗 [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/)
+- 🎉 **Social & Fun:** [Bluesky](https://bsky.app/profile/ajsteinmetz.com) 🔗 [AstroBin](https://www.astrobin.com/users/djinn/) 🔗 [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect) 🔗 [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/)
 - **My Erdős number is 5.** [(Source)](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017)

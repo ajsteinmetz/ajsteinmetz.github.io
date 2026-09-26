@@ -6,7 +6,7 @@
 
 \** First time offered at this institution. Designed, developed, and delivered curriculum.
 
-### Teaching Record (as Instructor-of-Record) - GT
+### Teaching Record (as Instructor-of-Record)\* - GT
 
 | Course #   | Course Title                      | Delivery Method | # of Sections | # of Students | Semester       |
 |------------|-----------------------------------|-----------------|---------------|---------------|----------------|
@@ -15,7 +15,7 @@
 | GT 1000     | First-Year Seminar               | In-person       | 1             | 15            | Fall   2026    |
 | PHYS 2212  | Principles of Physics II          | In-person       | 1             | 163           | Spring 2026    |
 
-### Teaching Record (as Instructor-of-Record)\* - UA/ACT
+### Teaching Record (as Instructor-of-Record) - UA/ACT
 
 | Course #   | Course Title                      | Delivery Method | # of Sections | # of Students | Semester       |
 |------------|-----------------------------------|-----------------|---------------|---------------|----------------|
@@ -35,7 +35,7 @@
 | AST 101IN  | The Solar System                 | Online          | 1             | 17             | Spring 2023 |
 | PHY 122IN  | Intro. Physics II                | Virtual         | 1             | 26             | Spring 2023 |
 | AST 101IN  | The Solar System                 | Online          | 1             | 15             | Fall 2022   |
-| PHYS 216IN | Intro. Electricity & Magnetism   | In-person       | 1             | 18             | Summer 2022 |
+| PHY 216IN  | Intro. Electricity & Magnetism   | In-person       | 1             | 18             | Summer 2022 |
 | AST 101IN  | The Solar System                 | Virtual         | 1             | 17             | Fall 2021   |
 | PHY 122IN  | Intro. Physics II                | Virtual         | 1             | 28             | Fall 2021   |
 | AST 101IN  | The Solar System                 | Virtual         | 1             | 18             | Spring 2021 |
@@ -54,7 +54,7 @@
 | PHYS 181/2 | Intro. Physics Lab I/II            | Online          | 2             | Est. 40       | Spring 2020 |
 | CHEM 151   | Gen. Chemistry I Lab               | In-person       | 2             | 47            | Fall 2019   |
 | PHYS 382   | Methods in Exp. Physics II         | In-person       | 2             | 13            | Spring 2019 |
-| PHYS 382   | Methods in Exp. Physics I          | In-person       | 2             | 28            | Spring 2019 |
+| PHYS 381   | Methods in Exp. Physics I          | In-person       | 2             | 28            | Spring 2019 |
 | PHYS 381   | Methods in Exp. Physics I          | In-person       | 1             | 19            | Fall 2018   |
 | PHYS 382   | Methods in Exp. Physics II         | In-person       | 2             | 17            | Spring 2018 |
 | PHYS 381   | Methods in Exp. Physics I          | In-person       | 2             | 13            | Spring 2018 |
