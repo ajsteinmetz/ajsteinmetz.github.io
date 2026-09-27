@@ -1,0 +1,10 @@
+# Outputs rendered into this repo by data-ajsteinmetz/build.py (see that repo's README).
+# Jekyll ignores this underscore folder, so nothing here is published.
+public: true
+
+outputs:
+  - {template: cv.md, output: cv.md}
+  - {template: publications.md, output: publications.md}
+  - {template: talks.md, output: talks.md}
+  - {template: teaching.md, output: teaching.md}
+  - {output: index.md, blocks: true}
