@@ -49,6 +49,21 @@
   <tbody>
     <tr>
       <td>
+        Rafelski, J., <strong>Steinmetz, A.</strong> Science of Nuclear Fusion: Insights and Ideas. <em>Particles</em>, in press (2026). <a href="https://arxiv.org/abs/2609.01366">arXiv:2609.01366</a>. <a href="https://github.com/ajsteinmetz/fusion-insights">github:fusion-insights</a>.
+      </td>
+      <td>
+        <div class="badge-box">
+          <span class="__dimensions_badge_embed__ small-dimensions-badge" data-doi="10.48550/arXiv.2609.01366"></span>
+        </div>
+      </td>
+      <td>
+        <div class="badge-box">
+          <div class="altmetric-embed donut-badge" data-doi="10.48550/arXiv.2609.01366"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <strong>Steinmetz, A.</strong>, Rafelski, J. Short note on spin magnetization in QGP. <em>Eur. Phys. J. Spec. Top.</em> 234, 2919&ndash;2929 (2025). <a href="https://doi.org/10.1140/epjs/s11734-025-01625-9">10.1140/epjs/s11734-025-01625-9</a>. <a href="https://arxiv.org/abs/2502.05052">arXiv:2502.05052</a>. <a href="https://github.com/ajsteinmetz/short-note-qgp">github:short-note-qgp</a>.
       </td>
       <td>
@@ -210,21 +225,6 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>
-        Rafelski, J., <strong>Steinmetz, A.</strong> Science of Nuclear Fusion: Insights and Ideas. Submitted to <em>Particles</em> (2026). <a href="https://arxiv.org/abs/2609.01366">arXiv:2609.01366</a>. <a href="https://github.com/ajsteinmetz/fusion-insights">github:fusion-insights</a>.
-      </td>
-      <td>
-        <div class="badge-box">
-          <span class="__dimensions_badge_embed__ small-dimensions-badge" data-doi="10.48550/arXiv.2609.01366"></span>
-        </div>
-      </td>
-      <td>
-        <div class="badge-box">
-          <div class="altmetric-embed donut-badge" data-doi="10.48550/arXiv.2609.01366"></div>
-        </div>
-      </td>
-    </tr>
     <tr>
       <td>
         Rafelski, J., Birrell, J., Grayson, C., <strong>Steinmetz, A.</strong>, Yang, C. T. Quarks to Cosmos: Particles and plasma in cosmological evolution. <em>Eur. Phys. J. Spec. Top.</em> 234, 1125&ndash;1329 (2025). <a href="https://doi.org/10.1140/epjs/s11734-025-01470-w">10.1140/epjs/s11734-025-01470-w</a>. <a href="https://arxiv.org/abs/2409.19031">arXiv:2409.19031</a>. <a href="https://github.com/ajsteinmetz/thesis-collab-project">github:thesis-collab-project</a>.
