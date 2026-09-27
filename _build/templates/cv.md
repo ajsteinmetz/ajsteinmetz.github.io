@@ -65,7 +65,7 @@ Citations = << profile.metrics.citations >>; h-index = << profile.metrics.h_inde
 
 ### Grants & Awards
 
-<% for a in awards %>
+<% for a in awards_all %>
 << loop.index >>. << r.award(a) >>
 <% endfor %>
 

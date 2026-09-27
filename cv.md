@@ -108,8 +108,9 @@ In addition, I have closely collaborated on preparing research and academic talk
 
 ### Grants & Awards
 
-1. 2023 Young Researcher Meeting Grant, European Physical Journal (EPJ), Springer-Verlag (PP2023)
-2. 2023 Fanfare Graduate Travel Award, University of Arizona (PP2023, ELI-Beamlines)
+1. Team member (lab design advisor); PI: Sell, P. Creating an Introductory Astronomy Course. Provost Teaching and Learning Initiative Grant, Georgia Institute of Technology, $21,250 (2026&ndash;2027).
+2. Young Researcher Meeting Grant, European Physical Journal (EPJ), Springer-Verlag, travel to *Margaret Island Symposium on Particles & Plasmas (PP2023)*, Budapest, Hungary (2023).
+3. Fanfare Graduate Travel Award, University of Arizona, travel to *Margaret Island Symposium on Particles & Plasmas (PP2023)*, Budapest, Hungary, and *ELI-Beamlines Strong Fields Frontiers*, Prague, Czech Republic (2023).
 
 ### Teaching Experience (as Instructor-of-Record)<sup>e</sup>
 
