@@ -74,13 +74,13 @@ Citations = 144; h-index = 8 ([Google Scholar](https://scholar.google.com/citati
 
 #### Institutional & Technical Reports
 
-1. **Steinmetz, A.** Physics Degree Outcomes from OAE Survey Data. Internal report (School of Physics), Georgia Institute of Technology, Atlanta, GA, 2026.
+1. **Steinmetz, A.** Career and Education Outcomes for Georgia Tech Physics Graduates. Internal report (School of Physics), Georgia Institute of Technology, Atlanta, GA, 2026.
 2. **Steinmetz, A.** Status and Outlook of PHYS 381/382: Methods in Experimental Physics I/II at ACT/HEBUT. Internal report (curricular and equipment proposal; $36,000), University of Arizona, Tucson, AZ, 2025.
 3. ATLAS Collaboration (coauthor: **Steinmetz, A.**). Large Eta Task Force Report. ATL-UPGRADE-INT-2015-001, CERN, Geneva, Switzerland, 2015. [https://cds.cern.ch/record/2020591](https://cds.cern.ch/record/2020591).
 
 #### Works in Progress
 
-1. **Steinmetz, A.**, Labun, L., Formanek, M., Grayson, C., Price, W., Yang, C. T., Rafelski, J. Strong fields in classical and quantum physics. In preparation (2026).
+1. **Steinmetz, A.**, Labun, L., Formanek, M., Price, W., Grayson, C., Yang, C. T., Rafelski, J. Particle Dynamics and Radiation in Strong Fields: Classical and Quantum Physics. In preparation (2026).
 
 ### Conference Presentations & Talks
 

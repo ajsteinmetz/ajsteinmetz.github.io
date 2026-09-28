@@ -283,7 +283,7 @@
   <tbody>
     <tr>
       <td>
-        <strong>Steinmetz, A.</strong> Physics Degree Outcomes from OAE Survey Data. Internal report (School of Physics), Georgia Institute of Technology, Atlanta, GA, 2026.
+        <strong>Steinmetz, A.</strong> Career and Education Outcomes for Georgia Tech Physics Graduates. Internal report (School of Physics), Georgia Institute of Technology, Atlanta, GA, 2026.
       </td>
     </tr>
     <tr>
