@@ -50,7 +50,7 @@ Updated Sep 2026 - [Download CV (PDF)](https://github.com/ajsteinmetz/cv-ajstein
 
 ### Publications
 
-Citations = 144; h-index = 8 ([Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ), Sep 2026). See also [INSPIRE-HEP](https://inspirehep.net/authors/1796313) and [arXiv](https://arxiv.org/a/steinmetz_a_1.html).
+Citations = 148; h-index = 8 ([Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ), Oct 2026). See also [INSPIRE-HEP](https://inspirehep.net/authors/1796313) and [arXiv](https://arxiv.org/a/steinmetz_a_1.html).
 
 #### Peer-Reviewed Journal Articles
 
