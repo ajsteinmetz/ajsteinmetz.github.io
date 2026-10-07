@@ -118,6 +118,7 @@ In addition, I have closely collaborated on preparing research and academic talk
 
 | Course #    | Course Title                             | Delivery Method | # of Sections | # of Students | Institution | Semester    |
 |-------------|------------------------------------------|-----------------|---------------|---------------|-------------|-------------|
+| PHYS 3209   | Electronics I                            | In-person       | 1             | TBD           | GT          | Spring 2027 |
 | PHYS 4321/2 | Advanced Lab I/II                        | In-person       | 2             | 17            | GT          | Fall 2026   |
 | PHYS 4604   | Professional Development                 | In-person       | 1             | 60            | GT          | Fall 2026   |
 | GT 1000     | First-Year Seminar                       | In-person       | 1             | 15            | GT          | Fall 2026   |
@@ -143,6 +144,7 @@ In addition, I have closely collaborated on preparing research and academic talk
 ### Academic Service & Associations
 
 #### Institutional Committees & Appointments
+- Mentor, Academic Professionals and Lecturers (APL) Mentoring Network, Office of Faculty Professional Development, GT (2026&ndash;present)
 - Member, Academic Faculty Advisory Council (AFAC), College of Science, GT (2026&ndash;present)
 - Member, Academic Program Committee, School of Physics, GT (2026&ndash;present)
 - Member, Undergraduate Advising and Assessment Committee, School of Physics, GT (2026&ndash;present)

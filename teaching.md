@@ -6,6 +6,7 @@
 
 | Course #    | Course Title             | Delivery Method | # of Sections | # of Students | Semester    |
 |-------------|--------------------------|-----------------|---------------|---------------|-------------|
+| PHYS 3209   | Electronics I            | In-person       | 1             | TBD           | Spring 2027 |
 | PHYS 4321/2 | Advanced Lab I/II        | In-person       | 2             | 17            | Fall 2026   |
 | PHYS 4604   | Professional Development | In-person       | 1             | 60            | Fall 2026   |
 | GT 1000     | First-Year Seminar       | In-person       | 1             | 15            | Fall 2026   |
