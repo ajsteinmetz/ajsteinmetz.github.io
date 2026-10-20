@@ -49,7 +49,7 @@
   <tbody>
     <tr>
       <td>
-        Rafelski, J., <strong>Steinmetz, A.</strong> Science of Nuclear Fusion: Insights and Ideas. <em>Particles</em> 9, 94 (2026). <a href="https://doi.org/10.3390/particles9040094">10.3390/particles9040094</a>. <a href="https://arxiv.org/abs/2609.01366">arXiv:2609.01366</a>. <a href="https://github.com/ajsteinmetz/fusion-insights">github:fusion-insights</a>.
+        Rafelski, J., <strong>Steinmetz, A. J.</strong> Science of Nuclear Fusion: Insights and Ideas. <em>Particles</em> 9, 94 (2026). <a href="https://doi.org/10.3390/particles9040094">10.3390/particles9040094</a>. <a href="https://arxiv.org/abs/2609.01366">arXiv:2609.01366</a>. <a href="https://github.com/ajsteinmetz/fusion-insights">github:fusion-insights</a>.
       </td>
       <td>
         <div class="badge-box">
