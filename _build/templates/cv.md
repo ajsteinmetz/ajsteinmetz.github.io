@@ -41,7 +41,6 @@ Updated << r.mon_year(profile.updated) >> - [Download CV (PDF)](<< profile.cv_pd
 - **Committee:** <% for c in diss.committee %>Prof. << r.esc(c.name) >> (<< c.role >>)<< ", " if not loop.last >><% endfor %>
 
 - **Identifiers:** << r.pub_ids(diss) | join(', ') >>
-- **Presentation:** << r.ident(diss.presentation_doi, 'https://doi.org/' ~ diss.presentation_doi) >>
 
 ### Publications
 

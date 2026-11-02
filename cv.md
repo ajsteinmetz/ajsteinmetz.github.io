@@ -46,7 +46,6 @@ Updated Sep 2026 - [Download CV (PDF)](https://github.com/ajsteinmetz/cv-ajstein
 - **Title:** Modern Topics in Relativistic Spin Dynamics and Magnetism
 - **Committee:** Prof. Johann Rafelski (Chair), Prof. Shufang Su (Member), Prof. John Rutherfoord (Member), Prof. Stefan Meinel (Member), Prof. Sean Fleming (Member)
 - **Identifiers:** [hdl:10150/670301](http://hdl.handle.net/10150/670301), [arXiv:2310.07193](https://arxiv.org/abs/2310.07193), [github:thesis-ajsteinmetz](https://github.com/ajsteinmetz/thesis-ajsteinmetz)
-- **Presentation:** [10.5281/zenodo.23873357](https://doi.org/10.5281/zenodo.23873357)
 
 ### Publications
 
@@ -89,10 +88,11 @@ Citations = 148; h-index = 8 ([Google Scholar](https://scholar.google.com/citati
 1. **Steinmetz, A.** Impact of AI on Education and Professional Careers. *GRIT*, Tampa, FL, October 16, 2025. Invited talk (honorarium). [10.13140/RG.2.2.28318.60486](https://doi.org/10.13140/RG.2.2.28318.60486).
 2. **Steinmetz, A.** Physics Lab, Journal Club, and AI Tools. *Cross College Faculty Forum (CCFF)*, Arizona College of Technology, Hebei University of Technology, Tianjin, China, April 11, 2025.
 3. **Steinmetz, A.** UA-HEBUT Pedagogical Adventures. *Cross College Faculty Forum (CCFF)*, Arizona College of Technology, Hebei University of Technology, Tianjin, China, November 15, 2024.
-4. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Primordial Cosmic Magnetism. *SMT 30th Anniversary Steward Observatory Symposium*, University of Arizona, Tucson, AZ, September 22, 2023. [10.13140/RG.2.2.19213.24806](https://doi.org/10.13140/RG.2.2.19213.24806).
-5. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Magnetism in the Cosmic Plasma Epoch. *ELI-Beamlines Strong Fields Frontiers*, The Extreme Light Infrastructure ERIC, Prague, Czech Republic, June 13, 2023. [10.13140/RG.2.2.32635.02087](https://doi.org/10.13140/RG.2.2.32635.02087).
-6. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Magnetism in the Cosmic Plasma Epoch. *Margaret Island Symposium on Particles & Plasmas (PP2023)*, HUN-REN Wigner Research Centre for Physics, Budapest, Hungary, June 8, 2023. [10.13140/RG.2.2.29279.57762](https://doi.org/10.13140/RG.2.2.29279.57762).
-7. **Steinmetz, A.** Relativistic Two-Body Quantum Mechanics. University of Arizona, Tucson, AZ, March 2017.
+4. **Steinmetz, A.** Modern topics in relativistic spin dynamics and magnetism. *Ph.D. Dissertation Defense*, University of Arizona, Tucson, AZ, October 27, 2023. [10.5281/zenodo.23873357](https://doi.org/10.5281/zenodo.23873357).
+5. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Primordial Cosmic Magnetism. *SMT 30th Anniversary Steward Observatory Symposium*, University of Arizona, Tucson, AZ, September 22, 2023. [10.13140/RG.2.2.19213.24806](https://doi.org/10.13140/RG.2.2.19213.24806).
+6. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Magnetism in the Cosmic Plasma Epoch. *ELI-Beamlines Strong Fields Frontiers*, The Extreme Light Infrastructure ERIC, Prague, Czech Republic, June 13, 2023. [10.13140/RG.2.2.32635.02087](https://doi.org/10.13140/RG.2.2.32635.02087).
+7. **Steinmetz, A.**, Yang, C. T., Rafelski, J. Magnetism in the Cosmic Plasma Epoch. *Margaret Island Symposium on Particles & Plasmas (PP2023)*, HUN-REN Wigner Research Centre for Physics, Budapest, Hungary, June 8, 2023. [10.13140/RG.2.2.29279.57762](https://doi.org/10.13140/RG.2.2.29279.57762).
+8. **Steinmetz, A.** Relativistic Two-Body Quantum Mechanics. University of Arizona, Tucson, AZ, March 2017.
 
 #### Talks Co-Prepared by Steinmetz, A. (Presented by Others)
 
