@@ -1,5 +1,5 @@
 <# website index.md: the three most recent publications (first entries of publications.yml, excluding reports/in-prep/dissertation) #>
-<% for p in pubs_all if p.type in ['journal', 'chapter'] %>
+<% for p in pubs_all if p.type in ['journal', 'chapter'] and p.get('status') != 'in-prep' %>
 <% if loop.index <= 3 %>
 * << r.cite(p) >>
 <% endif %>
