@@ -79,7 +79,7 @@ Citations = 152; h-index = 8 ([Google Scholar](https://scholar.google.com/citati
 
 #### Works in Progress
 
-1. **Steinmetz, A.**, Labun, L., Formanek, M., Price, W., Grayson, C., Rafelski, J. Particle Dynamics and Radiation in Strong Fields: Classical and Quantum Physics. In preparation for *Eur. Phys. J. C* (2026).
+1. **Steinmetz, A. J.**, Labun, L., Formanek, M. S., Price, W., Grayson, C., Rafelski, J. Particle Dynamics and Radiation in Strong Fields: Classical and Quantum Physics. In preparation for *Eur. Phys. J. C* (2026).
 
 ### Conference Presentations & Talks
 
